@@ -2,9 +2,10 @@
 layout: home
 title: The Saeed Lab
 homepage: true
-banner-1: "/assets/themes/lab/images/banner/pab-30min.png"
-banner-2: "/assets/themes/lab/images/banner/hsp104-30min.png"
-banner-3: "/assets/themes/lab/images/banner/yeast-dic.png"
+banner-1: "/assets/themes/lab/images/banner/image-1.jpg"
+banner-2: "/assets/themes/lab/images/banner/image-2.jpg"
+banner-3: "/assets/themes/lab/images/banner/image-3.png"
+Banner-4: "/assets/themes/lab/images/banner/image-4.png"
 ---
 The Parallel Computing and Data Science Lab (Saeed Lab) is a computational research lab based at Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida International University in Miami, Florida, led by Dr. Fahad Saeed. 
 
