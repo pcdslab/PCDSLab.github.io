@@ -76,9 +76,9 @@ I'm inspired by [Trevor Bedford]'s clean, functional [site][1]. I intend to copy
 	* Blog
 	* Protocols
 	* Misc
-		* About
-		* Join
-		* Contact
+	* About
+	* Join
+	* Contact
 
 Each of the major areas is structured like a blog. For example:
 
