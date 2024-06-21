@@ -1,64 +1,310 @@
----
-layout: default
-title: "Papers"
-description: "Research papers from the lab"
-group: navigation
-navorder: 3
----
-{% include JB/setup %}
-<div class="bigspacer"></div> 
-{% assign memberindex = 0 %}
-{% for paper in site.categories.papers %}
-  {% assign memberindex = memberindex | plus: 1 %}
-  {% assign colindex = memberindex | modulo: 3 %}
-  {% if colindex == 1 %} <!-- opening of a new row -->
-  <div class="row">
-  {% endif %}
-
-    <div class="col-md-4 paperbox">
-      {% if paper.embargo %}
-      <div class="media">
-          <img width=100 class="media-object pull-right" src="{{ paper.image }}"/>
-          <div class="media-body">
-            <div class="smallhead media-heading">
-            {{ paper.title }}
-            </div>
-            <p class="note">{{ paper.shortref }}</p>
-          </div>
-      </div>
-      {% elsif paper.preprint %}
-      <div class="media">
-        <a class="pull-right" href="{{ paper.url }}">
-          <img width=100 class="media-object" src="{{ paper.image }}">
-        </a>
-        <div class="media-body">
-            <div class="smallhead media-heading">
-            <a href="{{ paper.url }}" class="off">PREPRINT: {{ paper.title }}</a>
-            </div>
-            <p class="note">{{ paper.shortref }}</p>
-        </div>
-      </div>
-      {% else %}
-      <div class="media">
-        <a class="pull-right" href="{{ paper.url }}">
-          <img width=100 class="media-object" src="{{ paper.image }}">
-        </a>
-        <div class="media-body">
-            <div class="smallhead media-heading">
-            <a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
-            </div>
-            <p class="note">{{ paper.shortref }}</p>
-        </div>
-      </div>
-      {% endif %}
-    </div>
-  {% if colindex == 0 %} <!-- closing a row -->
-  </div><div class="bigspacer"></div>
-  {% endif %}
-{% endfor %}
-{% if colindex != 0 %} <!-- close last open row -->
-</div><div class="bigspacer"></div>
-{% endif %}
-
-
-<div class="bigspacer"></div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2487.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000; min-height: 16.0px}
+    span.s1 {font-kerning: none}
+    span.Apple-tab-span {white-space:pre}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">---</span></p>
+<p class="p1"><span class="s1">layout: default</span></p>
+<p class="p1"><span class="s1">title: "Papers"</span></p>
+<p class="p1"><span class="s1">description: "Publications from members of the lab"</span></p>
+<p class="p1"><span class="s1">group: navigation</span></p>
+<p class="p1"><span class="s1">navorder: 3</span></p>
+<p class="p1"><span class="s1">---</span></p>
+<p class="p1"><span class="s1">{% include JB/setup %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;div class="bigspacer"&gt;&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1">&lt;div class="bigtitle text-center"&gt;Publications&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1">&lt;div class="smallspacer"&gt;&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1">&lt;hr/&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;!-- First we do the preprints and papers in press --&gt;</span></p>
+<p class="p1"><span class="s1">{% assign preprints = "" | split: "" %}</span></p>
+<p class="p1"><span class="s1">{% assign in_press = "" | split: "" %}</span></p>
+<p class="p1"><span class="s1">{% assign other = "" | split: "" %}</span></p>
+<p class="p1"><span class="s1">{% for product in site.categories.papers %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% capture nowunix %}{{ 'now' | date: '%s' }}{% endcapture %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% capture posttime %}{{ product.date | date: '%s' }}{% endcapture %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% if product.is_published == false %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if product.tags contains "preprint" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% assign preprints = preprints | push: product %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% assign in_press = in_press | push: product %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% elsif posttime &gt; nowunix %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% assign in_press = in_press | push: product %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% assign other = other | push: product %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% endif %}</span></p>
+<p class="p1"><span class="s1">{% endfor %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% assign n_preprints = preprints | size %}</span></p>
+<p class="p1"><span class="s1">{% if n_preprints &gt; 0 %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;div class="title text-center"&gt;Preprints&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;div class="bigspacer"&gt;&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;table align="center"; width=1250px&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% tablerow product in preprints cols:2 %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if product.image %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% assign image = product.image %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% assign image = "/assets/images/placeholder.png" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="col-md-2.5 paperbox"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;div class="media" style="width:525px; height:140px"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;div class="media"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;a class="pull-left" href="{{ product.url }}"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;img width=100 class="media-object" src="{{ image }}" style="border:1px solid #021a40;"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;div class="media-body"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;div class="smallhead media-heading"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>{% if product.tags contains "chapter" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ product.url }}" class="off"&gt;[CHAPTER] {{ product.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>{% elsif product.tags contains "correspondence" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ product.url }}" class="off"&gt;[CORRESPONDENCE] {{ product.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ product.url }}" class="off"&gt;{{ product.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;div class="note"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;!-- This took a while, but it links the name of each author from the lab</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>to their page and keeps collaborators' names as strings --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% assign split_authors = product.authors | split: ", " %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% for author in split_authors %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% assign author_in_lab = false %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% for member in site.categories.team %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{% for science_name in member.science_names %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>{% if author == science_name %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                                </span>{% assign author_in_lab = true %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                                </span>&lt;a class="off" href="{{ member.url }}"&gt;{{ science_name }}&lt;/a&gt;,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% for collab in site.data.collaborators %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{% if author == collab.science_name %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>{% assign author_in_lab = true %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>&lt;a class="off" href="{{ collab.url }}"&gt;{{ collab.science_name }}&lt;/a&gt;,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% if author_in_lab == false %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{{ author }},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;span class="journal"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>{{ product.journal }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% if product.volume %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>{{ product.volume }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% if product.issue %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>({{ product.issue }})</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% if product.pages %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>:{{ product.pages }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>({{ product.year }}).</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="smallspacer"&gt;&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% endtablerow %}</span></p>
+<p class="p1"><span class="s1">&lt;/table&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if n_preprints &gt; 0 %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;hr/&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% assign n_in_press = in_press | size %}</span></p>
+<p class="p1"><span class="s1">{% if n_in_press &gt; 0 %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;div class="title text-center"&gt;In Press&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;div class="bigspacer"&gt;&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;table align="center"; width=1250px&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% tablerow product in in_press cols:2 %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if product.image %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% assign image = product.image %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% assign image = "/assets/images/placeholder.png" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="col-md-2.5 paperbox"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;div class="media" style="width:525px; height:140px"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;div class="media"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;a class="pull-left" href="{{ product.url }}"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;img width=100 class="media-object" src="{{ image }}" style="border:1px solid #021a40;"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;div class="media-body"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;div class="smallhead media-heading"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>{% if product.tags contains "chapter" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ product.url }}" class="off"&gt;[CHAPTER] {{ product.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>{% elsif product.tags contains "correspondence" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ product.url }}" class="off"&gt;[CORRESPONDENCE] {{ product.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;a href="{{ product.url }}" class="off"&gt;{{ product.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;div class="note"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;!-- This took a while, but it links the name of each author from the lab</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>to their page and keeps collaborators' names as strings --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% assign split_authors = product.authors | split: ", " %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% for author in split_authors %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% assign author_in_lab = false %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% for member in site.categories.team %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{% for science_name in member.science_names %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>{% if author == science_name %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                                </span>{% assign author_in_lab = true %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                                </span>&lt;a class="off" href="{{ member.url }}"&gt;{{ science_name }}&lt;/a&gt;,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% for collab in site.data.collaborators %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{% if author == collab.science_name %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>{% assign author_in_lab = true %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                            </span>&lt;a class="off" href="{{ collab.url }}"&gt;{{ collab.science_name }}&lt;/a&gt;,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% if author_in_lab == false %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                        </span>{{ author }},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                    </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;span class="journal"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>{{ product.journal }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% if product.volume %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>{{ product.volume }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% if product.issue %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>({{ product.issue }})</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% if product.pages %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>:{{ product.pages }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>({{ product.year }}).</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="smallspacer"&gt;&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% endtablerow %}</span></p>
+<p class="p1"><span class="s1">&lt;/table&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if n_in_press &gt; 0 %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;hr/&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% assign years = "" | split: "" %}</span></p>
+<p class="p1"><span class="s1">{% for product in other %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% assign years = years | push: product.year %}</span></p>
+<p class="p1"><span class="s1">{% endfor %}</span></p>
+<p class="p1"><span class="s1">{% assign years = years | uniq %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% for year in years %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;div class="title text-center"&gt;{{ year }}&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;div class="bigspacer"&gt;&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>{% assign year_products = "" | split: "" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>{% for product in other %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>{% if product.year == year %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>{% assign year_products = year_products | push: product %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>{% endfor %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;table align="center"; width=1250px&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>{% tablerow product in year_products cols:2 %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>{% if product.image %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>{% assign image = product.image %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-converted-space">  </span>{% assign image = "/assets/images/placeholder.png" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;div class="col-md-2.5 paperbox"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;div class="media" style="width:525px; height:140px"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;div class="media"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;a class="pull-left" href="{{ product.url }}"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;img width=100 class="media-object" src="{{ image }}" style="border:1px solid #021a40;"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;div class="media-body"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;div class="smallhead media-heading"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% if product.tags contains "chapter" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;a href="{{ product.url }}" class="off"&gt;[CHAPTER] {{ product.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% elsif product.tags contains "correspondence" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;a href="{{ product.url }}" class="off"&gt;[CORRESPONDENCE] {{ product.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;a href="{{ product.url }}" class="off"&gt;{{ product.title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>&lt;p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>&lt;div class="note"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;!-- This took a while, but it links the name of each author from the lab</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>to their page and keeps collaborators' names as strings --&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>{% assign split_authors = product.authors | split: ", " %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>{% for author in split_authors %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                      </span>{% assign author_in_lab = false %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                      </span>{% for member in site.categories.team %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                          </span>{% for science_name in member.science_names %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                              </span>{% if author == science_name %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                                  </span>{% assign author_in_lab = true %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                                  </span>&lt;a class="off" href="{{ member.url }}"&gt;{{ science_name }}&lt;/a&gt;,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                              </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                          </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                      </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                      </span>{% for collab in site.data.collaborators %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                          </span>{% if author == collab.science_name %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                              </span>{% assign author_in_lab = true %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                              </span>&lt;a class="off" href="{{ collab.url }}"&gt;{{ collab.science_name }}&lt;/a&gt;,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                          </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                      </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                      </span>{% if author_in_lab == false %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                          </span>{{ author }},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                      </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>{% endfor %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>&lt;span class="journal"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>  </span>{{ product.journal }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>{% if product.volume %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>  </span>{{ product.volume }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>{% if product.issue %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>  </span>({{ product.issue }})</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>{% if product.pages %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>  </span>:{{ product.pages }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span>({{ product.year }}).</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>  </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;div class="smallspacer"&gt;&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>{% endtablerow %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/table&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;div class="bigspacer"&gt;&lt;/div&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>{% if year != years[-1] %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;hr/&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>{% endif %}</span></p>
+<p class="p1"><span class="s1">{% endfor %}</span></p>
+</body>
+</html>
