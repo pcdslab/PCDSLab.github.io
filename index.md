@@ -1,6 +1,6 @@
 ---
 layout: home
-title: The Drummond Lab
+title: The Saeed Lab
 homepage: true
 banner-1: "/assets/themes/lab/images/banner/pab-30min.png"
 banner-2: "/assets/themes/lab/images/banner/hsp104-30min.png"
