@@ -13,19 +13,19 @@ repository: drummondlab/drummondlab.github.io
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Drummond Lab
-tagline: Molecular basis of cellular sensing and responses
+title : Saeed Lab
+tagline: Parallel Computing and Data Science Lab 
 institution:
-  url: http://www.uchicago.edu
-  name: The University of Chicago
+  url: http://cs.fiu.edu
+  name: Florida International University (FIU)
 department:
   url: http://bmb.uchospitals.edu
-  name: Biochemistry & Molecular Biology
+  name: Knight Foundation School of Computing and Information Sciences (KFSCIS)
 author :
-  name : D. Allan Drummond
-  email : dadrummond@uchicago.edu
-  github : dad
-  twitter : dallandrummond
+  name : Fahad Saeed 
+  email : fsaeed@fiu.edu
+  github : Prof-S
+  twitter : Prof_Saeed
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
