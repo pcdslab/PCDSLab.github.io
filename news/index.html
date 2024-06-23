@@ -1,71 +1,59 @@
 ---
 layout: default
-title: "News"
-description: "The Saeed Lab blog"
+title: News
+description: News from the NBC lab
 group: navigation
 navorder: 6
+category: news
 ---
 {% include JB/setup %}
 
+<div class="bigspacer"></div>
+<div class="bigtitle text-center">News from the Lab</div>
+<div class="smallspacer"></div>
+<hr/>
 
-<div class="pager">
-  
-	{% if paginator.previous_page %}
-		{% if paginator.previous_page == 1 %}
-		<a class="prev" href="/{{ page.category }}/">
-			<i class="fa fa-chevron-left fa-lg"></i>
-		</a>
-		{% else %}
-		<a class="prev" href="/{{ page.category }}/page{{ paginator.previous_page }}">
-			<i class="fa fa-chevron-left fa-lg"></i>
-		</a>
-		{% endif %}  		
-	{% endif %}  
-  
-	{% if paginator.next_page %}  
-	<a class="next" href="/{{ page.category }}/page{{ paginator.next_page }}">
-		<i class="fa fa-chevron-right fa-lg"></i>
-	</a>	
-	{% endif %}  	
-    
-</div>
+<p>
+We’re glad you’re interested in learning more about the Neuroinformatics and
+Brain Connectivity (NBC) Laboratory at Florida International University (FIU)!
+Our team likes to keep busy. Members from the lab participate in outreach events
+throughout the community, present research at scientific conferences and meetings,
+and much more. Here, you can learn about these activities, read about recent news
+and scroll through photos. Would you like to know more? Feel free to
+<a href="/contact#contact">contact us</a> with questions about
+the stories found here!
+</p>
 
-{% for post in site.categories.news %}
+<hr/>
 
-	{% for member in site.categories.team %}
-		{% if member.handle == post.author_handle %}
-			{% assign author = member %}
-		{% endif %}
-	{% endfor %}
+{% for post in site.categories.news limit: 10 %}
 
 	<div class="bigspacer"></div>
 	<div class="row">
 		<div class="col-md-3">
 			<div class="head">
-				{{ post.title }}
+				<a href="{{ post.url }}" class="off">{{ post.title }}</a>
 			</div>
 			<div class="smallnote">
 				{{ post.date | date_to_string }}
-				{% if author %}
-				by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
-				{% endif %}				
-			</div>	
-		</div>
-		<div class="col-md-8">		
-			<div style="height:5px;"></div>			
+			</div>
 			{% if post.image %}
-			<a href="{{ post.url }}"><img class="offset" src="{{ post.image }}"></a>
+			  <div class="bigspacer"></div>
+				<img class="offset" src="{{ post.image }}" style="width:225px">
 			{% endif %}
+		</div>
+		<div class="col-md-8">
+			<div style="height:5px;"></div>
 			<div class="post">
 				{{ post.content }}
 			</div>
-		</div>			
+		</div>
 		<div class="col-md-1"></div>
-	</div>		
+	</div>
 
 {% endfor %}
 
-<div class="bigspacer"></div>	
+<div class="bigspacer"></div>
 <div class="row">
 	<div class="col-md-12 text-center">
 		<a class="off" href="/{{ page.category }}/archive/">
