@@ -11,7 +11,7 @@ website:
 grant: NSF TT-2213951
 grant_url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213951&HistoricalAwards=false
 image: /assets/images/projects/2024-06-22-raw-EEG-signal.png
-tagline: '"Reference EEG Benchmark for Prediction of Epileptic Seizures"'
+tagline: 'Reference EEG Benchmark for Prediction of Epileptic Seizures'
 tags: [eeg]
 
 # Data and code
