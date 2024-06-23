@@ -10,9 +10,9 @@ type: dataset
 website: 
 grant: NSF TT-2213951
 grant_url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213951&HistoricalAwards=false
-image: /assets/images/projects/2016-09-25-abcd.png
-tagline: '"MLSPred-Bench: Reference EEG Benchmark for Prediction of Epileptic Seizures"'
-tags: [fmri]
+image: /assets/images/projects/2024-06-22-raw-EEG-signal.png
+tagline: '"Reference EEG Benchmark for Prediction of Epileptic Seizures"'
+tags: [eeg]
 
 # Data and code
 github: https://github.com/pcdslab/MLSPred-Bench
@@ -31,4 +31,4 @@ For each benchmark, MLSPred-Bench draws preictal segments of length from the SPH
 
 ## Participate
 
-Data collection for this study is complete.
+Data collection and curation for this study is complete.
