@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "MLSPred-Bench: Reference EEG Benchmark for Prediction of Epileptic Seizures"
-contributors: [prof-s,umairmy305]
+contributors: [Prof-S,umairmy305]
 handle: MLSPred-Bench
 status: collection
 type: dataset
