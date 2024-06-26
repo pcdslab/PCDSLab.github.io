@@ -10,7 +10,7 @@ issue:
 pages: 70
 is_published: true
 image: /assets/images/papers/front-neuroinform.png
-projects:
+projects: 
 tags: []
 
 # Text
