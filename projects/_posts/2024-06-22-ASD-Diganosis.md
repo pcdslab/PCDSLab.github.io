@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Machine-learning models for diagnosis and characterization of Neurodisorders using complex MRI data"
+title: "Machine-learning models for diagnosis and characterization of Autism Spectrum using complex MRI data"
 contributors: [Prof-S, falmuqhim]
 handle: ASD-Diagnosis
 status: analysis
@@ -11,7 +11,7 @@ website:
 grant: NIH R01GM134384-02
 grant_url: https://reporter.nih.gov/search/DsVUa9EvRUaRq2hPFXrpVA/project-details/10163880#details
 image: /assets/images/projects/2024-06-22-asd-diagnosis.png
-# tagline: "Reference EEG Benchmark for Prediction of Epileptic Seizures"
+tagline: "Self-learning models that can classify between autistic and neurotypical brains"
 tags: [asd, fmri]
 
 # Data and code
