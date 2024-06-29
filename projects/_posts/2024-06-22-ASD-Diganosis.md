@@ -3,7 +3,7 @@ layout: project
 title: "Machine-learning models for diagnosis and characterization of Neurodisorders using complex MRI data"
 contributors: [Prof-S, falmuqhim]
 handle: ASD-Diagnosis
-status: collection
+status: analysis
 type: Method Development
 
 # Optional
