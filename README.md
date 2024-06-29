@@ -1,12 +1,28 @@
-# The Drummond Lab main website
+# The Saeed Lab Webpage
 
 Our website, http://drummondlab.org, is a [GitHub Pages](https://pages.github.com/) site built with [Jekyll](https://jekyllrb.com/) and [Bootstrap](http://getboostrap.com), originally pulled from [Trevor Bedford's site](http://bedford.io) in 2015 and heavily modified.
 
-# Editing the site
+# How to add content and your self in the lab webpage
+Because the website code is hosted on GitHub, any lab member can contribute (and this is the intention) to the site. The general pattern will be: (1) Fork the repository to your own account; (2) Clone your fork to your laptop; (3) Make changes (e.g., add a new post to News or update your bio) to your local copy; (4) Test those changes by running a local version of the website; (5) If your changes don't break the website, commit your changes to your fork's remote; (6) Open a pull request from your fork to the main repository. Once the PR is open, the website administrator will review the changes and merge them into the main website.
 
-Here's a step-by-step guide to making modifications to the site, focused initially on adding typical content. You'll need a working Unix-like environment and working knowledge of Git, [Markdown](https://daringfireball.net/projects/markdown/syntax), HTML, and Unix commands. You'll need a working Ruby installation, with gems for Jekyll, GitHub Pages, and their dependencies installed. For now, if you need help getting set up, ask someone who's already up and running.
+You'll need a working Unix-like environment and working knowledge of Git, [Markdown](https://daringfireball.net/projects/markdown/syntax), HTML, and Unix commands.
 
-## Clone the repository
+If you are doing something new and more complex changes then you can follow the steps in #Complex Changes. For usual things follow the steps below.
+
+## Add your self as team member
+1. Fork a local copy at https://github.com/pcdslab/PCDSLab.github.io
+2. Change directory to \team\_posts
+3. Copy one of the .md files and rename it as follows: Date_when_you_joined_lab-LastName-FirstName.md
+4. Put in all the relevant information in the .md file above.
+5. Put in your picture in assets/images/team/Last_name_picture.jpg (make sure that the dimension of your picture is same as Dr. Saeed - this makes it a nice grid-like structure)
+6. Once you are done with this - commit your changes and push to the main branch (with appropriate comments).
+7. Pull request from the forked repo for merging the changes (with appropriate comments).
+8. website administrator will review and approve.
+
+
+
+## Complex Changes (follow this)
+Here's a step-by-step guide to making (more complex) modifications to the site, focused initially on adding typical content.  You'll need a working Ruby installation, with gems for Jekyll, GitHub Pages, and their dependencies installed. For now, if you need help getting set up, ask someone who's already up and running.
 
 If you're a member of the [Drummond Lab team](https://github.com/orgs/drummondlab/teams/drummond-lab-team), you have access to the website repository.
 
