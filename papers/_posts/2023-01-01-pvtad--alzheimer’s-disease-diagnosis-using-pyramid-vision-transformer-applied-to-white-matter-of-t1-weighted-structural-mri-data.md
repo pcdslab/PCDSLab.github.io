@@ -8,10 +8,10 @@ journal: Cold Spring Harbor Laboratory Preprints
 volume: 
 issue:
 pages: 
-is_published: True
+is_published: False
 image: /assets/images/papers/biorxiv.png
 projects: []
-tags: []
+tags: [preprint]
 
 # Text
 fulltext:
