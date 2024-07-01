@@ -26,7 +26,7 @@ doi: "10.1038/srep18311"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

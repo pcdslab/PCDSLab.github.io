@@ -26,7 +26,7 @@ doi: "10.1109/BigDataCongress.2015.47"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

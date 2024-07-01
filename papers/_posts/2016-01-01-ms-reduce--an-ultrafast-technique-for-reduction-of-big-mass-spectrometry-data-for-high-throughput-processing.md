@@ -26,7 +26,7 @@ doi: "10.1093/bioinformatics/btw023"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

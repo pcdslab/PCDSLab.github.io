@@ -26,7 +26,7 @@ doi: "10.1109/RECONFIG.2017.8279806"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

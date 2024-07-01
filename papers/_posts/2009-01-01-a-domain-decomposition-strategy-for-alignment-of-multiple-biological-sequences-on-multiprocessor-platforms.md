@@ -26,7 +26,7 @@ doi: "10.1016/j.jpdc.2009.03.006"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

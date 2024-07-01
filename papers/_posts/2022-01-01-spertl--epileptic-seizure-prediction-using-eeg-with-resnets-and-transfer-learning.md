@@ -26,7 +26,7 @@ doi: "10.1109/BHI56158.2022.9926767"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

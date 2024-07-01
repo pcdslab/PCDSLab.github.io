@@ -26,7 +26,7 @@ doi: "10.1007/978-3-031-01960-9_7"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

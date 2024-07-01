@@ -26,7 +26,7 @@ doi: "10.1109/BigDataService52369.2021.00022"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

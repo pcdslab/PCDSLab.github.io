@@ -26,7 +26,7 @@ doi: "10.1109/SoutheastCon52093.2024.10500137"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

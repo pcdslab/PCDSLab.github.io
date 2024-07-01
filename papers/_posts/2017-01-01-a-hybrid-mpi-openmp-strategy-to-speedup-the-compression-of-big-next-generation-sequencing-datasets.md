@@ -26,7 +26,7 @@ doi: "10.1109/TPDS.2017.2692782"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

@@ -26,7 +26,7 @@ doi: "10.1152/ajpcell.00260.2012"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

@@ -26,7 +26,7 @@ doi: "10.1109/IPDPSW52791.2021.00084"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

@@ -26,7 +26,7 @@ doi: "10.1186/s41044-018-0033-0"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

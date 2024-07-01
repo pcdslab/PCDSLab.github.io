@@ -26,7 +26,7 @@ doi: "10.1109/GlobalSIP.2015.7418173"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

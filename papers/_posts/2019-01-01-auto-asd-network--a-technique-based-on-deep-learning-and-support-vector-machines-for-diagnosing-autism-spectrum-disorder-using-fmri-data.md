@@ -26,7 +26,7 @@ doi: "10.1145/3307339.3343482"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

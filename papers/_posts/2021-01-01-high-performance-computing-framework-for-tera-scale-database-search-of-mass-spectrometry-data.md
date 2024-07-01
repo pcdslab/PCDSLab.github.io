@@ -26,7 +26,7 @@ doi: "10.1038/s43588-021-00113-z"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

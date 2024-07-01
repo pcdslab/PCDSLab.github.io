@@ -26,7 +26,7 @@ doi: "10.1109/Trustcom.2015.632"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

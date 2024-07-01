@@ -26,7 +26,7 @@ doi: "10.3389/fncom.2021.654315/full"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

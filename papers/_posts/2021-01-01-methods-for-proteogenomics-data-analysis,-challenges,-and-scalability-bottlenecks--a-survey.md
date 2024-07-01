@@ -26,7 +26,7 @@ doi: "10.1109/ACCESS.2020.3047588"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:

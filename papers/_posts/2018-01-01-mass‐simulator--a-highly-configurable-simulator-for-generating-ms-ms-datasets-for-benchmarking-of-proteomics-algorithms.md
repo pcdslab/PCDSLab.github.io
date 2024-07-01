@@ -26,7 +26,7 @@ doi: "10.1002/pmic.201800206"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
 openneuro: []
 figshare:
