@@ -26,9 +26,9 @@ doi: "10.1109/HPCSim.2016.7568364"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

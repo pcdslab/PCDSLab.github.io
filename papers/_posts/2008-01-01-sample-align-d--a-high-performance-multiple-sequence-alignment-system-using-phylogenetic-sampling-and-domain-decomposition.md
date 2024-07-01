@@ -26,9 +26,9 @@ doi: "10.1109/IPDPS.2008.4536174"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

@@ -26,9 +26,9 @@ doi: "10.3389/fninf.2020.575999/full"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

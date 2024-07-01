@@ -26,9 +26,9 @@ doi: "10.1016/j.jpdc.2011.08.001"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

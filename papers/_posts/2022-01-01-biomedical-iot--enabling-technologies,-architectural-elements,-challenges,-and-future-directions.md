@@ -26,9 +26,9 @@ doi: "10.1109/ACCESS.2022.3159235"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

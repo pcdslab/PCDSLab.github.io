@@ -26,9 +26,9 @@ doi: "10.1109/CHASE.2017.57"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

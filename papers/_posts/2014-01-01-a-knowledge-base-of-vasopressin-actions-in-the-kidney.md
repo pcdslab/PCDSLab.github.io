@@ -26,9 +26,9 @@ doi: "10.1152/ajprenal.00012.2014"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

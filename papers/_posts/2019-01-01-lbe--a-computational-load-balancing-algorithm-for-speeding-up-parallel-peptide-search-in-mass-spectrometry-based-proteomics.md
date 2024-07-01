@@ -26,9 +26,9 @@ doi: "10.1109/IPDPSW.2019.00040"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

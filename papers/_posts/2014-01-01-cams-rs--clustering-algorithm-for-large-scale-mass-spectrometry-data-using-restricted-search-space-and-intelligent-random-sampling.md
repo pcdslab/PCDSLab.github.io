@@ -26,9 +26,9 @@ doi: "10.1109/TCBB.2013.152"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

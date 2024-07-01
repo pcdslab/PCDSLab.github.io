@@ -26,9 +26,9 @@ doi: "10.1109/FPL53798.2021.00024"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

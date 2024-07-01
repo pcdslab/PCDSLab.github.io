@@ -26,9 +26,9 @@ doi: "10.1109/BIBMW.2012.6470210"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

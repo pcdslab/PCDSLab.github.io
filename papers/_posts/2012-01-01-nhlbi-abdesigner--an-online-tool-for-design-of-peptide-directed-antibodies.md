@@ -26,9 +26,9 @@ doi: "10.1152/ajpcell.00325.2011"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

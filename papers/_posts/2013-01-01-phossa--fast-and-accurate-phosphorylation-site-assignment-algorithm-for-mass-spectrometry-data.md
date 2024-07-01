@@ -26,9 +26,9 @@ doi: "10.1186/1477-5956-11-S1-S14"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

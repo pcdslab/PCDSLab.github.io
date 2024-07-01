@@ -26,9 +26,9 @@ doi: "10.1109/BIBM47256.2019.8983152"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

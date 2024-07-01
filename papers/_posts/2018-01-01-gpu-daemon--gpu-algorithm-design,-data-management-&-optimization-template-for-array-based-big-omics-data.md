@@ -26,9 +26,9 @@ doi: "10.1016/j.compbiomed.2018.08.015"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

@@ -26,9 +26,9 @@ doi: "10.1109/TBDATA.2018.2805687"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

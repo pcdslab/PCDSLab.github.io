@@ -26,9 +26,9 @@ doi: "10.1371/journal.pone.0259349"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

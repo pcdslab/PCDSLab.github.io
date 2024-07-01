@@ -26,9 +26,9 @@ doi: "10.1109/BigData.2018.8621979"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

@@ -26,9 +26,9 @@ doi: "10.1109/BigData55660.2022.10021070"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

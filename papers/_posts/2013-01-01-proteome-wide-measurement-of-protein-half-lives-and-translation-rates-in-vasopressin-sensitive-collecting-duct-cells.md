@@ -26,9 +26,9 @@ doi: "10.1681/ASN.2013030279"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

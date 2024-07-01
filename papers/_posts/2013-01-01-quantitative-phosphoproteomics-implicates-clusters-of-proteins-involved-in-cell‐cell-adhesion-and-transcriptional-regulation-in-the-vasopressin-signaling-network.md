@@ -26,9 +26,9 @@ doi: "10.1096/fasebj.27.1_supplement.597.1"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

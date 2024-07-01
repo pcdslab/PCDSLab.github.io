@@ -26,9 +26,9 @@ doi: "10.1109/ICPPW.2016.27"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

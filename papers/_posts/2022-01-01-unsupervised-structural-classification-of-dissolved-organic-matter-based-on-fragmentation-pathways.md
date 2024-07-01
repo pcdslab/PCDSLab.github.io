@@ -26,9 +26,9 @@ doi: "10.1021/acs.est.1c04726"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:

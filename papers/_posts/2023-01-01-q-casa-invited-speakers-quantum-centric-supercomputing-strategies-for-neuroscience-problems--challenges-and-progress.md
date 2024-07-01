@@ -26,9 +26,9 @@ doi: "10.1109/IPDPSW59300.2023.00087"
 pmid:
 
 # Data and code
-github: [""]
+github: []
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:
