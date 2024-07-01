@@ -8,7 +8,7 @@ journal: MDPI
 volume: 
 issue:
 pages: 
-is_published: False
+is_published: True
 image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
