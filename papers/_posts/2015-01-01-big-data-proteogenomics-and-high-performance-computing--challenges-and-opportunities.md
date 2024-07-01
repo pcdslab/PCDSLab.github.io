@@ -28,7 +28,7 @@ pmid:
 # Data and code
 github: [""]
 neurovault:
-openneuro: [""]
+openneuro: []
 figshare:
 figshare_names:
 osf:
