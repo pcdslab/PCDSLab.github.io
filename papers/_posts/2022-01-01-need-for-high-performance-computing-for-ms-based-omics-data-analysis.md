@@ -1,0 +1,40 @@
+---
+layout: paper
+title: "Need for High-Performance Computing for MS-Based Omics Data Analysis"
+nickname: 2024-04-16-bottenhorn-salo-diva
+authors: "Saeed, Fahad; Haseeb, Muhammad; "
+year: "2022"
+journal: Springer
+volume: 
+issue:
+pages: 1-5
+is_published: True
+image: /assets/images/papers/biorxiv.png
+projects: []
+tags: []
+
+# Text
+fulltext:
+pdf:
+pdflink:
+pmcid:
+preprint: 
+supplement:
+
+# Links
+doi: "10.1007/978-3-031-01960-9_1"
+pmid:
+
+# Data and code
+github: [""]
+neurovault:
+openneuro: [""]
+figshare:
+figshare_names:
+osf:
+---
+{% include JB/setup %}
+
+# Abstract
+
+For the past 30 years, significant efforts were invested for the development of designing and implementing more efficient scoringScoring functions which included highly successful search enginesSearch-engines [, , , –]. Similar to other domains, numerical algorithms were developed for Mass Spectrometry (MS)-based peptidePeptide deduction and are designed and implemented by assuming number of arithmetic operationsArithmetic operations as the sole metric for efficiencyEfficiency.
