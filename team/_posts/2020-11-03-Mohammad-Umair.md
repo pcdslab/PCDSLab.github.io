@@ -5,8 +5,8 @@ position: Postdoctoral Associate
 nickname: umairmy305
 handle: umairmy305
 email: umohamma@fiu.edu
-twitter: falmuqhim
-github: falmuqhim
+twitter: YaqubUmair
+github: umairmy305
 scholar: xUneWloAAAAJ&hl=en
 orcid: 0000-0002-4499-548X
 osf: yrekq
