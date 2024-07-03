@@ -10,7 +10,7 @@ github: paras1242
 scholar: 
 orcid: 
 osf: 
-image: /assets/images/team/parani.jpeg
+image: /assets/images/team/parani.jpg
 cv: /assets/pdfs/Paras_Parani_Resume.pdf
 alum: false
 ---
