@@ -9,7 +9,7 @@ volume: 8
 issue:
 pages: 140699-140725
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/ieee.png
 projects: []
 tags: []
 

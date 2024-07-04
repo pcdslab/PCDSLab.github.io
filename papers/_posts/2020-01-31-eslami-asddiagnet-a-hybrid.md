@@ -9,7 +9,7 @@ volume: 13
 issue:
 pages: 70
 is_published: true
-image: /assets/images/papers/front-neuroinform.png
+image: /assets/images/papers/frontiers.png
 projects: MLSPred-Bench
 tags: []
 
