@@ -9,7 +9,7 @@ volume: 32
 issue:
 pages: 1518-1526
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/oxford.png
 projects: []
 tags: []
 
