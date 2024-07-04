@@ -9,7 +9,7 @@ volume: 57
 issue:
 pages: 2672-2681
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/acs.png
 projects: []
 tags: []
 

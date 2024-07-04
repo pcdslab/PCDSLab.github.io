@@ -14,7 +14,7 @@ projects: []
 tags: []
 
 # Text
-fulltext:
+fulltext: https://digitalcommons.fiu.edu/cs_fac/29
 pdf:
 pdflink:
 pmcid:

@@ -9,7 +9,7 @@ volume: 39
 issue:
 pages: i149-i157
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/oxford.png
 projects: []
 tags: []
 

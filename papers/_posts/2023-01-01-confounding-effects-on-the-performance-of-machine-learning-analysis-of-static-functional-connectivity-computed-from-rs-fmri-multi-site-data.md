@@ -9,7 +9,7 @@ volume: 21
 issue:
 pages: 651-668
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/springer.png
 projects: []
 tags: []
 

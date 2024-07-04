@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/ieee.png
 projects: []
 tags: []
 
