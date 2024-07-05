@@ -9,7 +9,7 @@ volume: 69
 issue:
 pages: 666-677
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/elsevier.png
 projects: []
 tags: []
 

@@ -9,7 +9,7 @@ volume: 1
 issue:
 pages: 550-561
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/nature.png
 projects: []
 tags: []
 

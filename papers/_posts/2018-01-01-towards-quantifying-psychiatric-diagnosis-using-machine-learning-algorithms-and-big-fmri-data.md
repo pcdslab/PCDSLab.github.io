@@ -9,7 +9,7 @@ volume: 3
 issue:
 pages: 7
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/oxford.png
 projects: []
 tags: []
 

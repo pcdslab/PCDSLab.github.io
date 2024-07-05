@@ -9,7 +9,7 @@ volume: 84
 issue:
 pages: 63
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/springer.png
 projects: []
 tags: []
 

@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 111-124
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/springer.png
 projects: []
 tags: []
 

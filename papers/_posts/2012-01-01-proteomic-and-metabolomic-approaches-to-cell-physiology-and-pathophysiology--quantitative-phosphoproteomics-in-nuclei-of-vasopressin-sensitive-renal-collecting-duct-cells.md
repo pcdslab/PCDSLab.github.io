@@ -9,7 +9,7 @@ volume: 303
 issue:
 pages: C1006
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/aps.png
 projects: []
 tags: []
 

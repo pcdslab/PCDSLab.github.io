@@ -9,7 +9,7 @@ volume: 33
 issue:
 pages: 637.2-637.2
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/acs.png
 projects: []
 tags: []
 

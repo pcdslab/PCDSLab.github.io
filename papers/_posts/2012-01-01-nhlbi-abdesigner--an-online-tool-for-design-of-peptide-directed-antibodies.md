@@ -9,7 +9,7 @@ volume: 302
 issue:
 pages: C154-C164
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/aps.png
 projects: []
 tags: []
 

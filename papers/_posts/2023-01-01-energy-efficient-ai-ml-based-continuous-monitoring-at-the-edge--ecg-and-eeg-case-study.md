@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 3313-3320
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/ieee.png
 projects: []
 tags: []
 

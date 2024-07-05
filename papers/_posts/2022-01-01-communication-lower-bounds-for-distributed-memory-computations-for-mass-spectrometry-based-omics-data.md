@@ -9,7 +9,7 @@ volume: 161
 issue:
 pages: 37-47
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/elsevier.png
 projects: []
 tags: []
 

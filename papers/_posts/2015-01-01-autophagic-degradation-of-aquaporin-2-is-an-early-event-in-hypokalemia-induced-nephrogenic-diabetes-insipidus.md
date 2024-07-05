@@ -9,7 +9,7 @@ volume: 5
 issue:
 pages: 18311
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/nature.png
 projects: []
 tags: []
 

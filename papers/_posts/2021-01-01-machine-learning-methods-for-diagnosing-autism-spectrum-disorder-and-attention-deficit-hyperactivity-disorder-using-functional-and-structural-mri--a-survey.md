@@ -9,7 +9,7 @@ volume: 14
 issue:
 pages: 62
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/frontiers.png
 projects: []
 tags: []
 

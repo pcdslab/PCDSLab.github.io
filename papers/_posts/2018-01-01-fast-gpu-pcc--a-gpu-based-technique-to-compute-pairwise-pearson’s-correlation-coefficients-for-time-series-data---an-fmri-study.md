@@ -8,8 +8,8 @@ journal: "MDPI High-Throughput Journal"
 volume: 
 issue:
 pages: 
-is_published: False
-image: /assets/images/papers/biorxiv.png
+is_published: True
+image: /assets/images/papers/mdpi.png
 projects: []
 tags: []
 

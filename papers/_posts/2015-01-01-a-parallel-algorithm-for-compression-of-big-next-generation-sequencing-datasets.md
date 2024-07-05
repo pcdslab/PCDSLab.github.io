@@ -9,7 +9,7 @@ volume: 3
 issue:
 pages: 196-201
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/ieee.png
 projects: []
 tags: []
 

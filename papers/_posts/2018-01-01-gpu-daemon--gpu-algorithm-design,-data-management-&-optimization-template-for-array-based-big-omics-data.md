@@ -9,7 +9,7 @@ volume: 101
 issue:
 pages: 163-173
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/springer.png
 projects: []
 tags: []
 

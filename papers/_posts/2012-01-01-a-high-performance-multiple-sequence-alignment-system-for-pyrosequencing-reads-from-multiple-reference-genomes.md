@@ -9,7 +9,7 @@ volume: 72
 issue:
 pages: 83-93
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/elsevier.png
 projects: []
 tags: []
 
