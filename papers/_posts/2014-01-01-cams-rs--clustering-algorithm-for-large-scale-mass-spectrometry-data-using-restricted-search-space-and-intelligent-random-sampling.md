@@ -9,7 +9,7 @@ volume: 11
 issue:
 pages: 128-141
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/ieee.png
 projects: []
 tags: []
 

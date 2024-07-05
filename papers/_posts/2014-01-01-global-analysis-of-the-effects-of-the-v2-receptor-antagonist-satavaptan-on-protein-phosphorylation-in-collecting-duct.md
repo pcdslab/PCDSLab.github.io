@@ -9,7 +9,7 @@ volume: 306
 issue:
 pages: 410-421
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/acs.png
 projects: []
 tags: []
 

@@ -9,7 +9,7 @@ volume: 12
 issue:
 pages: 1402001-1402001
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/acs.png
 projects: []
 tags: []
 
