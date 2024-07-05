@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Statistical and Machine Learning Analysis of the Human Brain Functional Network in a Multi-Site Resting-State Functional MRI Database Framework"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-statistical-and-machine-learning-analysis-of-the-human-brain-functional-network-in-a-multi-site-resting-state-functional-mri-database-framework
 authors: "Artiles, Oswaldo; Saeed, Fahad; "
 year: "2023"
 journal: 

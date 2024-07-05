@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "NHLBI-AbDesigner: an online tool for design of peptide-directed antibodies"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-nhlbi-abdesigner--an-online-tool-for-design-of-peptide-directed-antibodies
 authors: "Pisitkun, Trairak; Hoffert, Jason D; Saeed, Fahad; Knepper, Mark A; "
 year: "2012"
-journal: American Physiological Society Bethesda, MD
+journal: "American Physiological Society Bethesda, MD American Journal of Physiology-Cell Physiology"
 volume: 302
 issue:
 pages: C154-C164
 is_published: True
-image: /assets/images/papers/aps.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

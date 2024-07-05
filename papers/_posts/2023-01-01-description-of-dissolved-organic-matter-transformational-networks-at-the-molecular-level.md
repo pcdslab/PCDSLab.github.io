@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Description of Dissolved Organic Matter Transformational Networks at the Molecular Level"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-description-of-dissolved-organic-matter-transformational-networks-at-the-molecular-level
 authors: "Leyva, Dennys; Usman Tariq, Muhammad; Jaffé, Rudolf; Saeed, Fahad; Fernandez-Lima, Francisco; "
 year: "2023"
-journal: American Chemical Society
+journal: "American Chemical Society Environmental Science & Technology"
 volume: 57
 issue:
 pages: 2672-2681
 is_published: True
-image: /assets/images/papers/acs.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

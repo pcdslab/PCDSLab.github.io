@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Introduction to Mass Spectrometry Data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-introduction-to-mass-spectrometry-data
 authors: "Saeed, Fahad; Haseeb, Muhammad; "
 year: "2022"
-journal: Springer
+journal: "Springer High-Performance Algorithms for Mass Spectrometry-Based Omics"
 volume: 
 issue:
 pages: 7-19
 is_published: True
-image: /assets/images/papers/springer.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "22nd IEEE International Workshop on High Performance Computational Biology (HiCOMB 2023)"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-22nd-ieee-international-workshop-on-high-performance-computational-biology-hicomb-2023
 authors: "de Melo, Alba Cristina MA; Kalyanaraman, Ananth; Saeed, Fahad; Bozdag, Serdar; Ahmed, Zeeshan; Alser, Mohammed; Awan, Muaaz Gul; Baur, Brittany; Bhowmick, Sanjukta; Bose, Banabithi; "
 year: "2023"
 journal: 

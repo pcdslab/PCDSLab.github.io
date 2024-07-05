@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-2019-ieee-international-conference-on-bioinformatics-and-biomedicine-bibm
 authors: "Haseeb, Muhammad; Saeed, Fahad; "
 year: "2019"
 journal: 

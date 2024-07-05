@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "High-Performance Reductive Strategies for Big Data from LC-MS/MS Proteomics"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-high-performance-reductive-strategies-for-big-data-from-lc-ms-ms-proteomics
 authors: "Awan, Muaaz Gul; "
 year: "2019"
-journal: Western Michigan University
+journal: "Western Michigan University"
 volume: 
 issue:
 pages: 

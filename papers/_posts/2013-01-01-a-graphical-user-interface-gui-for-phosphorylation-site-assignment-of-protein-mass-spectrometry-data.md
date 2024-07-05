@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "A Graphical User Interface (GUI) for Phosphorylation Site Assignment of Protein Mass Spectrometry Data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2013-01-01-a-graphical-user-interface-gui-for-phosphorylation-site-assignment-of-protein-mass-spectrometry-data
 authors: "Saeed, Fahad; "
 year: "2013"
 journal: 

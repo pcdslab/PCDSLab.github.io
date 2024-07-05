@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Systems-level analysis reveals selective regulation of Aqp2 gene expression by vasopressin"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2016-01-01-systems-level-analysis-reveals-selective-regulation-of-aqp2-gene-expression-by-vasopressin
 authors: "Sandoval, Pablo C; Claxton, J’Neka S; Lee, Jae Wook; Saeed, Fahad; Hoffert, Jason D; Knepper, Mark A; "
 year: "2016"
-journal: Nature Publishing Group UK London
+journal: "Nature Publishing Group UK London Scientific reports"
 volume: 6
 issue:
 pages: 34863
 is_published: True
-image: /assets/images/papers/nature.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "A Parallel Peptide Indexer and Decoy Generator for Crux Tide using OpenMP"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2016-01-01-a-parallel-peptide-indexer-and-decoy-generator-for-crux-tide-using-openmp
 authors: "Maabreh, Majdi; Gupta, Ajay; Saeed, Fahad; "
 year: "2016"
-journal: IEEE
+journal: "IEEE 2016 International Conference on High Performance Computing Simulation (HPCS)"
 volume: 
 issue:
 pages: 411-418
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "CP hos: a program to calculate and visualize evolutionarily conserved functional phosphorylation sites"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-cp-hos--a-program-to-calculate-and-visualize-evolutionarily-conserved-functional-phosphorylation-sites
 authors: "Zhao, Boyang; Pisitkun, Trairak; Hoffert, Jason D; Knepper, Mark A; Saeed, Fahad; "
 year: "2012"
 journal: 

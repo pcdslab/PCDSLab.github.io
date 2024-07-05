@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Sample-align-d: A high performance multiple sequence alignment system using phylogenetic sampling and domain decomposition"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2008-01-01-sample-align-d--a-high-performance-multiple-sequence-alignment-system-using-phylogenetic-sampling-and-domain-decomposition
 authors: "Saeed, Fahad; Khokhar, Ashfaq; "
 year: "2008"
-journal: IEEE
+journal: "IEEE 2008 IEEE International Symposium on Parallel and Distributed Processing"
 volume: 
 issue:
 pages: 1-9
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

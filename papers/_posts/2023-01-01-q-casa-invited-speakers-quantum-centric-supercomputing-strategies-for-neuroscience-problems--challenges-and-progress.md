@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Q-CASA Invited Speakers Quantum-Centric Supercomputing Strategies for Neuroscience problems: Challenges and Progress"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-q-casa-invited-speakers-quantum-centric-supercomputing-strategies-for-neuroscience-problems--challenges-and-progress
 authors: "Loredo, Robert; Saeed, Fahad; "
 year: "2023"
-journal: IEEE
+journal: "IEEE 2023 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)"
 volume: 
 issue:
 pages: 499-499
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

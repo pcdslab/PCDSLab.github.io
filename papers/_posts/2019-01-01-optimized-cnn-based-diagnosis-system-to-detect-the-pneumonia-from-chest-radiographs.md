@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Optimized CNN-based diagnosis system to detect the pneumonia from chest radiographs"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-optimized-cnn-based-diagnosis-system-to-detect-the-pneumonia-from-chest-radiographs
 authors: "Aledhari, Mohammed; Joji, Shelby; Hefeida, Mohamed; Saeed, Fahad; "
 year: "2019"
-journal: IEEE
+journal: "IEEE 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
 volume: 
 issue:
 pages: 2405-2412
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "An Overview of Multiple Sequence Alignment Systems"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2009-01-01-an-overview-of-multiple-sequence-alignment-systems
 authors: "Saeed, Fahad; Khokhar, Ashfaq; "
 year: "2009"
 journal: 

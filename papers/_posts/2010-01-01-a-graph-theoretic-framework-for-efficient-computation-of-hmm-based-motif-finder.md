@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "A graph-theoretic framework for efficient computation of HMM based motif finder"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2010-01-01-a-graph-theoretic-framework-for-efficient-computation-of-hmm-based-motif-finder
 authors: "Saeed, Fahad; Burger, Lukas; Khokhar, Ashfaq; Zavolan, Mihaela; "
 year: "2010"
 journal: 

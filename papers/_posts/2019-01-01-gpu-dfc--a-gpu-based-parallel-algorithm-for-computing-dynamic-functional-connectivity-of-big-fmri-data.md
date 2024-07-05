@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "GPU-DFC: A GPU-based parallel algorithm for computing dynamic-functional connectivity of big fMRI data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-gpu-dfc--a-gpu-based-parallel-algorithm-for-computing-dynamic-functional-connectivity-of-big-fmri-data
 authors: "Eslami, Taban; Saeed, Fahad; "
 year: "2019"
 journal: 

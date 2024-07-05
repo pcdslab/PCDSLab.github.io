@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "A high performance algorithm for clustering of large-scale protein mass spectrometry data using multi-core architectures"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2013-01-01-a-high-performance-algorithm-for-clustering-of-large-scale-protein-mass-spectrometry-data-using-multi-core-architectures
 authors: "Saeed, Fahad; Hoffert, Jason D; Knepper, Mark A; "
 year: "2013"
 journal: 

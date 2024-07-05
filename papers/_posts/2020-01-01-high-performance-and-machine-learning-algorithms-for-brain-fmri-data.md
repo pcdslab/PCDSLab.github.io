@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "High Performance and Machine Learning Algorithms for Brain fMRI Data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2020-01-01-high-performance-and-machine-learning-algorithms-for-brain-fmri-data
 authors: "Eslami, Taban; "
 year: "2020"
-journal: Western Michigan University
+journal: "Western Michigan University"
 volume: 
 issue:
 pages: 

@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "GPU-ArraySort: A parallel, in-place algorithm for sorting large number of arrays"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2016-01-01-gpu-arraysort--a-parallel,-in-place-algorithm-for-sorting-large-number-of-arrays
 authors: "Awan, Muaaz; Saeed, Fahad; "
 year: "2016"
-journal: 
+journal: ""
 volume: 
 issue:
 pages: 
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

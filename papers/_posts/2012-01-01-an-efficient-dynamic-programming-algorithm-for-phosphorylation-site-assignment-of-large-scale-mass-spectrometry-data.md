@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "An efficient dynamic programming algorithm for phosphorylation site assignment of large-scale mass spectrometry data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-an-efficient-dynamic-programming-algorithm-for-phosphorylation-site-assignment-of-large-scale-mass-spectrometry-data
 authors: "Saeed, Fahad; Pisitkun, Trairak; Hoffert, Jason D; Wang, Guanghui; Gucek, Marjan; Knepper, Mark A; "
 year: "2012"
-journal: IEEE
+journal: "IEEE 2012 IEEE International Conference on Bioinformatics and Biomedicine Workshops"
 volume: 
 issue:
 pages: 618-625
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

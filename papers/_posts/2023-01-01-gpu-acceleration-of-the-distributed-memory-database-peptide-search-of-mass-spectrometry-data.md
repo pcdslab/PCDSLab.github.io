@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "GPU-acceleration of the distributed-memory database peptide search of mass spectrometry data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-gpu-acceleration-of-the-distributed-memory-database-peptide-search-of-mass-spectrometry-data
 authors: "Haseeb, Muhammad; Saeed, Fahad; "
 year: "2023"
-journal: Nature Publishing Group UK London
+journal: "Nature Publishing Group UK London Scientific Reports"
 volume: 13
 issue:
 pages: 18713
 is_published: True
-image: /assets/images/papers/nature.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

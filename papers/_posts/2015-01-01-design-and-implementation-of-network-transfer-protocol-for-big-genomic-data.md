@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Design and implementation of network transfer protocol for big genomic data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2015-01-01-design-and-implementation-of-network-transfer-protocol-for-big-genomic-data
 authors: "Aledhari, Mohammed; Saeed, Fahad; "
 year: "2015"
-journal: IEEE
+journal: "IEEE 2015 IEEE International Congress on Big Data"
 volume: 
 issue:
 pages: 281-288
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

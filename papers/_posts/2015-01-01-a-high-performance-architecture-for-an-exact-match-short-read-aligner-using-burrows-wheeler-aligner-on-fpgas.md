@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "A High Performance Architecture for an Exact Match Short-Read Aligner Using Burrows-Wheeler Aligner on FPGAs"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2015-01-01-a-high-performance-architecture-for-an-exact-match-short-read-aligner-using-burrows-wheeler-aligner-on-fpgas
 authors: "Qader, Dana Abdul; "
 year: "2015"
 journal: 

@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Heterogeneity Aware Distributed Machine Learning at the Wireless Edge for Health IoT Applications: An EEG Data Case Study"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2024-01-01-heterogeneity-aware-distributed-machine-learning-at-the-wireless-edge-for-health-iot-applications--an-eeg-data-case-study
 authors: "Mohammad, Umair; Saeed, Fahad; "
 year: "2024"
-journal: Springer
+journal: "Springer Distributed Machine Learning and Computing: Theory and Applications"
 volume: 
 issue:
 pages: 33-70
 is_published: True
-image: /assets/images/papers/springer.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

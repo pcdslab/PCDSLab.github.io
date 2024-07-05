@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Autophagic degradation of aquaporin-2 is an early event in hypokalemia-induced nephrogenic diabetes insipidus"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2015-01-01-autophagic-degradation-of-aquaporin-2-is-an-early-event-in-hypokalemia-induced-nephrogenic-diabetes-insipidus
 authors: "Khositseth, Sookkasem; Uawithya, Panapat; Somparn, Poorichaya; Charngkaew, Komgrid; Thippamom, Nattakan; Hoffert, Jason D; Saeed, Fahad; Michael Payne, D; Chen, Shu-Hui; Fenton, Robert A; "
 year: "2015"
-journal: Nature Publishing Group UK London
+journal: "Nature Publishing Group UK London Scientific reports"
 volume: 5
 issue:
 pages: 18311
 is_published: True
-image: /assets/images/papers/nature.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

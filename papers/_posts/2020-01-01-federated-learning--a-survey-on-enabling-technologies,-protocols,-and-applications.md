@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Federated learning: A survey on enabling technologies, protocols, and applications"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2020-01-01-federated-learning--a-survey-on-enabling-technologies,-protocols,-and-applications
 authors: "Aledhari, Mohammed; Razzak, Rehma; Parizi, Reza M; Saeed, Fahad; "
 year: "2020"
-journal: IEEE
+journal: "IEEE IEEE Access"
 volume: 8
 issue:
 pages: 140699-140725
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

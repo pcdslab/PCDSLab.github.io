@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Communication Evaluation of a Wireless 4-Channel Wearable EEG for Brain-Computer Interface (BCI) and Healthcare Applications"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2024-01-01-communication-evaluation-of-a-wireless-4-channel-wearable-eeg-for-brain-computer-interface-bci-and-healthcare-applications
 authors: "Bhattarai, Abhishek; Mohammad, Umair; Saeed, Fahad; "
 year: "2024"
-journal: IEEE
+journal: "IEEE SoutheastCon 2024"
 volume: 
 issue:
 pages: 902-903
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

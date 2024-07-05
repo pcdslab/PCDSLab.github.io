@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Introduction to the selected papers from the 7th International Conference on Bioinformatics and Computational Biology (BICoB 2015)"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2016-01-01-introduction-to-the-selected-papers-from-the-7th-international-conference-on-bioinformatics-and-computational-biology-bicob-2015
 authors: "Saeed, Fahad; Haspel, Nurit; Al-Mubaid, Hisham; "
 year: "2016"
-journal: World Scientific Publishing Company
+journal: "World Scientific Publishing Company Journal of Bioinformatics and Computational Biology"
 volume: 14
 issue:
 pages: 1602002

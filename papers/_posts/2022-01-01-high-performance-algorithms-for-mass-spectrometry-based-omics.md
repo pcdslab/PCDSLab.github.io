@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "High-Performance Algorithms for Mass Spectrometry-Based Omics"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-high-performance-algorithms-for-mass-spectrometry-based-omics
 authors: "Saeed, Fahad; Haseeb, Muhammad; "
 year: "2022"
-journal: Springer
+journal: "Springer"
 volume: 
 issue:
 pages: 
 is_published: True
-image: /assets/images/papers/springer.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

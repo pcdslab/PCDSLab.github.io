@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "GPU-SFFT: A GPU based parallel algorithm for computing the Sparse Fast Fourier Transform (SFFT) of k-sparse signals"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-gpu-sfft--a-gpu-based-parallel-algorithm-for-computing-the-sparse-fast-fourier-transform-sfft-of-k-sparse-signals
 authors: "Artiles, Oswaldo; Saeed, Fahad; "
 year: "2019"
-journal: IEEE
+journal: "IEEE 2019 IEEE International Conference on Big Data (Big Data)"
 volume: 
 issue:
 pages: 3303-3311
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

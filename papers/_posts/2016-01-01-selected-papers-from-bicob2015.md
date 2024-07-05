@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Selected Papers from BICoB2015"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2016-01-01-selected-papers-from-bicob2015
 authors: "BICoB; "
 year: "2016"
-journal: World Scientific
+journal: "World Scientific"
 volume: 
 issue:
 pages: 

@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Multiple sequence alignment system for pyrosequencing reads"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2009-01-01-multiple-sequence-alignment-system-for-pyrosequencing-reads
 authors: "Saeed, Fahad; Khokhar, Ashfaq; Zagordi, Osvaldo; Beerenwinkel, Niko; "
 year: "2009"
-journal: Springer Berlin Heidelberg
+journal: "Springer Berlin Heidelberg Bioinformatics and Computational Biology: First International Conference, BICoB 2009, New Orleans, LA, USA, April 8-10, 2009. Proceedings"
 volume: 
 issue:
 pages: 362-375
 is_published: True
-image: /assets/images/papers/springer.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

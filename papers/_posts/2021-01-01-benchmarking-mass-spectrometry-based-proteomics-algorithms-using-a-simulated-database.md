@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Benchmarking mass spectrometry based proteomics algorithms using a simulated database"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-benchmarking-mass-spectrometry-based-proteomics-algorithms-using-a-simulated-database
 authors: "Awan, Muaaz Gul; Awan, Abdullah Gul; Saeed, Fahad; "
 year: "2021"
-journal: Springer Vienna Vienna
+journal: "Springer Vienna Vienna Network Modeling Analysis in Health Informatics and Bioinformatics"
 volume: 10
 issue:
 pages: 23
 is_published: True
-image: /assets/images/papers/springer.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

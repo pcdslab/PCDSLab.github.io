@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Systems and methods for measuring similarity between mass spectra and peptides"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-systems-and-methods-for-measuring-similarity-between-mass-spectra-and-peptides
 authors: "Saeed, Fahad; Tariq, Muhammad Usman; "
 year: "2022"
-journal: US Patent 11,251,031
+journal: "US Patent 11,251,031"
 volume: 
 issue:
 pages: 
 is_published: True
-image: /assets/images/papers/uspto.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

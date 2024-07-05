@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Systems and methods for matching mass spectrometry data with a peptide database"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-systems-and-methods-for-matching-mass-spectrometry-data-with-a-peptide-database
 authors: "Kumar, Sumesh; Saeed, Fahad; "
 year: "2023"
-journal: US Patent 11,842,799
+journal: "US Patent 11,842,799"
 volume: 
 issue:
 pages: 
 is_published: True
-image: /assets/images/papers/uspto.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

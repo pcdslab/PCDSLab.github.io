@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "An out-of-core gpu based dimensionality reduction algorithm for big mass spectrometry data and its application in bottom-up proteomics"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2017-01-01-an-out-of-core-gpu-based-dimensionality-reduction-algorithm-for-big-mass-spectrometry-data-and-its-application-in-bottom-up-proteomics
 authors: "Awan, Muaaz Gul; Saeed, Fahad; "
 year: "2017"
 journal: 

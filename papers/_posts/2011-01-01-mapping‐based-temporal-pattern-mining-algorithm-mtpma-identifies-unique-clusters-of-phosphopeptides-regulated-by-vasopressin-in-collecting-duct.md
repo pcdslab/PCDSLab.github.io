@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Mapping‐based temporal pattern mining algorithm (MTPMA) identifies unique clusters of phosphopeptides regulated by vasopressin in collecting duct"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2011-01-01-mapping‐based-temporal-pattern-mining-algorithm-mtpma-identifies-unique-clusters-of-phosphopeptides-regulated-by-vasopressin-in-collecting-duct
 authors: "Saeed, Fahad; Hoffert, Jason; Pisitkun, Trairak; Knepper, Mark; "
 year: "2011"
-journal: Federation of American Societies for Experimental Biology
+journal: "Federation of American Societies for Experimental Biology"
 volume: 
 issue:
 pages: 
 is_published: True
-image: /assets/images/papers/acs.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Parallel sampling-pipeline for indefinite stream of heterogeneous graphs using OpenCL for FPGAs"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2018-01-01-parallel-sampling-pipeline-for-indefinite-stream-of-heterogeneous-graphs-using-opencl-for-fpgas
 authors: "Tariq, Muhammad Usman; Saeed, Fahad; "
 year: "2018"
-journal: IEEE
+journal: "IEEE 2018 IEEE International Conference on Big Data (Big Data)"
 volume: 
 issue:
 pages: 4752-4761
 is_published: True
-image: /assets/images/papers/ieee.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

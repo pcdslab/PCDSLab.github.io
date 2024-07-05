@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Systems And Methods For Diagnosing Autism Spectrum Disorder Using fMRI Data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-systems-and-methods-for-diagnosing-autism-spectrum-disorder-using-fmri-data
 authors: "Saeed, Fahad; Almuqhim, Fahad; "
 year: "2022"
-journal: US Patent 11,379,981
+journal: "US Patent 11,379,981"
 volume: 
 issue:
 pages: 
 is_published: True
-image: /assets/images/papers/uspto.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

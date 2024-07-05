@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "HiCOPS: High Performance Computing Framework for Tera-Scale Database Search of Mass Spectrometry based Omics Data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-hicops--high-performance-computing-framework-for-tera-scale-database-search-of-mass-spectrometry-based-omics-data
 authors: "Haseeb, Muhammad; Saeed, Fahad; "
 year: "2021"
 journal: 

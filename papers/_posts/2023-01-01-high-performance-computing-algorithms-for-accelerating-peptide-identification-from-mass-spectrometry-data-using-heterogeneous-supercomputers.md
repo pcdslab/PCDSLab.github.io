@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "High Performance Computing Algorithms for Accelerating Peptide Identification from Mass-Spectrometry Data Using Heterogeneous Supercomputers"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-high-performance-computing-algorithms-for-accelerating-peptide-identification-from-mass-spectrometry-data-using-heterogeneous-supercomputers
 authors: "Haseeb, Muhammad; Saeed, Fahad; "
 year: "2023"
 journal: 

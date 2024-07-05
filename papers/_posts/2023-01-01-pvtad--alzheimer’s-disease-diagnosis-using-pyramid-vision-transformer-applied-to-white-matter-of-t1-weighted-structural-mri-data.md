@@ -1,17 +1,17 @@
 ---
 layout: paper
 title: "PVTAD: ALZHEIMER’S DISEASE DIAGNOSIS USING PYRAMID VISION TRANSFORMER APPLIED TO WHITE MATTER OF T1-WEIGHTED STRUCTURAL MRI DATA"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-pvtad--alzheimer’s-disease-diagnosis-using-pyramid-vision-transformer-applied-to-white-matter-of-t1-weighted-structural-mri-data
 authors: "Aghdam, Maryam Akhavan; Bozdag, Serdar; Saeed, Fahad; Alzheimer’s Disease Neuroimaging Initiative; "
 year: "2023"
-journal: Cold Spring Harbor Laboratory Preprints
+journal: "Cold Spring Harbor Laboratory Preprints bioRxiv"
 volume: 
 issue:
 pages: 
-is_published: False
+is_published: True
 image: /assets/images/papers/biorxiv.png
 projects: []
-tags: [preprint]
+tags: []
 
 # Text
 fulltext:

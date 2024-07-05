@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Molecular level characterization of DOM along a freshwater-to-estuarine coastal gradient in the Florida Everglades"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-molecular-level-characterization-of-dom-along-a-freshwater-to-estuarine-coastal-gradient-in-the-florida-everglades
 authors: "Leyva, Dennys; Jaffé, Rudolf; Courson, Jessica; Kominoski, John S; Tariq, Muhammad Usman; Saeed, Fahad; Fernandez-Lima, Francisco; "
 year: "2022"
-journal: Springer International Publishing Cham
+journal: "Springer International Publishing Cham Aquatic Sciences"
 volume: 84
 issue:
 pages: 63
 is_published: True
-image: /assets/images/papers/springer.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 

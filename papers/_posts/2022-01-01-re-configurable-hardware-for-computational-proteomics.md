@@ -1,15 +1,15 @@
 ---
 layout: paper
 title: "Re-configurable Hardware for Computational Proteomics"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-re-configurable-hardware-for-computational-proteomics
 authors: "Saeed, Fahad; Haseeb, Muhammad; Kumar, Sumesh; "
 year: "2022"
-journal: Springer
+journal: "Springer High-Performance Algorithms for Mass Spectrometry-Based Omics"
 volume: 
 issue:
 pages: 111-124
 is_published: True
-image: /assets/images/papers/springer.png
+image: /assets/images/papers/biorxiv.png
 projects: []
 tags: []
 
