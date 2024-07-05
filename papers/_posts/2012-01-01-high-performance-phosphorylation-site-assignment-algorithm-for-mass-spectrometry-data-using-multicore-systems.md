@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 667-672
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/acm.png
 projects: []
 tags: []
 

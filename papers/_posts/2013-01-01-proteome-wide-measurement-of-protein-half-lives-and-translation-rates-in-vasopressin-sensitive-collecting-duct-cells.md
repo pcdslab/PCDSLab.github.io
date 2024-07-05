@@ -9,7 +9,7 @@ volume: 24
 issue:
 pages: 1793-1805
 is_published: True
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/asn.png
 projects: []
 tags: []
 
