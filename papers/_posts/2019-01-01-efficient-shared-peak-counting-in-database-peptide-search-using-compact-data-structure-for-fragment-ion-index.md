@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Efficient shared peak counting in database peptide search using compact data structure for fragment-ion index"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-efficient-shared-peak-counting-in-database-peptide-search-using-compact-data-structure-for-fragment-ion-index
 authors: "Haseeb, Muhammad; Saeed, Fahad; "
 year: "2019"
-journal: IEEE
+journal: "IEEE 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
 volume: 
 issue:
 pages: 275-278

@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "ASD-SAENet: a sparse autoencoder, and deep-neural network model for detecting autism spectrum disorder (ASD) using fMRI data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-asd-saenet--a-sparse-autoencoder,-and-deep-neural-network-model-for-detecting-autism-spectrum-disorder-asd-using-fmri-data
 authors: "Almuqhim, Fahad; Saeed, Fahad; "
 year: "2021"
-journal: Frontiers Media SA
+journal: "Frontiers Media SA Frontiers in Computational Neuroscience"
 volume: 15
 issue:
 pages: 654315

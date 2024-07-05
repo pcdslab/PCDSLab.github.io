@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Data Aware Communication for Energy Harvesting Sensor Networks"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2016-01-01-data-aware-communication-for-energy-harvesting-sensor-networks
 authors: "Hefeida, Mohamed S; Saeed, Fahad; "
 year: "2016"
-journal: Springer International Publishing
+journal: "Springer International Publishing Wired/Wireless Internet Communications: 14th IFIP WG 6.2 International Conference, WWIC 2016, Thessaloniki, Greece, May 25-27, 2016, Proceedings 14"
 volume: 
 issue:
 pages: 121-132

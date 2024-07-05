@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Power-Efficient and Highly Scalable Parallel Graph Sampling using FPGAs"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2017-01-01-power-efficient-and-highly-scalable-parallel-graph-sampling-using-fpgas
 authors: "Tariq, Usman; Cheema, Umer; Saeed, Fahad; "
 year: "2017"
 journal: 

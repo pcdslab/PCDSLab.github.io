@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Identifying protein kinase target preferences using mass spectrometry"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-identifying-protein-kinase-target-preferences-using-mass-spectrometry
 authors: "Douglass, Jacqueline; Gunaratne, Ruwan; Bradford, Davis; Saeed, Fahad; Hoffert, Jason D; Steinbach, Peter J; Knepper, Mark A; Pisitkun, Trairak; "
 year: "2012"
-journal: American Physiological Society Bethesda, MD
+journal: "American Physiological Society Bethesda, MD American Journal of Physiology-Cell Physiology"
 volume: 303
 issue:
 pages: C715-C727

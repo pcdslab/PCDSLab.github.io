@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Foreword to the special issue on selected papers from the 6th International Conference on Bioinformatics and Computational Biology (BICoB 2014)."
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2014-01-01-foreword-to-the-special-issue-on-selected-papers-from-the-6th-international-conference-on-bioinformatics-and-computational-biology-bicob-2014.
 authors: "Saeed, Fahad; Al-Mubaid, Hisham; Dasgupta, Bhaskar; "
 year: "2014"
 journal: 

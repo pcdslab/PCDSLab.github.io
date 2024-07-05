@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Simulation Testbed for Evaluating Distributed Querying and Searching of Mass Spectrometry Big Data in a Network-based Infrastructure"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-simulation-testbed-for-evaluating-distributed-querying-and-searching-of-mass-spectrometry-big-data-in-a-network-based-infrastructure
 authors: "Mohammad, Umair; Saeed, Fahad; "
 year: "2021"
-journal: IEEE
+journal: "IEEE 2021 IEEE Seventh International Conference on Big Data Computing Service and Applications (BigDataService)"
 volume: 
 issue:
 pages: 137-142

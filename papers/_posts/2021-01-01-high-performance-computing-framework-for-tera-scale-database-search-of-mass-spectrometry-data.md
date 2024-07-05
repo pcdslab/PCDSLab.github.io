@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "High performance computing framework for tera-scale database search of mass spectrometry data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-high-performance-computing-framework-for-tera-scale-database-search-of-mass-spectrometry-data
 authors: "Haseeb, Muhammad; Saeed, Fahad; "
 year: "2021"
-journal: Nature Publishing Group
+journal: "Nature Publishing Group Nature computational science"
 volume: 1
 issue:
 pages: 550-561

@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Existing HPC Methods and the Communication Lower Bounds for Distributed-Memory Computations for Mass Spectrometry-Based Omics Data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-existing-hpc-methods-and-the-communication-lower-bounds-for-distributed-memory-computations-for-mass-spectrometry-based-omics-data
 authors: "Saeed, Fahad; Haseeb, Muhammad; "
 year: "2022"
-journal: Springer
+journal: "Springer High-Performance Algorithms for Mass Spectrometry-Based Omics"
 volume: 
 issue:
 pages: 21-35

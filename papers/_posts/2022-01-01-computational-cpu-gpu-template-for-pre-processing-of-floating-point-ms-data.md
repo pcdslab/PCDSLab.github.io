@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Computational CPU-GPU Template for Pre-processing of Floating-Point MS Data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-computational-cpu-gpu-template-for-pre-processing-of-floating-point-ms-data
 authors: "Saeed, Fahad; Haseeb, Muhammad; "
 year: "2022"
-journal: Springer
+journal: "Springer High-Performance Algorithms for Mass Spectrometry-Based Omics"
 volume: 
 issue:
 pages: 89-97

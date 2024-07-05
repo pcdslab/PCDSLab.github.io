@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Confounding Effects on the Performance of Machine Learning Analysis of Static Functional Connectivity Computed from rs-fMRI Multi-site Data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-confounding-effects-on-the-performance-of-machine-learning-analysis-of-static-functional-connectivity-computed-from-rs-fmri-multi-site-data
 authors: "Artiles, Oswaldo; Al Masry, Zeina; Saeed, Fahad; "
 year: "2023"
-journal: Springer US New York
+journal: "Springer US New York Neuroinformatics"
 volume: 21
 issue:
 pages: 651-668

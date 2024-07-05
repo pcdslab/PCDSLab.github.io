@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "MS-REDUCE: an ultrafast technique for reduction of big mass spectrometry data for high-throughput processing"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2016-01-01-ms-reduce--an-ultrafast-technique-for-reduction-of-big-mass-spectrometry-data-for-high-throughput-processing
 authors: "Awan, Muaaz Gul; Saeed, Fahad; "
 year: "2016"
-journal: Oxford University Press
+journal: "Oxford University Press Bioinformatics"
 volume: 32
 issue:
 pages: 1518-1526

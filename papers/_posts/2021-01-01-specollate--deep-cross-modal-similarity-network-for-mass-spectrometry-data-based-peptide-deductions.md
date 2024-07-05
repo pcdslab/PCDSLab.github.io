@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "SpeCollate: Deep cross-modal similarity network for mass spectrometry data based peptide deductions"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-specollate--deep-cross-modal-similarity-network-for-mass-spectrometry-data-based-peptide-deductions
 authors: "Tariq, Muhammad Usman; Saeed, Fahad; "
 year: "2021"
-journal: Public Library of Science San Francisco, CA USA
+journal: "Public Library of Science San Francisco, CA USA PloS one"
 volume: 16
 issue:
 pages: e0259349

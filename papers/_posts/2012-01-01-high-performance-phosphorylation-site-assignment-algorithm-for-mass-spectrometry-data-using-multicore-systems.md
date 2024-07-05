@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "High performance phosphorylation site assignment algorithm for mass spectrometry data using multicore systems"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-high-performance-phosphorylation-site-assignment-algorithm-for-mass-spectrometry-data-using-multicore-systems
 authors: "Saeed, Fahad; Hoffert, Jason; Pisitkun, Trairak; Knepper, Mark; "
 year: "2012"
 journal: 

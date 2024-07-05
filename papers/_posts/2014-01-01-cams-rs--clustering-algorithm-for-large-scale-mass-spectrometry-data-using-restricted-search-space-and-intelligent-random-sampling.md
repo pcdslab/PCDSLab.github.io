@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Cams-rs: clustering algorithm for large-scale mass spectrometry data using restricted search space and intelligent random sampling"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2014-01-01-cams-rs--clustering-algorithm-for-large-scale-mass-spectrometry-data-using-restricted-search-space-and-intelligent-random-sampling
 authors: "Saeed, Fahad; Hoffert, Jason D; Knepper, Mark A; "
 year: "2014"
-journal: IEEE Computer Society Press
+journal: "IEEE Computer Society Press IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)"
 volume: 11
 issue:
 pages: 128-141

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Mining temporal patterns from iTRAQ mass spectrometry (LC-MS/MS) data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2011-01-01-mining-temporal-patterns-from-itraq-mass-spectrometry-lc-ms-ms-data
 authors: "Saeed, Fahad; Pisitkun, Trairak; Knepper, Mark A; Hoffert, Jason D; "
 year: "2011"
 journal: 

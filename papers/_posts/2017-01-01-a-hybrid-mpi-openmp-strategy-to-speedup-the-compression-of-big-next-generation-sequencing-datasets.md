@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "A Hybrid MPI-OpenMP Strategy to Speedup the Compression of Big Next-Generation Sequencing Datasets"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2017-01-01-a-hybrid-mpi-openmp-strategy-to-speedup-the-compression-of-big-next-generation-sequencing-datasets
 authors: "Vargas-Perez, Sandino; Saeed, Fahad; "
 year: "2017"
 journal: 

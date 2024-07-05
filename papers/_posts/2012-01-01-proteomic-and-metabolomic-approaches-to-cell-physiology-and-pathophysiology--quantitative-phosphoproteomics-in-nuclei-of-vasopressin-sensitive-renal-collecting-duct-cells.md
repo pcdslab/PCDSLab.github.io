@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Proteomic and Metabolomic Approaches to Cell Physiology and Pathophysiology: Quantitative phosphoproteomics in nuclei of vasopressin-sensitive renal collecting duct cells"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-proteomic-and-metabolomic-approaches-to-cell-physiology-and-pathophysiology--quantitative-phosphoproteomics-in-nuclei-of-vasopressin-sensitive-renal-collecting-duct-cells
 authors: "Bolger, Steven J; Hurtado, Patricia A Gonzales; Hoffert, Jason D; Saeed, Fahad; Pisitkun, Trairak; Knepper, Mark A; "
 year: "2012"
-journal: American Physiological Society
+journal: "American Physiological Society American Journal of Physiology-Cell Physiology"
 volume: 303
 issue:
 pages: C1006

@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "DeepCOVIDNet: Deep Convolutional Neural Network for COVID-19 Detection from Chest Radiographic Images"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-deepcovidnet--deep-convolutional-neural-network-for-covid-19-detection-from-chest-radiographic-images
 authors: "Ahmed, Khandaker Mamun; Eslami, Taban; Saeed, Fahad; Amini, M Hadi; "
 year: "2021"
-journal: IEEE
+journal: "IEEE 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
 volume: 
 issue:
 pages: 1703-1710

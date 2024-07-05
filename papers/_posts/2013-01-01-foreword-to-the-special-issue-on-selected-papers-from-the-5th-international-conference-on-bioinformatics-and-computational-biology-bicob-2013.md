@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Foreword to the special issue on selected papers from the 5th International Conference on Bioinformatics and Computational Biology (BICoB 2013)"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2013-01-01-foreword-to-the-special-issue-on-selected-papers-from-the-5th-international-conference-on-bioinformatics-and-computational-biology-bicob-2013
 authors: "Dasgupta, Bhaskar; Al-Mubaid, Hisham; Saeed, Fahad; "
 year: "2013"
-journal: Imperial College Press
+journal: "Imperial College Press Journal of Bioinformatics and Computational Biology"
 volume: 11
 issue:
 pages: 1302002

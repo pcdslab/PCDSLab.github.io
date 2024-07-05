@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "PhosSA: Fast and accurate phosphorylation site assignment algorithm for mass spectrometry data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2013-01-01-phossa--fast-and-accurate-phosphorylation-site-assignment-algorithm-for-mass-spectrometry-data
 authors: "Saeed, Fahad; Pisitkun, Trairak; Hoffert, Jason D; Rashidian, Sara; Wang, Guanghui; Gucek, Marjan; Knepper, Mark A; "
 year: "2013"
-journal: BioMed Central
+journal: "BioMed Central Proteome science"
 volume: 11
 issue:
 pages: 1-15

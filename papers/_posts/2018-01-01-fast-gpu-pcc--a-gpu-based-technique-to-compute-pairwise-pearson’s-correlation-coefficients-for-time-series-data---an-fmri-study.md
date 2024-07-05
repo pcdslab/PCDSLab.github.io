@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Fast-GPU-PCC: A GPU-Based Technique to Compute Pairwise Pearson’s Correlation Coefficients for Time Series Data - An fMRI Study"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2018-01-01-fast-gpu-pcc--a-gpu-based-technique-to-compute-pairwise-pearson’s-correlation-coefficients-for-time-series-data---an-fmri-study
 authors: "Eslami, Taban; Saeed, Fahad; "
 year: "2018"
-journal: MDPI
+journal: "MDPI High-Throughput Journal"
 volume: 
 issue:
 pages: 

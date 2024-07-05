@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Communication-avoiding micro-architecture to compute Xcorr scores for peptide identification"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-communication-avoiding-micro-architecture-to-compute-xcorr-scores-for-peptide-identification
 authors: "Kumar, Sumesh; Saeed, Fahad; "
 year: "2021"
-journal: IEEE
+journal: "IEEE 2021 31st International Conference on Field-Programmable Logic and Applications (FPL)"
 volume: 
 issue:
 pages: 99-103

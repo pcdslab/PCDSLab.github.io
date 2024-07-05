@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "LBE: A Computational Load Balancing Algorithm for Speeding up Parallel Peptide Search in Mass-Spectrometry based Proteomics"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-lbe--a-computational-load-balancing-algorithm-for-speeding-up-parallel-peptide-search-in-mass-spectrometry-based-proteomics
 authors: "Haseeb, Muhammad; Afzali, Fatima; Saeed, Fahad; "
 year: "2019"
 journal: 

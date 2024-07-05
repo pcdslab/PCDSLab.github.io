@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Neural Engineering Techniques for Autism Spectrum Disorder: Volume 1: Imaging and Signal Analysis"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-neural-engineering-techniques-for-autism-spectrum-disorder--volume-1--imaging-and-signal-analysis
 authors: "El-Baz, Ayman S; Suri, Jasjit S; "
 year: "2021"
-journal: Academic Press
+journal: "Academic Press"
 volume: 
 issue:
 pages: 

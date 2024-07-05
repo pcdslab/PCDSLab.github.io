@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Search feasibility in distributed MS-proteomics big data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-search-feasibility-in-distributed-ms-proteomics-big-data
 authors: "Mohammad, Umair; Saeed, Fahad; "
 year: "2021"
 journal: 

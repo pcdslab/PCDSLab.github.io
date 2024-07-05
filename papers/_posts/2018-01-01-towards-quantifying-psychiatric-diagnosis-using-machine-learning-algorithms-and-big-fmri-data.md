@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Towards quantifying psychiatric diagnosis using machine learning algorithms and big fMRI data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2018-01-01-towards-quantifying-psychiatric-diagnosis-using-machine-learning-algorithms-and-big-fmri-data
 authors: "Saeed, Fahad; "
 year: "2018"
-journal: BMC
+journal: "BMC BMC Big Data Analytics"
 volume: 3
 issue:
 pages: 7

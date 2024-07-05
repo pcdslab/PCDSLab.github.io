@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "PPAD: a deep learning architecture to predict progression of Alzheimer’s disease"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-ppad--a-deep-learning-architecture-to-predict-progression-of-alzheimer’s-disease
 authors: "Al Olaimat, Mohammad; Martinez, Jared; Saeed, Fahad; Bozdag, Serdar; Alzheimer’s Disease Neuroimaging Initiative; "
 year: "2023"
-journal: Oxford University Press
+journal: "Oxford University Press Bioinformatics"
 volume: 39
 issue:
 pages: i149-i157

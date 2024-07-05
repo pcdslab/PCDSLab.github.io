@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Graph Theoretic Approach for the Analysis of Comprehensive Mass-Spectrometry (MS/MS) Data of Dissolved Organic Matter"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-graph-theoretic-approach-for-the-analysis-of-comprehensive-mass-spectrometry-ms-ms-data-of-dissolved-organic-matter
 authors: "Tariq, Muhammad Usman; Leyvay, Dennys; Limaz, Francisco Alberto Fernandez; Saeed, Fahad; "
 year: "2021"
-journal: IEEE
+journal: "IEEE 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
 volume: 
 issue:
 pages: 3742-3746

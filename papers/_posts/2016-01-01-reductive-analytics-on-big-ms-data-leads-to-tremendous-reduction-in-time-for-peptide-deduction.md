@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Reductive Analytics on Big MS Data leads to tremendous reduction in time for peptide deduction"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2016-01-01-reductive-analytics-on-big-ms-data-leads-to-tremendous-reduction-in-time-for-peptide-deduction
 authors: "Awan, Muaaz Gul; Saeed, Fahad; "
 year: "2016"
-journal: Cold Spring Harbor Laboratory
+journal: "Cold Spring Harbor Laboratory bioRxiv"
 volume: 
 issue:
 pages: 73064

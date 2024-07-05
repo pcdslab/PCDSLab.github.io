@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "High performance computational biology algorithms"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2010-01-01-high-performance-computational-biology-algorithms
 authors: "Saeed, Fahad; "
 year: "2010"
-journal: University of Illinois at Chicago
+journal: "University of Illinois at Chicago"
 volume: 
 issue:
 pages: 

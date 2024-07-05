@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Pyro-align: Sample-align based multiple alignment system for pyrosequencing reads of large number"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2009-01-01-pyro-align--sample-align-based-multiple-alignment-system-for-pyrosequencing-reads-of-large-number
 authors: "Saeed, Fahad; "
 year: "2009"
 journal: 

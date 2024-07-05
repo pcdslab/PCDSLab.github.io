@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Communication lower-bounds for distributed-memory computations for mass spectrometry based omics data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-communication-lower-bounds-for-distributed-memory-computations-for-mass-spectrometry-based-omics-data
 authors: "Saeed, Fahad; Haseeb, Muhammad; Iyengar, SS; "
 year: "2022"
-journal: Academic Press
+journal: "Academic Press Journal of Parallel and Distributed Computing"
 volume: 161
 issue:
 pages: 37-47

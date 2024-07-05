@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Proteome-wide measurement of protein half-lives and translation rates in vasopressin-sensitive collecting duct cells"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2013-01-01-proteome-wide-measurement-of-protein-half-lives-and-translation-rates-in-vasopressin-sensitive-collecting-duct-cells
 authors: "Sandoval, Pablo C; Slentz, Dane H; Pisitkun, Trairak; Saeed, Fahad; Hoffert, Jason D; Knepper, Mark A; "
 year: "2013"
-journal: LWW
+journal: "LWW Journal of the American Society of Nephrology"
 volume: 24
 issue:
 pages: 1793-1805

@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "A new cryptography algorithm to protect cloud-based healthcare services"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2017-01-01-a-new-cryptography-algorithm-to-protect-cloud-based-healthcare-services
 authors: "Aledhari, Mohammed; Marhoon, Ali; Hamad, Ali; Saeed, Fahad; "
 year: "2017"
-journal: IEEE
+journal: "IEEE 2017 IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)"
 volume: 
 issue:
 pages: 37-43

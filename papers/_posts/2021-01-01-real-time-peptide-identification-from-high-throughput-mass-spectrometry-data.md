@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Real-time peptide identification from high-throughput mass-spectrometry data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-real-time-peptide-identification-from-high-throughput-mass-spectrometry-data
 authors: "Kumar, Sumesh; Saeed, Fahad; "
 year: "2021"
 journal: 

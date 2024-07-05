@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Machine Learning methods for diagnosing Autism Spectrum Disorder and Attention-deficit/Hyperactivity Disorder using functional and structural MRI: A Survey"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-machine-learning-methods-for-diagnosing-autism-spectrum-disorder-and-attention-deficit-hyperactivity-disorder-using-functional-and-structural-mri--a-survey
 authors: "Eslami, Taban; Almuqhim, Fahad; Raiker, Joseph S; Saeed, Fahad; "
 year: "2021"
-journal: Frontiers
+journal: "Frontiers Frontiers in Neuroinformatics"
 volume: 14
 issue:
 pages: 62

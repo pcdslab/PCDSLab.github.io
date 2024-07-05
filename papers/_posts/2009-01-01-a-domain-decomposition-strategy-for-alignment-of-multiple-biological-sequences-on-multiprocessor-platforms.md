@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "A domain decomposition strategy for alignment of multiple biological sequences on multiprocessor platforms"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2009-01-01-a-domain-decomposition-strategy-for-alignment-of-multiple-biological-sequences-on-multiprocessor-platforms
 authors: "Saeed, Fahad; Khokhar, Ashfaq; "
 year: "2009"
-journal: Academic Press
+journal: "Academic Press Journal of Parallel and Distributed Computing"
 volume: 69
 issue:
 pages: 666-677

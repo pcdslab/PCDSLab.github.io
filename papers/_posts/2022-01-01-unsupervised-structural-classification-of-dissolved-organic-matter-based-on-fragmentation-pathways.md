@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Unsupervised structural classification of dissolved organic matter based on fragmentation pathways"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-unsupervised-structural-classification-of-dissolved-organic-matter-based-on-fragmentation-pathways
 authors: "Leyva, Dennys; Tariq, Muhammad Usman; Jaffé, Rudolf; Saeed, Fahad; Lima, Francisco Fernandez; "
 year: "2022"
-journal: American Chemical Society
+journal: "American Chemical Society Environmental Science & Technology"
 volume: 56
 issue:
 pages: 1458-1468

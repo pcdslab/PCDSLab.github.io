@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "A knowledge base of vasopressin actions in the kidney"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2014-01-01-a-knowledge-base-of-vasopressin-actions-in-the-kidney
 authors: "Sanghi, Akshay; Zaringhalam, Matthew; Corcoran, Callan C; Saeed, Fahad; Hoffert, Jason D; Sandoval, Pablo; Pisitkun, Trairak; Knepper, Mark A; "
 year: "2014"
-journal: American Physiological Society Bethesda, MD
+journal: "American Physiological Society Bethesda, MD American Journal of Physiology-Renal Physiology"
 volume: 307
 issue:
 pages: F747-F755

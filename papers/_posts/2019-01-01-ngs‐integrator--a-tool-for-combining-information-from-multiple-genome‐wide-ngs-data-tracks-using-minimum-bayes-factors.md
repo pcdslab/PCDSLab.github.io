@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "NGS‐Integrator: A Tool for Combining Information from Multiple Genome‐Wide NGS Data Tracks Using Minimum Bayes Factors"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-ngs‐integrator--a-tool-for-combining-information-from-multiple-genome‐wide-ngs-data-tracks-using-minimum-bayes-factors
 authors: "Jung, Hyun Jun; Wen, Bronte; Chen, Lihe; Saeed, Fahad; Knepper, Mark A; "
 year: "2019"
-journal: The Federation of American Societies for Experimental Biology
+journal: "The Federation of American Societies for Experimental Biology The FASEB Journal"
 volume: 33
 issue:
 pages: 637.2-637.2

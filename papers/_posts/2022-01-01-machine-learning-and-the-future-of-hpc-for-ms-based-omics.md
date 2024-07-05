@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Machine-Learning and the Future of HPC for MS-Based Omics"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-machine-learning-and-the-future-of-hpc-for-ms-based-omics
 authors: "Saeed, Fahad; Haseeb, Muhammad; "
 year: "2022"
-journal: Springer
+journal: "Springer High-Performance Algorithms for Mass Spectrometry-Based Omics"
 volume: 
 issue:
 pages: 125-129

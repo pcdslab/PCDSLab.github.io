@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Similarity based classification of ADHD using Singular Value Decomposition"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2018-01-01-similarity-based-classification-of-adhd-using-singular-value-decomposition
 authors: "Eslami, Taban; Saeed, Fahad; "
 year: "2018"
 journal: 

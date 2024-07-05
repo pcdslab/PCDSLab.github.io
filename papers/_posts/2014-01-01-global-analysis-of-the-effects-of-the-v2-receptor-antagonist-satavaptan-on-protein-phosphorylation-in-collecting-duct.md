@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Global analysis of the effects of the V2 receptor antagonist satavaptan on protein phosphorylation in collecting duct"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2014-01-01-global-analysis-of-the-effects-of-the-v2-receptor-antagonist-satavaptan-on-protein-phosphorylation-in-collecting-duct
 authors: "Hoffert, Jason D; Pisitkun, Trairak; Saeed, Fahad; Wilson, Justin L; Knepper, Mark A; "
 year: "2014"
-journal: American Physiological Society Bethesda, MD
+journal: "American Physiological Society Bethesda, MD American Journal of Physiology-Renal Physiology"
 volume: 306
 issue:
 pages: 410-421

@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "A parallel algorithm for compression of big next-generation sequencing datasets"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2015-01-01-a-parallel-algorithm-for-compression-of-big-next-generation-sequencing-datasets
 authors: "Pérez, Sandino Vargas; Saeed, Fahad; "
 year: "2015"
-journal: IEEE
+journal: "IEEE 2015 IEEE Trustcom/BigDataSE/ISPA"
 volume: 3
 issue:
 pages: 196-201

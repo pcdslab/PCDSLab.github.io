@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "An efficient algorithm for clustering of large-scale mass spectrometry data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-an-efficient-algorithm-for-clustering-of-large-scale-mass-spectrometry-data
 authors: "Saeed, Fahad; Pisitkun, Trairak; Knepper, Mark A; Hoffert, Jason D; "
 year: "2012"
-journal: IEEE
+journal: "IEEE 2012 IEEE International Conference on Bioinformatics and Biomedicine"
 volume: 
 issue:
 pages: 1-4

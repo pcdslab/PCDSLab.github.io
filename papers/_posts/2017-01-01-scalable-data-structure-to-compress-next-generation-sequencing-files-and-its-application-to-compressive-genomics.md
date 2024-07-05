@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Scalable data structure to compress next-generation sequencing files and its application to compressive genomics"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2017-01-01-scalable-data-structure-to-compress-next-generation-sequencing-files-and-its-application-to-compressive-genomics
 authors: "Pérez, Sandino Vargas; Saeed, Fahad; "
 year: "2017"
-journal: IEEE
+journal: "IEEE 2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
 volume: 
 issue:
 pages: 1923-1928

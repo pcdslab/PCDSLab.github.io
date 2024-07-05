@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "A high performance multiple sequence alignment system for pyrosequencing reads from multiple reference genomes"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-a-high-performance-multiple-sequence-alignment-system-for-pyrosequencing-reads-from-multiple-reference-genomes
 authors: "Saeed, Fahad; Perez-Rathke, Alan; Gwarnicki, Jaroslaw; Berger-Wolf, Tanya; Khokhar, Ashfaq; "
 year: "2012"
-journal: Academic Press
+journal: "Academic Press Journal of parallel and distributed computing"
 volume: 72
 issue:
 pages: 83-93

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Parallel Algorithm for Center Star Sequence and Alignments with Applications to Short Reads"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2010-01-01-parallel-algorithm-for-center-star-sequence-and-alignments-with-applications-to-short-reads
 authors: "Saeed, Fahad; Khokhar, Ashfaq; "
 year: "2010"
 journal: 

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Auto-ASD-Network: A technique based on Deep Learning and Support Vector Machines for diagnosing Autism Spectrum Disorder using fMRI data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-auto-asd-network--a-technique-based-on-deep-learning-and-support-vector-machines-for-diagnosing-autism-spectrum-disorder-using-fmri-data
 authors: "Eslami, Taban; Saeed, Fahad; "
 year: "2019"
 journal: 

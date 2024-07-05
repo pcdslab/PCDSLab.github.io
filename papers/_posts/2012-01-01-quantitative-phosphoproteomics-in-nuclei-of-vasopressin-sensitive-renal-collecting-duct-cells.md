@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Quantitative phosphoproteomics in nuclei of vasopressin-sensitive renal collecting duct cells"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-quantitative-phosphoproteomics-in-nuclei-of-vasopressin-sensitive-renal-collecting-duct-cells
 authors: "Bolger, Steven J; Hurtado, Patricia A Gonzales; Hoffert, Jason D; Saeed, Fahad; Pisitkun, Trairak; Knepper, Mark A; "
 year: "2012"
-journal: American Physiological Society Bethesda, MD
+journal: "American Physiological Society Bethesda, MD American Journal of Physiology-Cell Physiology"
 volume: 303
 issue:
 pages: C1006-C1020

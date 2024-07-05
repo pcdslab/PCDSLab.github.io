@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Slm-transform: A method for memory-efficient indexing of spectra for database search in lc-ms/ms proteomics"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2019-01-01-slm-transform--a-method-for-memory-efficient-indexing-of-spectra-for-database-search-in-lc-ms-ms-proteomics
 authors: "Haseeb, Muhammad; Awan, Muaaz G; Cadigan, Alexander S; Saeed, Fahad; "
 year: "2019"
-journal: Cold Spring Harbor Laboratory
+journal: "Cold Spring Harbor Laboratory bioRxiv"
 volume: 
 issue:
 pages: 531681

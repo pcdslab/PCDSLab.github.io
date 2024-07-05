@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "ASD-GResTM: Deep Learning Framework for ASD classification using Gramian Angular Field"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-asd-grestm--deep-learning-framework-for-asd-classification-using-gramian-angular-field
 authors: "Almuqhim, Fahad; Saeed, Fahad; "
 year: "2023"
-journal: IEEE
+journal: "IEEE 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
 volume: 
 issue:
 pages: 2837-2843

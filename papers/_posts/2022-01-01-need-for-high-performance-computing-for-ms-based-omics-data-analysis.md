@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Need for High-Performance Computing for MS-Based Omics Data Analysis"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2022-01-01-need-for-high-performance-computing-for-ms-based-omics-data-analysis
 authors: "Saeed, Fahad; Haseeb, Muhammad; "
 year: "2022"
-journal: Springer
+journal: "Springer High-Performance Algorithms for Mass Spectrometry-Based Omics"
 volume: 
 issue:
 pages: 1-5

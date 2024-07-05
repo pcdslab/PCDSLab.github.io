@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Dynamics of the G protein-coupled vasopressin V2 receptor signaling network revealed by quantitative phosphoproteomics"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2012-01-01-dynamics-of-the-g-protein-coupled-vasopressin-v2-receptor-signaling-network-revealed-by-quantitative-phosphoproteomics
 authors: "Hoffert, Jason D; Pisitkun, Trairak; Saeed, Fahad; Song, Jae H; Chou, Chung-Lin; Knepper, Mark A; "
 year: "2012"
-journal: Elsevier
+journal: "Elsevier Molecular & cellular proteomics"
 volume: 11
 issue:
 pages: 

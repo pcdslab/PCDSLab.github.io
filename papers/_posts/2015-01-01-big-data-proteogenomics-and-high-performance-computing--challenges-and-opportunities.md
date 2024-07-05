@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Big data proteogenomics and high performance computing: Challenges and opportunities"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2015-01-01-big-data-proteogenomics-and-high-performance-computing--challenges-and-opportunities
 authors: "Saeed, Fahad; "
 year: "2015"
-journal: IEEE
+journal: "IEEE 2015 IEEE Global Conference on Signal and Information Processing (GlobalSIP)"
 volume: 
 issue:
 pages: 141-145

@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "MaSS‐Simulator: A Highly Configurable Simulator for Generating MS/MS Datasets for Benchmarking of Proteomics Algorithms"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2018-01-01-mass‐simulator--a-highly-configurable-simulator-for-generating-ms-ms-datasets-for-benchmarking-of-proteomics-algorithms
 authors: "Awan, Muaaz Gul; Saeed, Fahad; "
 year: "2018"
-journal: Wiley
+journal: "Wiley PROTEOMICS"
 volume: 
 issue:
 pages: 

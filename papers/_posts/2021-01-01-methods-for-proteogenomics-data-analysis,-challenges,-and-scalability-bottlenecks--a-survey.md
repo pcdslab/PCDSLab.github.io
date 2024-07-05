@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Methods for Proteogenomics Data Analysis, Challenges, and Scalability Bottlenecks: A Survey"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-methods-for-proteogenomics-data-analysis,-challenges,-and-scalability-bottlenecks--a-survey
 authors: "Tariq, Muhammad Usman; Haseeb, Muhammad; Aledhari, Mohammed; Razzak, Rehma; Parizi, Reza M; Saeed, Fahad; "
 year: "2021"
-journal: IEEE
+journal: "IEEE IEEE Access"
 volume: 
 issue:
 pages: 

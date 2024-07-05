@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "A Fourier-Based Data Minimization Algorithm for Fast and Secure Transfer of Big Genomic Datasets"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2018-01-01-a-fourier-based-data-minimization-algorithm-for-fast-and-secure-transfer-of-big-genomic-datasets
 authors: "Aledhari, Mohammed; Pierro, Marianne Di; Saeed, Fahad; "
 year: "2018"
 journal: 

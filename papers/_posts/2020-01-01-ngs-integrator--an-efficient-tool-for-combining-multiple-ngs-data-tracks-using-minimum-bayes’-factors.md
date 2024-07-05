@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "NGS-Integrator: An efficient tool for combining multiple NGS data tracks using minimum Bayes’ factors"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2020-01-01-ngs-integrator--an-efficient-tool-for-combining-multiple-ngs-data-tracks-using-minimum-bayes’-factors
 authors: "Wen, Bronte; Jung, Hyun Jun; Chen, Lihe; Saeed, Fahad; Knepper, Mark A; "
 year: "2020"
-journal: BioMed Central
+journal: "BioMed Central BMC genomics"
 volume: 21
 issue:
 pages: 1-7

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "TurboBC: A Memory Efficient and Scalable GPU Based Betweenness Centrality Algorithm in the Language of Linear Algebra"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2021-01-01-turbobc--a-memory-efficient-and-scalable-gpu-based-betweenness-centrality-algorithm-in-the-language-of-linear-algebra
 authors: "Artiles, Oswaldo; Saeed, Fahad; "
 year: "2021"
 journal: 

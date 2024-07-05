@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Quantitative phosphoproteomics implicates clusters of proteins involved in cell‐cell adhesion and transcriptional regulation in the vasopressin signaling network"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2013-01-01-quantitative-phosphoproteomics-implicates-clusters-of-proteins-involved-in-cell‐cell-adhesion-and-transcriptional-regulation-in-the-vasopressin-signaling-network
 authors: "Bolger, Steven J; Hurtado, Patricia A Gonzales; Hoffert, Jason D; Saeed, Fahad; Pisitkun, Trairak; Knepper, Mark A; "
 year: "2013"
-journal: The Federation of American Societies for Experimental Biology
+journal: "The Federation of American Societies for Experimental Biology"
 volume: 
 issue:
 pages: 

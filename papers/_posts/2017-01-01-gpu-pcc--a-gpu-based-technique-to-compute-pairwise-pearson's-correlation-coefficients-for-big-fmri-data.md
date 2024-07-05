@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "GPU-PCC: A GPU Based Technique to Compute Pairwise Pearson's Correlation Coefficients for Big fMRI Data"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2017-01-01-gpu-pcc--a-gpu-based-technique-to-compute-pairwise-pearson's-correlation-coefficients-for-big-fmri-data
 authors: "Eslami, Taban; Awan, Muaaz Gul; Saeed, Fahad; "
 year: "2017"
 journal: 

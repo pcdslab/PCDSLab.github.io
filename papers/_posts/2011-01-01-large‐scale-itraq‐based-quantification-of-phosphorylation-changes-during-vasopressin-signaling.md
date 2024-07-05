@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Large‐scale iTRAQ‐based quantification of phosphorylation changes during vasopressin signaling"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2011-01-01-large‐scale-itraq‐based-quantification-of-phosphorylation-changes-during-vasopressin-signaling
 authors: "Hoffert, Jason; Pisitkun, T; Saeed, F; Song, J; Knepper, M; "
 year: "2011"
-journal: Federation of American Societies for Experimental Biology
+journal: "Federation of American Societies for Experimental Biology"
 volume: 
 issue:
 pages: 

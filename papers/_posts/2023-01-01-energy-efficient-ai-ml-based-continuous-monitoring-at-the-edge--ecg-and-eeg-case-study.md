@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: "Energy Efficient AI/ML based Continuous Monitoring at the Edge: ECG and EEG Case Study"
-nickname: 2024-04-16-bottenhorn-salo-diva
+nickname: 2023-01-01-energy-efficient-ai-ml-based-continuous-monitoring-at-the-edge--ecg-and-eeg-case-study
 authors: "Mohammad, Umair; Saeed, Fahad; "
 year: "2023"
-journal: IEEE
+journal: "IEEE 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
 volume: 
 issue:
 pages: 3313-3320
