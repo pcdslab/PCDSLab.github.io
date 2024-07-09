@@ -7,34 +7,6 @@ Because the website code is hosted on GitHub, any lab member can contribute (and
 
 You'll need a working Unix-like environment and working knowledge of Git, [Markdown](https://daringfireball.net/projects/markdown/syntax), HTML, and Unix commands.
 
-If you are doing something new and more complex changes then you can follow the steps in #Complex Changes. For usual things follow the steps below.
-
-## Add your self as team member
-1. Fork a local copy at https://github.com/pcdslab/PCDSLab.github.io
-2. Change directory to \team\_posts
-3. Copy one of the .md files and rename it as follows: Date_when_you_joined_lab-LastName-FirstName.md
-4. Put in all the relevant information in the .md file above.
-5. Put in your picture in assets/images/team/Last_name_picture.jpg (make sure that the dimension of your picture is same as Dr. Saeed - this makes it a nice grid-like structure)
-6. Once you are done with this - commit your changes and push to the main branch (with appropriate comments).
-7. Pull request from the forked repo for merging the changes (with appropriate comments).
-8. website administrator will review and approve.
-
-
-
-## Complex Changes (follow this)
-Here's a step-by-step guide to making (more complex) modifications to the site, focused initially on adding typical content.  You'll need a working Ruby installation, with gems for Jekyll, GitHub Pages, and their dependencies installed. For now, if you need help getting set up, ask someone who's already up and running.
-
-If you're a member of the [Drummond Lab team](https://github.com/orgs/drummondlab/teams/drummond-lab-team), you have access to the website repository.
-
-To clone the repository, making a local copy on your machine:
-
-	git clone git@github.com:drummondlab/drummondlab.github.io
-
-Enter your local repository and check out the `staging` branch, where you'll make changes before promoting them to the `master` branch and publishing them:
-
-	cd drummondlab.github.io
-	git checkout staging
-
 ## Overview of the structure
 
 Let's assume you're familiar with HTML pages. A site is a collection of HTML pages. For our site (and many others), there are page types, like a paper page, or a lab member page, which are the same in design but different in content. In the web-accessible site, these are indeed different pages. However, as you might hope, they are _generated_ from a single template file filled in with information from many paper- or member-specific data files. This generation is done every time the site changes; it's handled by GitHub Pages, the service we use.
@@ -74,6 +46,35 @@ And, when you're happy with it, commit and push:
 This new announcement won't yet be public. The next section shows you how to do that.
 
 The same basic process is used to add protocols, team members, etc.
+
+If you are doing something new and more complex changes then you can follow the steps in #Complex Changes. For usual things follow the steps below.
+
+## Add your self as team member
+1. Fork a local copy at https://github.com/pcdslab/PCDSLab.github.io
+2. Change directory to \team\_posts
+3. Copy one of the .md files and rename it as follows: Date_when_you_joined_lab-LastName-FirstName.md
+4. Put in all the relevant information in the .md file above.
+5. Put in your picture in assets/images/team/Last_name_picture.jpg (make sure that the dimension of your picture is same as Dr. Saeed - this makes it a nice grid-like structure)
+6. Once you are done with this - commit your changes and push to the main branch (with appropriate comments).
+7. Pull request from the forked repo for merging the changes (with appropriate comments).
+8. website administrator will review and approve.
+
+
+
+## Complex Changes (follow this)
+Here's a step-by-step guide to making (more complex) modifications to the site, focused initially on adding typical content.  You'll need a working Ruby installation, with gems for Jekyll, GitHub Pages, and their dependencies installed. For now, if you need help getting set up, ask someone who's already up and running.
+
+If you're a member of the [Drummond Lab team](https://github.com/orgs/drummondlab/teams/drummond-lab-team), you have access to the website repository.
+
+To clone the repository, making a local copy on your machine:
+
+	git clone git@github.com:drummondlab/drummondlab.github.io
+
+Enter your local repository and check out the `staging` branch, where you'll make changes before promoting them to the `master` branch and publishing them:
+
+	cd drummondlab.github.io
+	git checkout staging
+
 
 ## Updating the public site
 
