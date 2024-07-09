@@ -10,7 +10,7 @@ github: AP0LL0916
 scholar: 
 orcid:  
 osf:   
-image: /assets/images/team/Atwell-Jalen-2024.jpg
+image: /assets/images/team/Atwell-Jalen-2024_cropped.jpg
 cv: /assets/pdfs/CV_Atwell.pdf
 alum: false
 ---
