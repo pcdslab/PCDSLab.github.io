@@ -15,7 +15,7 @@ tagline: 'Advance machine-learning models for prediction of Seizures using EEG d
 tags: [eeg]
 
 # Data and code
-github: https://github.com/pcdslab/MLSPred-Bench
+github: ["https://github.com/pcdslab/MLSPred-Bench", "https://github.com/pcdslab/SPERTL"]
 neurovault:
 openneuro:
 figshare:
