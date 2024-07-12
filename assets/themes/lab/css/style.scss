@@ -391,3 +391,10 @@ strong {
   vertical-align:super;
   font-size:0.8em;
 }
+
+.team-member-images {
+	object-fit: cover;
+    image-rendering: auto;
+	overflow-clip-margin: unset;
+	width: 170px;
+}
