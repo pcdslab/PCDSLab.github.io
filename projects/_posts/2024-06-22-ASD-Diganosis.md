@@ -10,7 +10,7 @@ type: Method Development
 website:
 grant: NIH R01GM134384-02
 grant_url: https://reporter.nih.gov/search/DsVUa9EvRUaRq2hPFXrpVA/project-details/10163880#details
-image: /assets/images/projects/2024-06-22-asd-diagnosis.png
+image: /assets/images/projects/fmri-brain-1.jpg
 tagline: "Machine-learning models that can classify between autistic and neurotypical brains"
 tags: [asd, fmri]
 
