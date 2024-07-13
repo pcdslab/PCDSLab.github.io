@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Characterization and diagnosis of Autism Spectrum"
-contributors: [Prof-S, falmuqhim, taban, samuel]
+contributors: [Prof-S, falmuqhim, taban]
 handle: ASD-Diagnosis
 status: analysis
 type: Method Development
