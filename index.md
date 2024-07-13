@@ -7,16 +7,16 @@ banner-2: "/assets/themes/lab/images/banner/image-2.jpg"
 banner-3: "/assets/themes/lab/images/banner/image-3.png"
 Banner-4: "/assets/themes/lab/images/banner/image-4.png"
 ---
-The Parallel Computing and Data Science Lab (Saeed Lab) is a computational research lab based at Knight Foundation School of Computing and Information Sciences (KFSCIS), Florida International University in Miami, Florida, led by Dr. Fahad Saeed. 
+The Parallel Computing and Data Science Lab (Saeed Lab) is a computational research lab based at [Knight Foundation School of Computing and Information Sciences (KFSCIS)](https://www.cis.fiu.edu/), [Florida International University](https://www.fiu.edu/) in Miami, Florida, led by [Dr. Fahad Saeed](https://prof-s.github.io/). 
 
-The Saeed Lab is located on FIU’s MMC Campus in the Computing, Arts, Sciences & Education (CASE) building (Room 261).
+The Saeed Lab is located on FIU’s [MMC Campus](https://campusmaps.fiu.edu/docs/MMC.pdf) in the [Computing, Arts, Sciences & Education (CASE) building (Room 261)](https://campusmaps.fiu.edu/index.html#/campus/MMC).
 
 The Saeed Lab develops machine-learning models, combined with high-performance computing, and data science approaches, to study the functional genomics and organization of the human brain.
 
 Our work focuses on understanding the stochastic difference between identified peptides from high-throughput mass spectrometry data for applications related to human health, disease, and environment. In addition, our work focuses on understanding brain function in the context of prediction, diagnosis and characterization of biomarkers specific to disorders such as epilepsy, ADHD, Autism, and Alzheimer’s.
 
-To achieve these goals, we embrace open science principles and adopt and develop best practices to promote reproducible computational results. If you would like to know more about specific projects, you are welcome to visit us on GitHub and Software pages.
+To achieve these goals, we embrace open science principles and adopt and develop best practices to promote reproducible computational results. If you would like to know more about specific projects, you are welcome to visit us on [GitHub](https://github.com/pcdslab), [Research](https://pcdslab.github.io/projects/) and [Software](https://pcdslab.github.io/Software/) pages.
 
-If you are a prospective PhD student please read and fill out the details here. 
-If you are a prospective Post-Doctoral Fellow, please read and fill out the details here.
-You can send me a follow-up email at fsaeed@fiu.edu after you have filled out the relevant forms. Non-adherence to this procedure does not guarantee a response.
+If you are a prospective PhD student please read and fill out the details [here](https://forms.gle/vwzi6fVkr1rHoxj96).\ 
+If you are a prospective Post-Doctoral Fellow, please read and fill out the details [here](https://forms.gle/vxJ3HMiydeV8scPo7).\
+You can send me a follow-up email at <fsaeed@fiu.edu> after you have filled out the relevant forms. Non-adherence to this procedure does not guarantee a response.
