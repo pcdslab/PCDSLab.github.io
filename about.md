@@ -8,38 +8,26 @@ tags: []
 ---
 {% include JB/setup %}
 
-<a name="purpose"></a>
-
-# Purpose
-
-This is where you'll find the most up-to-date information on who we are, what we're working on, what we've done, and how we did it. And how you can, too!
-
-<a name="contact"></a>
+<a name="Contact Information"></a>
 
 # Contact
 
 ## Mailing Address
-Office: GCIS W234<br/>
-Lab: GCIS W229<br/>
-929 E. 57th Street<br/>
-Chicago, Illinois 60637
+Lab: CASE 261 MMC Campus FIU<br/>
+11200 SW 8th St, <br/>
+Miami, FL 33199, USA
 
-On the [map], GCIS, Gordon Center for Integrative Science, is the L-shaped building under the marker. Our lab is at the northwest corner on the second floor.
-
-[map]: https://www.google.com/maps?q=929+E+57th+St,+Chicago,+IL+60637&hl=en&sll=37.0625,-95.677068&sspn=58.946508,135.263672&vpsrc=0&z=17
+You can also find us on the map below. 
+[map]: https://maps.app.goo.gl/uzCvikhG9gF94WNB8
 
 
 ## Phone
-* Lab: (773) 834-0635
-* Office: (773) 834-2017
-* Fax: (773) 702-0439 
-
+* Lab: 305-348-3131
 
 <a name="design"></a>
 
 # Design and Implementation
-
-Back in 2015 I was inspired by [Trevor Bedford]'s clean, elegant, and functional [site][1]. More than inspired--I've copied many aspects of his site, from visual design to conceptual organization to under-the-hood code, at Trevor's ([public]) invitation. Rather than branching his code, I started from a different boilerplate, and adopted/adapted bits of his code during customization.
+This site was forked from Dr. Allan Drummond’s lab website [Dammond Lab], which in turn took a great deal of inspiration from Dr. Travis Bedford’s lab website [Trevor Bedford]. We have modified a lot of the code, imported some features from [NBCLab] but the core codebase is still largely taken from the Drummond lab’s original repository. The code was openly shared on GitHub under the MIT license, so please feel free to adapt it for your own purposes. However, if you do use any of the code, please remember to cite the code to Dr. Drummond and to link back to [Dammond Lab].
 
 The site started with [Jekyll Bootstrap], and was up and running in a weekend. The site is deployed using [GitHub Pages], which combines source-code control and hosting in a most pleasant way. Modify, test locally, push, and it's live.
 
@@ -49,6 +37,9 @@ By using [Sass] for stylesheets, the site gets virtually all the advantages of u
 
 The site's source code is freely available on [GitHub]. All code is placed under the MIT license. You're welcome to borrow / repurpose code to build your own site, and if you do, I'd appreciate attribution and a link back [here](http://drummondlab.org/about.html).
 
+[pcdslab]: https://pcdslab.github.io/ 
+[Dammond Lab]: https://drummondlab.org/
+[NBCLab]: https://nbclab.github.io/
 [Trevor Bedford]: http://bedford.io/team/trevor-bedford/
 [1]: http://bedford.io
 [public]: http://bedford.io/misc/about/
