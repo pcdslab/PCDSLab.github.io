@@ -17,9 +17,7 @@ Lab: CASE 261 MMC Campus FIU<br/>
 11200 SW 8th St, <br/>
 Miami, FL 33199, USA
 
-You can also find us on the map below. 
-[map]: https://maps.app.goo.gl/uzCvikhG9gF94WNB8
-
+You can also find us on the [map] below. 
 
 ## Phone
 * Lab: 305-348-3131
@@ -50,4 +48,4 @@ The site's source code is freely available on [GitHub]. All code is placed under
 [Sass]: http://sass-lang.com/
 [Google Fonts]: http://www.google.com/fonts
 [Open Sans]: https://www.google.com/fonts/specimen/Open+Sans
-
+[map]: https://maps.app.goo.gl/uzCvikhG9gF94WNB8
