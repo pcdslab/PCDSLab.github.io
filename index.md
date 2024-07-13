@@ -17,6 +17,6 @@ Our work focuses on understanding the stochastic difference between identified p
 
 To achieve these goals, we embrace open science principles and adopt and develop best practices to promote reproducible computational results. If you would like to know more about specific projects, you are welcome to visit us on [GitHub](https://github.com/pcdslab), [Research](https://pcdslab.github.io/projects/) and [Software](https://pcdslab.github.io/Software/) pages.
 
-If you are a prospective PhD student please read and fill out the details [here](https://forms.gle/vwzi6fVkr1rHoxj96).\ 
-If you are a prospective Post-Doctoral Fellow, please read and fill out the details [here](https://forms.gle/vxJ3HMiydeV8scPo7).\
+If you are a prospective PhD student please read and fill out the details [here](https://forms.gle/vwzi6fVkr1rHoxj96).<br>
+If you are a prospective Post-Doctoral Fellow, please read and fill out the details [here](https://forms.gle/vxJ3HMiydeV8scPo7).<br>
 You can send me a follow-up email at <fsaeed@fiu.edu> after you have filled out the relevant forms. Non-adherence to this procedure does not guarantee a response.
