@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Machine-learning models for diagnosis and characterization of Autism Spectrum using complex MRI data"
-contributors: [Prof-S, falmuqhim]
+title: "Characterization and diagnosis of Autism Spectrum"
+contributors: [Prof-S, falmuqhim, taban, samuel]
 handle: ASD-Diagnosis
 status: analysis
 type: Method Development
@@ -11,11 +11,11 @@ website:
 grant: NIH R01GM134384-02
 grant_url: https://reporter.nih.gov/search/DsVUa9EvRUaRq2hPFXrpVA/project-details/10163880#details
 image: /assets/images/projects/2024-06-22-asd-diagnosis.png
-tagline: "Self-learning models that can classify between autistic and neurotypical brains"
+tagline: "Machine-learning models that can classify between autistic and neurotypical brains"
 tags: [asd, fmri]
 
 # Data and code
-github: https://github.com/pcdslab/ASD-SAENet
+github: ["https://github.com/pcdslab/ASD-SAENet", "https://github.com/pcdslab/ASD-DiagNet"]
 neurovault:
 openneuro:
 figshare:
