@@ -27,10 +27,10 @@ You can also find us on the [map] below.
 # Design and Implementation
 This site was forked from Dr. Allan Drummond’s lab website [Dammond Lab], which in turn took a great deal of inspiration from Dr. Travis Bedford’s lab website [Trevor Bedford]. We have modified a lot of the code, imported some features from [NBCLab] but the core codebase is still largely taken from the Drummond lab’s original repository. The code was openly shared on GitHub under the MIT license, so please feel free to adapt it for your own purposes. However, if you do use any of the code, please remember to cite the code to Dr. Drummond and to link back to [Dammond Lab]. The site started with [Jekyll Bootstrap], is deployed using [GitHub Pages], which combines source-code control and hosting in a most pleasant way. Modify, test locally, push, and it's live.
 
-This site's source code is freely available on [GitHub] at [labgithub]. All code is placed under the MIT license. You're welcome to borrow / repurpose code to build your own site, and if you do, I'd appreciate attribution and a link back [here](pcdslab.github.io).
+This site's source code is freely available on [GitHub] at [Saeed Lab Github]. All code is placed under the MIT license. You're welcome to borrow / repurpose code to build your own site, and if you do, I'd appreciate attribution and a link back [here](pcdslab.github.io).
 
 [pcdslab]: https://pcdslab.github.io/ 
-[labgithub]: https://github.com/pcdslab/PCDSLab.github.io
+[Saeed Lab Github]: https://github.com/pcdslab/PCDSLab.github.io
 [Dammond Lab]: https://drummondlab.org/
 [NBCLab]: https://nbclab.github.io/
 [Trevor Bedford]: http://bedford.io/team/trevor-bedford/
