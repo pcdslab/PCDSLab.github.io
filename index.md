@@ -1,6 +1,6 @@
 ---
 layout: home
-title: The Saeed Lab
+title: 
 homepage: true
 banner-1: "/assets/themes/lab/images/banner/banner-1.svg"
 
