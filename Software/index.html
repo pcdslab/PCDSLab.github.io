@@ -17,7 +17,7 @@ navorder: 4
 {% assign analyzing = "" | split: "" %}
 {% assign complete = "" | split: "" %}
 {% assign other = "" | split: "" %}
-{% assign temp = site.categories.projects | reverse %}
+{% assign temp = site.categories.software | reverse %}
 {% for item in temp %}
     {% if item.type == "software" %}
         {% assign software = software | push: item %}
