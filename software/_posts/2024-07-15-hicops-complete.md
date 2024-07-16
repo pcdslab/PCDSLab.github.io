@@ -4,7 +4,7 @@ title: Test For Work
 contributors: [Prof-S, haseeb]
 handle:
 status: complete
-type: software
+
 
 # Optional
 website:
