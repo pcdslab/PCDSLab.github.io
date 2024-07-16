@@ -15,7 +15,7 @@ tags: []
 
 # Text
 fulltext: https://link.springer.com/protocol/10.1007/978-1-0716-4007-4_9
-pdf:
+pdf: /assets/pdfs/Protein_Book-chapter-2024.pdf
 pdflink:
 pmcid:
 preprint: 
