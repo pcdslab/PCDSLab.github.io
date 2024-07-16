@@ -2,7 +2,7 @@
 layout: paper
 title: "Making MS Omics Data ML-Ready: SpeCollate Protocols"
 nickname: 2024-07-16-SpeCollate-Protocols
-authors: "Muhammad Usman Tariq, Samuel Ebert, Fahad Saeed;"
+authors: "Tariq,Muhammad Usman; Ebert, Samuel; Saeed, Fahad;"
 year: "2024"
 journal: "Springer Protein Bioinformatics"
 volume: 
