@@ -64,7 +64,7 @@ Dedicated HPC cluster is available to Saeed’s lab – consisting of memory dis
 
 ![Alt text](/assets/images/gallery/GPU.png)
 ![Alt text](/assets/images/gallery/cluster.jpeg)
-<img src="/assets/images/gallery/dragon-schematic.png" width="250"/>
+<img src="/assets/images/gallery/dragon-schematic.png" width="550"/>
 
 
 NSF XSEDE (GPU Equipped) supercomputers (Current PI Saeed award # TG-CCR150017) such as XSEDE Comet, Blue Waters (Cray XE/XK), FRONTERA (Intel “Sky Lake” Xeon processor/DDR-4/SSD HD) which can be accessed by research groups through call for allocations for compute-time and storage. Systems such as this will be ideal for scalability studies of the proposed algorithms and peta-scale results will be reported. We have additional award from XSEDE Supercomputing facility (Award # TG-ASC200004) which includes Comet-Supercomputers which is a homogenous computing facility with similar multicore, and manycore processors available. These include Intel Xeon E5-2680v3 processors, with 1728 processor cores, 72 nodes, 8TB of memory, 286 GB of memory per node, and 884 TFlops of peak-performance. We currently have access to 100,000 hours of compute time which is also extendible via extensions, and renewals. In addition to this we similar access to supercomputing machines which have a GPU attached to them. The Comet cluster consists of 1944 compute nodes where each node is equipped with 2 sockets 12 cores of Intel Xeon E5-2680v3 processor, 2 NUMA nodes 64GB DDR4 DRAM, compiler: GCC 7.2 running CentOS. The compute nodes are interconnected through a 56 Gbps FDR InfiniBand network. The allowed maximum number of nodes per job is 72 and the allowed maximum runtime per job is 48 hours.
