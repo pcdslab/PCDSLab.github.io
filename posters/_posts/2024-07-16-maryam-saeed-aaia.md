@@ -10,11 +10,11 @@ projects: ["ML-brain-imaging", "ML-MS"]
 tags: []
 
 # Content
-fulltext: https://zenodo.org/records/11581202
+fulltext: 
 pdf: 
 
 # Links
-doi: 10.5281/zenodo.11581202
+doi: 
 
 
 # Data and code
