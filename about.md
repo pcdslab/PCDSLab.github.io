@@ -22,8 +22,15 @@ You can also find us on the [map] below.
 ## Phone
 * Lab: 305-348-3131
 
-<a name="design"></a>
 
+# Laboratory Space
+Saeed Lab is located on the 2nd floor of FIU’s CASE building – CASE 261 which can accommodate 12 personals and has conference space and facilities. 
+
+![Alt text](/assets/images/gallery/Lab_1.png)
+
+
+
+<a name="design"></a>
 # Design and Implementation
 This site was forked from Dr. Allan Drummond’s lab website [Dammond Lab], which in turn took a great deal of inspiration from Dr. Travis Bedford’s lab website [Trevor Bedford]. We have modified a lot of the code, imported some features from [NBCLab] but the core codebase is still largely taken from the Drummond lab’s original repository. The code was openly shared on GitHub under the MIT license, so please feel free to adapt it for your own purposes. However, if you do use any of the code, please remember to cite the code to Dr. Drummond and to link back to [Dammond Lab]. The site started with [Jekyll Bootstrap], is deployed using [GitHub Pages], which combines source-code control and hosting in a most pleasant way. Modify, test locally, push, and it's live.
 
