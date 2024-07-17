@@ -23,8 +23,8 @@ You can also find us on the [map] below.
 * Lab: 305-348-3131
 
 ## Email (best way to reach us)
-* slab@fiu.edu 
-* fsaeed@fiu.edu
+* [slab@fiu.edu](slab@fiu.edu) 
+* [fsaeed@fiu.edu](fsaeed@fiu.edu)
 
 
 # Laboratory, Department, and University
