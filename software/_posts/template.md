@@ -4,6 +4,7 @@ title:
 contributors: []
 handle:
 status: analysis, or complete
+type:  software (remove this for completed work)
 
 # Optional
 website:

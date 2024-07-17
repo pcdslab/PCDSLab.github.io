@@ -4,6 +4,7 @@ title: HiCOPS & GiCOPS
 contributors: [Prof-S, haseeb, Sumesh, Jalen]
 handle:
 status: analysis
+Type: software
 
 # Optional
 website:
