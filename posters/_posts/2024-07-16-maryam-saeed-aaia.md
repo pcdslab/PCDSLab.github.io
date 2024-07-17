@@ -10,11 +10,12 @@ projects: ["ML-brain-imaging", "ML-MS"]
 tags: []
 
 # Content
-fulltext:
+fulltext: https://zenodo.org/records/11581202
 pdf: 
 
 # Links
-doi:
+doi: 10.5281/zenodo.11581202
+
 
 # Data and code
 github:
@@ -39,8 +40,3 @@ The study achieved an average classification accuracy of 97.6% in sagittal slice
 
 # Conclusions
 Proposed Transformer architecture can learn both the global and local AD signatures at a superior rate than the other state of the art methods. The proposed approach demonstrates a significant advancement in the accurate diagnosis of AD, particularly enhancing its early diagnosis. It represents a considerable improvement over existing diagnostic methods, offering a new avenue for research and application in the field of neurodegenerative diseases. The future work consists of designing and developing more domain specific machine-learning models that can diagnose and characterize healthy controls, mild cognitive impairments (MCI) and Alzheimer's disease scans. Such models can be used for characterizing and predicting different AD and related dementias. 
-
-
-
-
-
