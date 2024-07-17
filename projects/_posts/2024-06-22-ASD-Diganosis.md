@@ -2,7 +2,7 @@
 layout: project
 title: "Characterization and diagnosis of Autism Spectrum"
 contributors: [Prof-S, falmuqhim, taban]
-handle: ASD-Diagnosis
+handle: ML-brain-imaging
 status: analysis
 type: Method Development
 
