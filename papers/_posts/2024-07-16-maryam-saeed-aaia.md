@@ -1,5 +1,5 @@
 ---
-layout: poster
+layout: paper
 title: "Alzheimer’s Disease Diagnosis Using Gray Matter of T1-Weighted sMRI Data and Vision Transformer"
 nickname: AAIC-2024-poster
 authors: "Maryam Akhavan Aghdam; Bozdag, Serdar; Saeed, Fahad;"
