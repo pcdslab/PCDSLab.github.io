@@ -49,6 +49,7 @@ The School of Computing and Information Sciences (SCIS) maintains a data center,
 ## Local Lab HPC workstation
 
 This workstation is a local workstation that is available to us. This workstation is primarily used for MPI/OPENMP/CUDA development and consists of 2 Intel® Xeon® Gold 6338 Processor (48M Cache, 2.00 GHz) with 32 cores for each processor. Further, 256GB of RAM, and 10TB of hard drive is available to this system. The workstation is also equipped with NVIDIA TITAN Xp GPU.
+
 ![Alt text](/assets/images/gallery/Server.png)
 
 ## Local FPGA workstations
@@ -63,7 +64,8 @@ Dedicated HPC cluster is available to Saeed’s lab – consisting of memory dis
 
 ![Alt text](/assets/images/gallery/GPU.png)
 ![Alt text](/assets/images/gallery/cluster.jpeg)
-![Alt text](/assets/images/gallery/dragon-schematic.png)
+<img src="/assets/images/gallery/dragon-schematic.png" width="250"/>
+
 
 NSF XSEDE (GPU Equipped) supercomputers (Current PI Saeed award # TG-CCR150017) such as XSEDE Comet, Blue Waters (Cray XE/XK), FRONTERA (Intel “Sky Lake” Xeon processor/DDR-4/SSD HD) which can be accessed by research groups through call for allocations for compute-time and storage. Systems such as this will be ideal for scalability studies of the proposed algorithms and peta-scale results will be reported. We have additional award from XSEDE Supercomputing facility (Award # TG-ASC200004) which includes Comet-Supercomputers which is a homogenous computing facility with similar multicore, and manycore processors available. These include Intel Xeon E5-2680v3 processors, with 1728 processor cores, 72 nodes, 8TB of memory, 286 GB of memory per node, and 884 TFlops of peak-performance. We currently have access to 100,000 hours of compute time which is also extendible via extensions, and renewals. In addition to this we similar access to supercomputing machines which have a GPU attached to them. The Comet cluster consists of 1944 compute nodes where each node is equipped with 2 sockets 12 cores of Intel Xeon E5-2680v3 processor, 2 NUMA nodes 64GB DDR4 DRAM, compiler: GCC 7.2 running CentOS. The compute nodes are interconnected through a 56 Gbps FDR InfiniBand network. The allowed maximum number of nodes per job is 72 and the allowed maximum runtime per job is 48 hours.
 
