@@ -6,7 +6,7 @@ authors: "Maryam Akhavan Aghdam; Bozdag, Serdar; Saeed, Fahad;"
 year: "2024"
 conference: "AAIC-2024"
 image: /assets/images/posters/AAIC-2024-poster.png
-projects: ["ML-brain-imaging", "ML-MS"]
+projects: ["ML-brain-imaging"]
 tags: []
 
 # Content
