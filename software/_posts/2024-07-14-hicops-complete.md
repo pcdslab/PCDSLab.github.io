@@ -1,16 +1,16 @@
 ---
 layout: project
-title: Test For Work
-contributors: [Prof-S, haseeb]
+title: HiCOPS & GiCOPS
+contributors: [Prof-S, haseeb, Sumesh, Jalen]
 handle:
-status: complete
+status: analysis
 
 # Optional
 website:
 grant:
 grant_url:
 image:
-tagline:
+tagline: HPC computational framework for peptide identification from MS data through accelerated database search
 tags: [software]
 
 # Data and code
@@ -23,8 +23,13 @@ osf:
 ---
 {% include JB/setup %}
 
-A description of the study.
+This project will design and develop high-performance computational frameworks which will enable effective analysis of omics data produced from mass spectrometry machines. The proposed high-performance computing (HPC) techniques will enable identification of novel peptides/proteins, and insights into microbiome communities and their effects on human health, agriculture, and environments. 
 
-## Participate
+Millions of spectra generated from mass spectrometry machines are compared with tera-scale theoretical database for peptide deductions. Currently, the bulk of this deduction is accomplished using serial algorithms which may take weeks of computational time for large databases. The overarching technical objective of this study is to design, develop, and evaluate high performance computing (HPC) infrastructure for a variety of heterogenous architectures. Such communication-avoiding HPC algorithms that can run on heterogenous architectures will enable scalable MS data analysis for non-model tera-scale databases against which MS data is matched and is currently an insurmountable technical hurdle. 
 
-Information for participants.
+The project will focus on the design and development of: (1) CPU-GPU based method for processing of large-scale MS-based omics with communication-avoiding parallel pipelines; (2) methods for exploiting multiple GPUs on single node which is extended to memory-distributed CPU-GPU nodes on supercomputing machines; (3) hardware/software co-designs using CPU-FPGA architectures. This computational infrastructure will allow scientists to use large heterogeneous supercomputers, and the development of hardware/software designs will enable us to incorporate semiconductor designs directly on mass spectrometry machines. The development of such semiconductors designed for end-use application (of MS omics data) will preserve US global economic competitiveness, and will accelerate urgently needed personalized nutrition studies, human gut microbiome research, and cancer therapeutics studies.
+
+
+## Status 
+
+The method development for this work is on going
