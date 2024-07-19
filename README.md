@@ -80,10 +80,17 @@ The same basic process is used to add protocols, team members, etc. For usual th
 8. Website administrator will review and approve.
 
 
+## Add a blog post
+Similar steps as above except for change directory to /posters/_posts
 
 ## Add a blog post
+Similar steps as above except for change directory to /blog/_posts
+
 ## Add new and exciting news
+Similar steps as above except for change directory to /news/_posts
+
 ## Add content to your software 
+Similar steps as above except for change directory to /software/_posts
 
 
 ## Assets
