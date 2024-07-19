@@ -11,7 +11,23 @@ You'll need a working Unix-like environment and working knowledge of Git, [Markd
 
 Let's assume you're familiar with HTML pages. A site is a collection of HTML pages. For our site (and many others), there are page types, like a paper page, or a lab member page, which are the same in design but different in content. In the web-accessible site, these are indeed different pages. However, as you might hope, they are _generated_ from a single template file filled in with information from many paper- or member-specific data files. This generation is done every time the site changes; it's handled by GitHub Pages, the service we use.
 
-The template files are weird-looking HTML files residing in the `_includes/themes/lab` folder.
+# Organization
+
+The different pages (e.g., News, Papers, Team) are organized in separate folders.
+Each folder contains a file for the page itself (`index.html`) and a folder containing markdown files with the different entries for the page (`_posts/`).
+
+The markdown files for the homepage, the "About the site" page, and the "Contact us" page are all located in `misc/_posts/`.
+
+Whether adding a new lab member, paper, poster, presentation, project, or piece of news, you will generally be creating one of these markdown files in `[type]/_posts/` where `[type]` is the type of post.
+
+Each post (i.e., markdown file) is also rendered as its own page, with a link on the main page for the type.
+For example, an individual poster corresponds to one of the markdown files in `posters/_posts/`.
+That poster has its own page, and there is a link to that page on the main "Posters" page (which is generated from `posters/index.html`).
+
+The markdown files have two sections, a header with metadata and the content below.
+How the post is formatted on the general page (e.g., how Taylor Salo's picture fits into the [Team webpage](https://nbclab.github.io/team/)) is determined by the `index.html` file mentioned above.
+How the post is formatted on its own page (e.g., [Taylor Salo's member page](https://nbclab.github.io/team/taylor-salo)) is determined by the theme file for that post's category.
+
 
 ## How to add content
 
@@ -52,11 +68,47 @@ The same basic process is used to add protocols, team members, etc. For usual th
 2. Change directory to \team\_posts
 3. Copy one of the .md files and rename it as follows: Date_when_you_joined_lab-LastName-FirstName.md
 4. Put in all the relevant information in the .md file above.
-5. Put in your picture in assets/images/team/Last_name_picture.jpg (make sure that the dimension of your picture is same as Dr. Saeed - this makes it a nice grid-like structure)
+5. Put in your picture in /assets/images/team/Last_name_picture.jpg (make sure that the dimension of your picture is same as Dr. Saeed - this makes it a nice grid-like structure)
 6. Once you are done with this - commit your changes and push to the main branch (with appropriate comments).
 7. Pull request from the forked repo for merging the changes (with appropriate comments).
 8. website administrator will review and approve.
 
+
+## Add your new paper
+1. Fork a local copy at https://github.com/pcdslab/PCDSLab.github.io
+2. Change directory to \papers\_posts
+3. Copy one of the .md files and rename it as follows: Yesterdays_date_Paper_title_Author_last-name.md
+4. Put in all the relevant information in the .md file above.
+5. Put in your picture in /assets/images/team/Last_name_picture.jpg (make sure that the dimension of your picture is same as Dr. Saeed - this makes it a nice grid-like structure)
+6. Once you are done with this - commit your changes and push to the main branch (with appropriate comments).
+7. Pull request from the forked repo for merging the changes (with appropriate comments).
+8. website administrator will review and approve.
+
+
+
+## Add a blog post
+## Add new and exciting news
+## Add content to your software 
+
+
+## Assets
+
+Pictures, pdfs, etc. can be placed in `assets/`.
+Because GitHub repositories are limited in terms of space, we tend to use low-resolution images.
+Any important, high-resolution files that do not need to be directly rendered on the website should be stored elsewhere (e.g., Google Drive) and linked to on the website.
+
+In order to reduce the amount of data we use with images, we have rules for image sizes:
+
+| Category | Width (pixels) | Height (pixels) |
+|------------------|----------------|-----------------|
+| Lab member photo | 200 | 200 |
+| Journal cover    | 150 | variable |
+| Poster           | <=375* | <=375* |
+| Talk             | 1000 | variable |
+| Project          | 1000 | variable |
+| News             | 1000 | variable |
+
+\* Either height or width must be 375 pixels, and the other must be less than or equal to 375 pixels.
 
 ## Changing look and feel
 
