@@ -79,10 +79,11 @@ The same basic process is used to add protocols, team members, etc. For usual th
 2. Change directory to \papers\_posts
 3. Copy one of the .md files and rename it as follows: Yesterdays_date_Paper_title_Author_last-name.md
 4. Put in all the relevant information in the .md file above.
-5. Put in your picture in /assets/images/team/Last_name_picture.jpg (make sure that the dimension of your picture is same as Dr. Saeed - this makes it a nice grid-like structure)
+5. Make sure that you add projects: [your project handle - you can get this handle from /projects/_posts/your_project.md], all relevant authors (from the lab), relevant links to the paper, and an abstract in the above .md file. This ensure that the paper appears in their profiles, as well in the project pages. 
+5. Put in your picture in /assets/images/papers/Cool_picture_from_paper.jpg (Follow the guidelines at #Assets)
 6. Once you are done with this - commit your changes and push to the main branch (with appropriate comments).
 7. Pull request from the forked repo for merging the changes (with appropriate comments).
-8. website administrator will review and approve.
+8. Website administrator will review and approve.
 
 
 
