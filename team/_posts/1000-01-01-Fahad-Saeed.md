@@ -3,7 +3,6 @@ layout: member
 title: "Fahad Saeed"
 position: Lab Director 
 nickname: Fahad
-Web: https://prof-s.github.io
 handle: Prof-S
 email: fsaeed@fiu.edu
 twitter: Prof_FahadSaeed
