@@ -80,7 +80,7 @@ The same basic process is used to add protocols, team members, etc. For usual th
 8. Website administrator will review and approve.
 
 
-## Add a blog post
+## Add a new poster
 Similar steps as above except for change directory to /posters/_posts
 
 ## Add a blog post
@@ -114,11 +114,7 @@ In order to reduce the amount of data we use with images, we have rules for imag
 
 ## Changing look and feel
 
-Fonts, colors, spacing, and similar stylings are separate from the template pages. Like most sites circa 2023, we use Cascading Style Sheets (CSS).
-
-### To-dos
-
-See Issues on [the site](https://github.com/drummondlab/drummondlab.github.io).
+Fonts, colors, spacing, and similar stylings are separate from the template pages. Like most sites circa 2023, we use Cascading Style Sheets (CSS). You don't need to worry about this though. Let's focus on the material and better science communication. 
 
 
 ## License
