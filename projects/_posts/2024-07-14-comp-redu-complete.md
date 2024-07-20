@@ -12,7 +12,7 @@ website:
 grant: NSF 1464268
 grant_url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1464268&HistoricalAwards=false
 image: /assets/images/projects/tpds-gagraphic-2692782.jpg
-tagline: Development of methods that can operated on compressed and reduced data
+tagline: Development of methods that can operate on compressed big data
 tags: []
 
 # Data and code
