@@ -11,7 +11,7 @@ pages: 1-8
 is_published: False
 image: /assets/images/papers/biorxiv.png
 projects: [ML-seizure]
-tags: []
+tags: [preprint]
 
 # Text
 fulltext: https://www.biorxiv.org/content/10.1101/2024.07.17.604006v1
