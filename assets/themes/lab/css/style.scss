@@ -38,6 +38,12 @@ h6, .h6 { font-size: ceil($font-size-base * 0.85); }  /* ~12px */
   padding-right: 25px;
 }
 
+@media (min-width: 1200px) {
+	.container {
+		width: 1240px;
+	}
+}
+
 h1,
 h2,
 h3,
@@ -400,3 +406,4 @@ strong {
 	height: 200px;
 	margin-bottom: 10px;
 }
+
