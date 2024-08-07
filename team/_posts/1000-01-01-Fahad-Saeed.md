@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Fahad Saeed"
-position: Lab Director 
+position: Associate Professor and Lab Director 
 nickname: Fahad
 handle: Prof-S
 email: fsaeed@fiu.edu
