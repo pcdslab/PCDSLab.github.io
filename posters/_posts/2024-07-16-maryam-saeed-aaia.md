@@ -10,7 +10,7 @@ projects: ["ML-brain-imaging", "ML-MS"]
 tags: []
 
 # Content
-fulltext: 
+fulltext: https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/89944
 pdf: 
 
 # Links
