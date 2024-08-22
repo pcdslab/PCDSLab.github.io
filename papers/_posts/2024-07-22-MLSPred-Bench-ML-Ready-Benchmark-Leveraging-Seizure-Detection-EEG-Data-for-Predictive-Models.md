@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "MLSPred-Bench: ML-Ready Benchmark Leveraging Seizure Detection EEG data for Predictive Models"
-nickname: 2024-07-22-MLSPred-Bench:ML-Ready-Benchmark-Leveraging-Seizure-Detection-EEG-Data-for-Predictive-Models
+nickname: MLSPred-Bench-paper
 authors: "Mohammad, Umair; Saeed, Fahad; "
 year: "2024"
 journal: "bioRxiv"
