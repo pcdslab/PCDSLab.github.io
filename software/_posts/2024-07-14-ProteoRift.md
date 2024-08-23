@@ -10,7 +10,7 @@ type: software
 website: 
 grant:
 grant_url:
-image: /assets/images/projects/ML_MS.png
+image: /assets/images/projects/ML-MS.png
 tagline: End-to-end ML pipeline for Data Dependent Acquisition (DDA) MS data 
 tags: [software]
 
