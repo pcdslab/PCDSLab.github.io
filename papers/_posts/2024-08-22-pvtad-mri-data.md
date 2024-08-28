@@ -8,7 +8,7 @@ journal: "Proceedings of IEEE International Symposium on Biomedical Imaging (ISB
 volume: 
 issue:
 Pages:1-4
-is_published: 
+is_published: True
 image: /assets/images/papers/ieee.png
 projects: 
 tags: []
