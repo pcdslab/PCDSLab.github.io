@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Making MS Omics Data ML-Ready: SpeCollate Protocols"
+title: "PVTAD"
 nickname: 2024-07-16-SpeCollate-Protocols
 authors: "Tariq,Muhammad Usman; Ebert, Samuel; Saeed, Fahad;"
 year: "2024"
