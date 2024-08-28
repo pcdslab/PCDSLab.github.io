@@ -14,19 +14,19 @@ projects: [ML-brain-imaging]
 tags: []
 
 # Text
-fulltext: https://link.springer.com/protocol/10.1007/978-1-0716-4007-4_9
-pdf: /assets/pdfs/Protein_Book-chapter-2024.pdf
-pdflink:
+fulltext: https://ieeexplore.ieee.org/abstract/document/10635541
+pdf: 
+pdflink: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635541
 pmcid:
-preprint: 
+preprint: 10.1101/2023.11.17.567617
 supplement:
 
 # Links
-doi: "10.1007/978-1-0716-4007-4_9"
+doi: "10.1109/ISBI56570.2024.10635541"
 pmid:
 
 # Data and code
-github: []
+github: ["https://github.com/pcdslab/PVTAD"]
 neurovault:
 openneuro: []
 figshare:
