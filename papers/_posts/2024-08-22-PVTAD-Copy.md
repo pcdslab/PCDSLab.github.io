@@ -1,16 +1,16 @@
 ---
 layout: paper
-title: "PVTAD"
-nickname: 2024-07-16-SpeCollate-Protocols
-authors: "Tariq,Muhammad Usman; Ebert, Samuel; Saeed, Fahad;"
+title: "PVTAD: Alzheimer’s Disease Diagnosis Using Pyramid Vision Transformer Applied to White Matter of T1-Weighted Structural MRI Data"
+nickname: 2023-pvtad
+authors: "Aghdam, Maryam Akhavan; Bozdag, Serdar; Saeed, Fahad; Alzheimer’s Disease Neuroimaging Initiative; "
 year: "2024"
-journal: "Springer Protein Bioinformatics"
+journal: "Proceedings of IEEE International Symposium on Biomedical Imaging (ISBI)"
 volume: 
 issue:
-pages: 142-162
+pages: 1-4
 is_published: True
-image: /assets/images/papers/Protein_bio.png
-projects: [ML-MS]
+image: /assets/images/papers/ieee.png
+projects: [ML-brain-imaging]
 tags: []
 
 # Text
