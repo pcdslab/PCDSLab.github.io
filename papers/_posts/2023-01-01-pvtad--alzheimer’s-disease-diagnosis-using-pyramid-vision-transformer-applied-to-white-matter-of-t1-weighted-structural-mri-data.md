@@ -1,32 +1,32 @@
 ---
 layout: paper
 title: "PVTAD: ALZHEIMER’S DISEASE DIAGNOSIS USING PYRAMID VISION TRANSFORMER APPLIED TO WHITE MATTER OF T1-WEIGHTED STRUCTURAL MRI DATA"
-nickname: 2023-01-01-pvtad--alzheimer’s-disease-diagnosis-using-pyramid-vision-transformer-applied-to-white-matter-of-t1-weighted-structural-mri-data
+nickname: 2023-pvtad
 authors: "Aghdam, Maryam Akhavan; Bozdag, Serdar; Saeed, Fahad; Alzheimer’s Disease Neuroimaging Initiative; "
-year: "2023"
-journal: "Cold Spring Harbor Laboratory Preprints bioRxiv"
+year: "2024"
+journal: "Proceedings of IEEE International Symposium on Biomedical Imaging (ISBI)"
 volume: 
 issue:
-pages: 
-is_published: False
-image: /assets/images/papers/biorxiv.png
-projects: []
-tags: [preprint]
+Pages:1-4
+is_published: True
+image: /assets/images/papers/ieee.png
+projects: [ML-brain-imaging]
+tags: ML-brain
 
 # Text
-fulltext:
-pdf:
-pdflink:
+fulltext: https://ieeexplore.ieee.org/abstract/document/10635541
+pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635541
+pdflink: 
 pmcid:
 preprint: 
 supplement:
 
 # Links
-doi: "10.1101/2023.11.17.567617"
+doi: "10.1109/ISBI56570.2024.10635541"
 pmid:
 
 # Data and code
-github: []
+github: [https://github.com/pcdslab/PVTAD]
 neurovault:
 openneuro: []
 figshare:
@@ -37,4 +37,4 @@ osf:
 
 # Abstract
 
-Alzheimer's disease (AD) is a neurodegenerative disorder, and timely diagnosis is crucial for early interventions. AD is known to have disruptive local and global brain neural connections that may be instrumental in understanding and extracting specific biomarkers. Previous machine-learning approaches are mostly based on convolutional neural network (CNN) and standard vision transformer (ViT) models which may not sufficiently capture the multidimensional local and global patterns that may be indicative of AD. Therefore, in this paper, we propose a novel approach called PVTAD to classify AD and cognitively normal (CN) cases using pretrained pyramid vision transformer (PVT) and white matter (WM) of T1-weighted structural MRI (sMRI) data. Our approach combines the advantages of CNN and standard ViT to extract both local and global features indicative of AD from the WM coronal middle slices. We …
+Alzheimer's disease (AD) is a neurodegenerative disorder, and timely diagnosis is crucial for early interventions. AD is known to have disruptive local and global brain neural connections that may be instrumental in understanding and extracting specific biomarkers. Existing machine-learning approaches are mostly based on convolutional neural network (CNN) and standard vision transformer (ViT) models, which may not sufficiently capture the multidimensional local and global patterns indicative of AD. Therefore, in this paper, we propose a novel approach called PVTAD to classify AD and cognitively normal (CN) cases using pretrained pyramid vision transformer (PVT) and white matter (WM) of T1-weighted structural MRI (sMRI) data. Our approach combines the advantages of CNN and standard ViT to extract both local and global features indicative of AD from the WM coronal middle slices. We performed experiments on subjects with T1-weighed MPRAGE sMRI scans from the ADNI dataset. Our results demonstrate that the PVTAD achieves an average accuracy of 97.7% and an F1-score of 97.6%, outperforming the single and parallel CNN and standard ViT based on sMRI data for AD vs. CN classification. Our code is available at https://github.com/pcdslab/PVTAD.
