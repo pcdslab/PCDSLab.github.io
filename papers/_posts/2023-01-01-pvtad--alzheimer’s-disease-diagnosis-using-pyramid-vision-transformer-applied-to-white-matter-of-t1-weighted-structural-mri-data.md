@@ -11,7 +11,7 @@ Pages:1-4
 is_published: True
 image: /assets/images/papers/ieee.png
 projects: [ML-brain-imaging]
-tags: ML-brain
+tags: []
 
 # Text
 fulltext: https://ieeexplore.ieee.org/abstract/document/10635541
