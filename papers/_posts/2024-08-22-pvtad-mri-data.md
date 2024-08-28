@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "PVTAD: Alzheimer’s Disease Diagnosis Using Pyramid Vision Transformer Applied to White Matter of T1-Weighted Structural MRI Data,"
+title: "PVTAD: Alzheimer’s Disease Diagnosis Using Pyramid Vision Transformer Applied to White Matter of T1-Weighted Structural MRI Data"
 nickname: 2023-pvtad
 authors: "Aghdam, Maryam Akhavan; Bozdag, Serdar; Saeed, Fahad; Alzheimer’s Disease Neuroimaging Initiative; "
 year: "2024"
@@ -8,9 +8,9 @@ journal: "Proceedings of IEEE International Symposium on Biomedical Imaging (ISB
 volume: 
 issue:
 Pages:1-4
-is_published: True
+is_published: 
 image: /assets/images/papers/ieee.png
-projects: [ML-brain-imaging]
+projects: 
 tags: []
 
 # Text
@@ -26,7 +26,7 @@ doi: "10.1109/ISBI56570.2024.10635541"
 pmid:
 
 # Data and code
-github: https://github.com/pcdslab/PVTAD
+github: ["https://github.com/pcdslab/PVTAD"]
 neurovault:
 openneuro: []
 figshare:
