@@ -14,7 +14,7 @@ The Saeed Lab develops machine-learning models, combined with high-performance c
 
 Our work focuses on understanding the stochastic difference between identified peptides from high-throughput mass spectrometry data for applications related to human health, disease, and environment. In addition, our work focuses on understanding brain function in the context of prediction, diagnosis and characterization of biomarkers specific to disorders such as epilepsy, ADHD, Autism, and Alzheimer’s.
 
-To achieve these goals, we embrace open science principles and adopt and develop best practices to promote reproducible computational results. If you would like to know more about specific projects, you are welcome to visit us on [GitHub](https://github.com/pcdslab), [Research](https://pcdslab.github.io/projects/) and [Software](https://pcdslab.github.io/software/) pages.
+To achieve these goals, we embrace open science principles and adopt and develop best practices to promote reproducible computational results. If you would like to know more about specific projects, you are welcome to visit us on [GitHub](https://github.com/pcdslab), [Research](https://pcdslab.github.io/projects/) and [Software](https://pcdslab.github.io/software/) pages. Complete open project models and data are shared via [Open Science Framework (OSF)](https://osf.io/3k6mj/) and [Harvard DataVerse](https://dataverse.harvard.edu/dataverse/Saeed-Lab). 
 
 If you are a **prospective PhD student** please read and fill out the details [here](https://forms.gle/vwzi6fVkr1rHoxj96).<br>
 If you are a **prospective Post-Doctoral Fellow**, please read and fill out the details [here](https://forms.gle/vxJ3HMiydeV8scPo7).<br>
