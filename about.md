@@ -29,9 +29,9 @@ You can also find us on the [map] below.
 
 # Laboratory, Department, and University
 
-Located in Miami, [FIU](https://www.fiu.edu/about/rankings-facts/index.html) is Florida’s fastest growing public research university, the fourth largest university in the nation, and one of the nation’s largest Hispanic-Serving Institutions.
+Located in Miami, [FIU](https://www.fiu.edu/about/rankings-facts/index.html) is Florida’s fastest growing public research university [R1 - Very High Research Activity - University](https://carnegieclassifications.acenet.edu/institution/florida-international-university/), the fourth largest university in the nation, and one of the nation’s largest Hispanic-Serving Institutions.
 
-Our laboratory is part of the Knight Foundation School of Computing and Information Sciences (KFSCIS) at FIU. NSF ranks FIU 39th nationwide in externally-funded research expenditures and KFSCIS FIU R&D expenditures is ranked at 54 in the US and is climbing. More information about FIU program ranking can be found at this [link](https://www.fiu.edu/about/rankings-facts/index.html). 
+Our laboratory is part of the Knight Foundation School of Computing and Information Sciences (KFSCIS) at FIU. FIU is [ranked as #64 in public schools](https://www.usnews.com/best-colleges/fiu-9635/overall-rankings) in the US. NSF ranks FIU 39th nationwide in externally-funded research expenditures and KFSCIS FIU R&D expenditures is ranked at 54 in the US and is climbing. More information about FIU program ranking can be found at this [link](https://www.fiu.edu/about/rankings-facts/index.html). 
 
 The KFSCIS School has 35 tenure-track faculty members and over 2,000 students, including over 90 Ph.D. students. The School is engaged in on-going and exciting new and expanding programs for research, education and outreach. The School offers B.S., M.S., and Ph.D. degrees in Computer Science, and M.S. degrees in Telecommunications and Networking, Cyber-security, and Information Technology as well as B.S./B.A. degrees in Information Technology. For more information, visit https://www.cis.fiu.edu/
 
