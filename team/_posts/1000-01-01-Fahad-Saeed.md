@@ -11,7 +11,7 @@ scholar: IPXv-GQAAAAJ&hl=en
 orcid: 0000-0002-3410-9552
 osf: 3k6mj
 figshare: Angie_Laird/13123695
-dataverse: fahad_saeed
+dataverse: Saeed-Lab
 image: /assets/images/team/Saeed_pic_resized.jpg
 cv: /assets/pdfs/CV_Saeed.pdf
 alum: false
