@@ -9,7 +9,9 @@ twitter: Prof_FahadSaeed
 github: Prof-S
 scholar: IPXv-GQAAAAJ&hl=en
 orcid: 0000-0002-3410-9552
-Osf: 3k6mj
+osf: 3k6mj
+figshare: Angie_Laird/13123695
+dataverse: Saeed-Lab
 image: /assets/images/team/Saeed_pic_resized.jpg
 cv: /assets/pdfs/CV_Saeed.pdf
 alum: false

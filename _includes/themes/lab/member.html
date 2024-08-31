@@ -85,6 +85,43 @@
 		</div>		
 		<div class="bigspacer"></div>	
 		{% endif %}				   	
+
+		{% if member.osf %}
+		<div class="smallhead">
+			Open Science Foundation
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<img src="/assets/images//osf-icon.png" width="28" style="position: relative; right: 5px; bottom: 2px;">
+			<a class="off" style="position: relative; right: 9px;" href="https://osf.io/{{ member.osf }}">{{ member.osf }}</a>
+		</div>		
+		<div class="bigspacer"></div>	
+		{% endif %}		
+
+		{% if member.figshare %}
+		<div class="smallhead">
+			FigShare
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<img src="/assets/images//figshare-icon.png" width="20" style="position: relative; right: 1.8px; bottom: 2px;">
+			<a class="off" style="position: relative; right: 3px;" href="https://figshare.com/authors/{{ member.figshare }}">{{ member.figshare }}</a>
+		</div>		
+		<div class="bigspacer"></div>	
+		{% endif %}		
+
+		{% if member.dataverse %}
+		<div class="smallhead">
+			Dataverse
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-database fa-fw"></i>
+			<a class="off" href="https://dataverse.harvard.edu/dataverse/{{ member.dataverse }}">{{ member.dataverse }}</a>
+		</div>		
+		<div class="bigspacer"></div>	
+		{% endif %}		
+
 		{% if member.email %}
 		{% assign emailarray = member.email | split: '@' %}
 		<div class="smallhead">
