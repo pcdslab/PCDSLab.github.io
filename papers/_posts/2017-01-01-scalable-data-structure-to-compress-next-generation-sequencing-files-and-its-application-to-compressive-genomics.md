@@ -10,7 +10,7 @@ issue:
 pages: 1923-1928
 is_published: True
 image: /assets/images/papers/ieee.png
-projects: []
+projects: [HPC-MS]
 tags: []
 
 # Text

@@ -10,7 +10,7 @@ issue:
 pages: 1518-1526
 is_published: True
 image: /assets/images/papers/oxford.png
-projects: []
+projects: [HPC-MS]
 tags: []
 
 # Text

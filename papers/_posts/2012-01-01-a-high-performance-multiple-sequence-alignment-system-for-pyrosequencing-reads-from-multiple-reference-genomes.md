@@ -10,7 +10,7 @@ issue:
 pages: 83-93
 is_published: True
 image: /assets/images/papers/elsevier.png
-projects: []
+projects: [HPC-MS]
 tags: []
 
 # Text

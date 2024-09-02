@@ -10,7 +10,7 @@ issue:
 pages: 
 is_published: True
 image: /assets/images/papers/uspto.png
-projects: []
+projects: [HPC-MS]
 tags: []
 
 # Text
