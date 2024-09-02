@@ -147,31 +147,6 @@
 			{% endif %}
 		{% endfor %}
 
-		
-				<!-- Projects -->
-				{% if projectsq == true %}
-				<div class="bigspacer"></div>
-				<div class="head">Research</div>
-				<div class="spacer"></div>
-				{% for project in site.categories.projects %}
-					{% if project.contributors contains member.handle %}
-						  <div class="pad-left note"><p>
-							{% if project.type == "software" %}
-                                <a href="{{ project.url }}" class="off">[SOFTWARE] {{ project.title }}</a>
-                            {% elsif project.type == "pilot" %}
-                                <a href="{{ project.url }}" class="off">[PILOT] {{ project.title }}</a>
-							{% else %}
-								<a href="{{ project.url }}" class="off">{{ project.title }}</a>
-							{% endif %}
-						  </p></div>
-					{% endif %}
-				{% endfor %}
-			{% endif %}
-
-		
-		
-		
-		
 		{% if papersq == true %}
 			<div class="bigspacer"></div>
 			<div class="head">Papers</div>
