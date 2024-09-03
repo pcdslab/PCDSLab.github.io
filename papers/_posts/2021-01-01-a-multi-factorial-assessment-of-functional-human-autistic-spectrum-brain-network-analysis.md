@@ -10,7 +10,7 @@ issue:
 pages: 3526-3531
 is_published: True
 image: /assets/images/papers/ieee.png
-projects: []
+projects: [ML-brain-imaging]
 tags: []
 
 # Text

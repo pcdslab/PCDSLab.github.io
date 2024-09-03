@@ -10,7 +10,7 @@ issue:
 pages: 
 is_published: True
 image: /assets/images/papers/springer.png
-projects: []
+projects: [ML-brain-imaging]
 tags: []
 
 # Text

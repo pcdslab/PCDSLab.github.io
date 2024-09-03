@@ -10,7 +10,7 @@ issue:
 pages: 654315
 is_published: True
 image: /assets/images/papers/frontiers.png
-projects: []
+projects: [ML-brain-imaging]
 tags: []
 
 # Text
