@@ -10,7 +10,7 @@ issue:
 pages: 70
 is_published: true
 image: /assets/images/papers/frontiers.png
-projects: MLSPred-Bench
+projects: [ML-brain-imaging]
 tags: []
 
 # Text

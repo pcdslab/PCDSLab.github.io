@@ -10,7 +10,7 @@ issue:
 pages: 70
 is_published: True
 image: /assets/images/papers/biorxiv.png
-projects: []
+projects: [ML-brain-imaging]
 tags: []
 
 # Text
