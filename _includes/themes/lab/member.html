@@ -156,7 +156,7 @@
 					{% if project.embargo %}
 					<p>{{ project.title }}
 					{% else %}
-					<p><a href="{{ project.url }}" class="off">{{ project.title }}</a>
+					<p><a href="{{ project.url }}" class="off">[{{ project.type }}] {{ project.title }}</a>
 					{% endif %}
 				{% endif %}
 			{% endfor %}
