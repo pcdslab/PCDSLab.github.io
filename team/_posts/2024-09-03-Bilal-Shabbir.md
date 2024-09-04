@@ -12,6 +12,7 @@ orcid: 0009-0000-4271-689X
 researchgate: Bilal-Shabbir-2
 osf: zd8ct
 figshare: Bilal_Shabbir/19535377
+cv: /assets/pdfs/Bilal_CV.pdf
 image: /assets/images/team/bilalshabbir.jpeg
 alum: false
 ---
