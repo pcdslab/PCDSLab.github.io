@@ -120,7 +120,19 @@
 			<a class="off" href="https://dataverse.harvard.edu/dataverse/{{ member.dataverse }}">{{ member.dataverse }}</a>
 		</div>		
 		<div class="bigspacer"></div>	
-		{% endif %}		
+		{% endif %}
+		
+		{% if member.researchgate %}
+		<div class="smallhead">
+			ResearchGate
+		</div>	
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<img src="/assets/images//researchgate.svg" width="20" style="position: relative; right: 1.8px; bottom: 2px;">
+			<a class="off" href="https://www.researchgate.net/profile/{{ member.researchgate }}">{{ member.researchgate }}</a>
+		</div>		
+		<div class="bigspacer"></div>	
+		{% endif %}	
 
 		{% if member.email %}
 		{% assign emailarray = member.email | split: '@' %}
