@@ -57,6 +57,13 @@ This new announcement won't yet be public. Make a pull request that will be revi
 
 The same basic process is used to add protocols, team members, etc. For usual things follow the steps below.
 
+## Using GitHub Desktop
+
+1. Download and install GitHub Desktop from [this link](https://desktop.github.com/download/).
+2. Open GitHub Desktop and connect it to your GitHub account.
+3. Go to `File` -> `Clone repository...` and choose your local copy of the repository `https://github.com/pcdslab/PCDSLab.github.io`.
+4. Select the option **To contribute to the parent project** and click **Continue**.
+
 ## Add your self as team member
 1. Fork a local copy at https://github.com/pcdslab/PCDSLab.github.io
 2. Change directory to /team/_posts
