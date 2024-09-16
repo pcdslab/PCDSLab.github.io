@@ -4,7 +4,7 @@ title: "Utilizing Pretrained Vision Transfomers and Large Language Models for Ep
 nickname: ViTs and LLMs for Seizure Prediction
 authors: "Parani, Paras; Mohammad, Umair; Saeed, Fahad; "
 year: "2024"
-conference: "8th International Conference on Data Science and Machine Learning (CDMA 2024)"
+journal: "Proceedings of the 8th International Conference on Data Science and Machine Learning (CDMA 2024)"
 volume: 
 issue:
 pages: 1-8
@@ -26,7 +26,7 @@ doi:
 pmid:
 
 # Data and code
-github: [UtilLLM_EPS]
+github: [https://github.com/pcdslab/UtilLLM_EPS]
 neurovault:
 openneuro: []
 figshare:
