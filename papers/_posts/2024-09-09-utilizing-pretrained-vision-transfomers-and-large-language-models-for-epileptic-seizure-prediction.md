@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 1-8
 is_published: False
-image: /assets/images/papers/biorxiv.png
+image: /assets/images/papers/ieee.png
 projects: [ML-seizure]
 tags: [conference]
 
