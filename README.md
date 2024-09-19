@@ -57,8 +57,16 @@ This new announcement won't yet be public. Make a pull request that will be revi
 
 The same basic process is used to add protocols, team members, etc. For usual things follow the steps below.
 
+## Using GitHub Desktop
+
+1. Download and install GitHub Desktop from [this link](https://desktop.github.com/download/).
+2. Open GitHub Desktop and connect it to your GitHub account.
+3. Fork a local copy at https://github.com/pcdslab/PCDSLab.github.io
+3. In GitHub Desktop go to `File` -> `Clone repository...` and choose your local copy of the repository `https://github.com/pcdslab/PCDSLab.github.io`.
+4. Select the option **To contribute to the parent project** and click **Continue**.
+
 ## Add your self as team member
-1. Fork a local copy at https://github.com/pcdslab/PCDSLab.github.io
+1. Open your your local copy of the repository `https://github.com/pcdslab/PCDSLab.github.io` from GitHub Desktop
 2. Change directory to /team/_posts
 3. Copy one of the .md files and rename it as follows: Date_when_you_joined_lab-LastName-FirstName.md
 4. Put in all the relevant information in the .md file above.
@@ -69,7 +77,7 @@ The same basic process is used to add protocols, team members, etc. For usual th
 
 
 ## Add your new paper
-1. Fork a local copy at https://github.com/pcdslab/PCDSLab.github.io
+1. Open your your local copy of the repository `https://github.com/pcdslab/PCDSLab.github.io` from GitHub Desktop
 2. Change directory to /papers/_posts
 3. Copy one of the .md files and rename it as follows: Yesterdays_date_Paper_title_Author_last-name.md
 4. Put in all the relevant information in the .md file above.
