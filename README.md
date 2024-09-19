@@ -79,7 +79,7 @@ The same basic process is used to add protocols, team members, etc. For usual th
 ## Add your new paper
 1. Open your local copy of the repository `https://github.com/pcdslab/PCDSLab.github.io` from GitHub Desktop
 2. Change directory to /papers/_posts
-3. Copy one of the .md files and rename it as follows: Yesterdays_date_Paper_title_Author_last-name.md
+3. Copy one of the .md files and rename it as follows: Yesterdays_date_Paper_short_title_Author_last-name.md (make sure that the filename is not too big)
 4. Put in all the relevant information in the .md file above.
 5. Make sure that you add projects: [your project handle - you can get this handle from /projects/_posts/your_project.md], all relevant authors (from the lab), relevant links to the paper, and an abstract in the above .md file. This ensure that the paper appears in their profiles, as well in the project pages. 
 5. Put in your picture in /assets/images/papers/Cool_picture_from_paper.jpg (Follow the guidelines at [Assets](#Assets))
