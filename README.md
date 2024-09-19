@@ -66,7 +66,7 @@ The same basic process is used to add protocols, team members, etc. For usual th
 4. Select the option **To contribute to the parent project** and click **Continue**.
 
 ## Add your self as team member
-1. Open your your local copy of the repository `https://github.com/pcdslab/PCDSLab.github.io` from GitHub Desktop
+1. Open your local copy of the repository `https://github.com/pcdslab/PCDSLab.github.io` from GitHub Desktop
 2. Change directory to /team/_posts
 3. Copy one of the .md files and rename it as follows: Date_when_you_joined_lab-LastName-FirstName.md
 4. Put in all the relevant information in the .md file above.
@@ -77,7 +77,7 @@ The same basic process is used to add protocols, team members, etc. For usual th
 
 
 ## Add your new paper
-1. Open your your local copy of the repository `https://github.com/pcdslab/PCDSLab.github.io` from GitHub Desktop
+1. Open your local copy of the repository `https://github.com/pcdslab/PCDSLab.github.io` from GitHub Desktop
 2. Change directory to /papers/_posts
 3. Copy one of the .md files and rename it as follows: Yesterdays_date_Paper_title_Author_last-name.md
 4. Put in all the relevant information in the .md file above.
