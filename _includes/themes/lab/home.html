@@ -134,18 +134,20 @@
       <div class="bigspacer"></div>
       <div class="feedbox">
         {% for project in site.categories.projects limit: 6 %}
-          <div class="note-title">
-            <i class="fa fa-database fa-fw"></i>
-            <a class="off" href="{{ project.url }}">{{ project.title }}</a>
+          {% if project.status != "complete" %}
+            <div class="note-title">
+              <i class="fa fa-database fa-fw"></i>
+              <a class="off" href="{{ project.url }}">{{ project.title }}</a>
+              <br/>
+            </div>
+            {{ project.tagline }}
             <br/>
-          </div>
-          {{ project.tagline }}
-          <br/>
-          <div class="smallspacer"></div>
-          <div class="smallnote">
-            {{ project.excerpt }}
-          </div>
-          <div class="spacer"></div>
+            <div class="smallspacer"></div>
+            <div class="smallnote">
+              {{ project.excerpt }}
+            </div>
+            <div class="spacer"></div>
+          {% endif %}
         {% endfor %}
       </div>
       <div class="bigspacer"></div>
