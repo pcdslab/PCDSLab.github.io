@@ -9,7 +9,7 @@ twitter: falmuqhim
 github: falmuqhim
 scholar: LGQE9qMAAAAJ&hl=en
 orcid: 0009-0002-4676-4703
-osf: bux4q
+osf: w83gv
 image: /assets/images/team/fahad_almuqhim.png
 alum: false
 ---
