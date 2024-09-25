@@ -1,17 +1,17 @@
 ---
 layout: member
 title: "Paras Parani"
-position: Student Research Assistant 
+position: Graduate Research Assistant 
 nickname: paras
 handle: paras1242
 email: ppara014@fiu.edu
 twitter: 
 github: paras1242
 scholar: 
-orcid: 
-osf: 
+orcid: 0009-0004-4688-5059
+osf: ukgp4
 image: /assets/images/team/parani.jpg
-cv: /assets/pdfs/Paras_Parani_Resume.pdf
+cv: /assets/pdfs/CV_Paras.pdf
 alum: false
 ---
 
