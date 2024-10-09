@@ -10,7 +10,7 @@ The Parallel Computing and Data Science Lab (Saeed Lab) is a computational resea
 
 The Saeed Lab is located on FIU’s [MMC Campus](https://campusmaps.fiu.edu/docs/MMC.pdf) in the [Computing, Arts, Sciences & Education (CASE) building (Room 261)](https://campusmaps.fiu.edu/index.html#/campus/MMC).
 
-The Saeed Lab develops machine-learning models, combined with high-performance computing, and data science approaches, to study the functional genomics, and organization of the human brain.
+The Saeed Lab develops machine-learning models, combined with high-performance computing, and data science approaches, to study the functional genomics (proteomics), and organization of the human brain.
 
 Our work focuses on understanding the stochastic difference between identified peptides from high-throughput mass spectrometry data for applications related to human health, disease, and environment. In addition, our work focuses on understanding brain function in the context of prediction, diagnosis and characterization of biomarkers specific to disorders such as epilepsy, ADHD, Autism, and Alzheimer’s.
 
