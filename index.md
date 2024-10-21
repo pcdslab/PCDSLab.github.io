@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Parallel Computing and Data Science Lab
 homepage: true
 banner-1: "/assets/themes/lab/images/banner/banner-1.svg"
 banner-2: "/assets/themes/lab/images/banner/banner-1.svg"
