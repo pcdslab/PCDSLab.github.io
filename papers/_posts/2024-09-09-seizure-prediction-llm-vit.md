@@ -14,7 +14,7 @@ projects: [ML-seizure]
 tags: [conference]
 
 # Text
-fulltext:
+fulltext: [https://www.biorxiv.org/content/10.1101/2024.11.03.621742v1]
 pdf:
 pdflink:
 pmcid:
