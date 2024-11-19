@@ -1,7 +1,7 @@
 ---
 layout: member
-title: "Paras Parani"
-position: independent study student
+title: "Myrah Bisht"
+position: Research Assistant
 nickname: myrah
 handle: myrahbisht
 email: mbish016@fiu.edu
