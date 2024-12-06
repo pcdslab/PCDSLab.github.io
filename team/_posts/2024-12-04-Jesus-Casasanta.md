@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Jesus Casasanta"
-position: Undergraduate Computer Research Assistant
+position: Undergraduate Research Assistant
 nickname: jesus
 handle: jcasasanta
 email: jcasa121@fiu.edu
