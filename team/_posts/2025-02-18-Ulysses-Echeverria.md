@@ -13,7 +13,7 @@ researchgate: Ulysses-Echeverria
 osf: cq6zh
 figshare: 
 cv: /assets/pdfs/CV_Echeverria.pdf
-image: /assets/images/team/Echeverria_picture.jpeg
+image: /assets/images/team/Echeverria_picture.jpg
 alum: false
 ---
 
