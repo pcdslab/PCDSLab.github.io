@@ -10,7 +10,7 @@ issue:
 pages: 1793-1805
 is_published: True
 image: /assets/images/papers/asn.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text

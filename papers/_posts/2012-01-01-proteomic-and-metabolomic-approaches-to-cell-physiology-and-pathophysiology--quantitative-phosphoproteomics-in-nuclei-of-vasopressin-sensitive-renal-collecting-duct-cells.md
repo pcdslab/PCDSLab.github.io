@@ -10,7 +10,7 @@ issue:
 pages: C1006
 is_published: True
 image: /assets/images/papers/aps.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text

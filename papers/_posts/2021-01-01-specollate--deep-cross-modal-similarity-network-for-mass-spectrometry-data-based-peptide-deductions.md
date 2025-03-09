@@ -10,7 +10,7 @@ issue:
 pages: e0259349
 is_published: True
 image: /assets/images/papers/plos.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text

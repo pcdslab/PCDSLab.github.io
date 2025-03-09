@@ -10,7 +10,7 @@ issue:
 pages: 23
 is_published: True
 image: /assets/images/papers/springer.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text

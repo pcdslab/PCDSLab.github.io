@@ -10,7 +10,7 @@ issue:
 pages: 7-19
 is_published: True
 image: /assets/images/papers/springer.png
-projects: [HPC-MS]
+projects: [HPC-MS,ML-MS]
 tags: []
 
 # Text

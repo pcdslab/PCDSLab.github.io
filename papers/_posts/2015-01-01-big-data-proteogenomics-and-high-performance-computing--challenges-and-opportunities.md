@@ -10,7 +10,7 @@ issue:
 pages: 141-145
 is_published: True
 image: /assets/images/papers/ieee.png
-projects: [HPC-MS]
+projects: [HPC-MS,ML-MS]
 tags: []
 
 # Text

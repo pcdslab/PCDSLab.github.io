@@ -10,7 +10,7 @@ issue:
 pages: 18311
 is_published: True
 image: /assets/images/papers/nature.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text

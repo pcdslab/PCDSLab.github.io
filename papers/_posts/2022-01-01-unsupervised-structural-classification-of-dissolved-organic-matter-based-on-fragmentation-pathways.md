@@ -10,7 +10,7 @@ issue:
 pages: 1458-1468
 is_published: True
 image: /assets/images/papers/acs.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text

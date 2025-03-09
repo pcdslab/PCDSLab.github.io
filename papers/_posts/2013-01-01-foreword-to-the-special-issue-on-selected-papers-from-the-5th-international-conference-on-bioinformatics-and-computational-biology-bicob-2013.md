@@ -10,7 +10,7 @@ issue:
 pages: 1302002
 is_published: True
 image: /assets/images/papers/biorxiv.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text

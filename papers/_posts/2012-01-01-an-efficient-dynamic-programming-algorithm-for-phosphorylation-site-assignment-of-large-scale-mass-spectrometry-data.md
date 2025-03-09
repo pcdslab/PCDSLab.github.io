@@ -10,7 +10,7 @@ issue:
 pages: 618-625
 is_published: True
 image: /assets/images/papers/ieee.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text

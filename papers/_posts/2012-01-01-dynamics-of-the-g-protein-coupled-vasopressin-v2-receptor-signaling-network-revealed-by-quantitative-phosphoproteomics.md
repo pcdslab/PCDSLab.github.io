@@ -10,7 +10,7 @@ issue:
 pages: 
 is_published: True
 image: /assets/images/papers/elsevier.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text

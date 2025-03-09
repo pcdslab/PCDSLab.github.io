@@ -10,7 +10,7 @@ issue:
 pages: 1-15
 is_published: True
 image: /assets/images/papers/oxford.png
-projects: []
+projects: [ML-MS]
 tags: []
 
 # Text
