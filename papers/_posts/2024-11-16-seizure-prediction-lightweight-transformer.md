@@ -4,25 +4,25 @@ title: "Lightweight Transformer exhibits comparable performance to LLMs for Seiz
 nickname: ESPFormer for Seizure Prediction
 authors: "Parani, Paras; Mohammad, Umair; Saeed, Fahad; "
 year: "2024"
-journal: "Proceedings of the 2024 IEEE International Conference on Big Data workshop HPC-BOD 2024"
+journal: "Proceedings of the IEEE International Conference on Big Data (IEEE BigData)"
 volume: 
 issue:
-pages: 1-5
-is_published: False
+pages: 4941-4945
+is_published: True
 image: /assets/images/papers/ieee.png
 projects: [ML-seizure]
 tags: [workshop]
 
 # Text
-fulltext: 
-pdf:
+fulltext: https://ieeexplore.ieee.org/document/10825319
+pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10825319
 pdflink:
-pmcid:
+pmcid: PMC11877310  
 preprint: 
 supplement:
 
 # Links
-doi: 
+doi: 10.1109/BigData62323.2024.10825319
 pmid:
 
 # Data and code
