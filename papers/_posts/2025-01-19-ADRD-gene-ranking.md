@@ -1,5 +1,5 @@
 ---
-layout: poster
+layout: paper
 title: "Alzheimer’s disease-associated gene ranking using PhenoGeneRanker"
 nickname: ADRD-gene-ranker
 authors: "Most Tahmina Rahman; Saeed, Fahad; Serdar Bozdag;"
@@ -11,7 +11,7 @@ pages: 1-5
 is_published: True
 image: /assets/images/papers/ADRD.png
 projects: [ML-ADRD]
-tags: [poster]
+tags: [ML, gene, ADRD]
 
 # Text
 fulltext: https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.090044
