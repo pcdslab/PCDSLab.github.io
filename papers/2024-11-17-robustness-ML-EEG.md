@@ -8,7 +8,7 @@ journal: "Proceedings of 20th International Conference on Distributed Computing 
 volume: 
 issue:
 pages: 620-626
-is_published: False
+is_published: True
 image: /assets/images/papers/ieee.png
 projects: [ML-seizure]
 tags: [workshop]
