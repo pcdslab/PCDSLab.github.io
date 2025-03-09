@@ -6,7 +6,7 @@ authors: "Maryam Akhavan Aghdam; Bozdag, Serdar; Saeed, Fahad;"
 year: "2023"
 conference: "KFSCIS-2023"
 image: /assets/images/posters/PVTADNet-poster.png
-projects: ["ML-brain-imaging", "ML-MS"]
+projects: ["ML-brain-imaging", "ML-ADRD"]
 tags: []
 
 # Content
