@@ -32,7 +32,12 @@
         Funding
       </div>
       <div class="pad-left note">
-      	<a class="off" href="{{ page.grant_url }}">{{ page.grant }}</a>
+        {% for grant in page.grant %}
+          <div>
+            <a class="off" href="{{ grant.url }}">{{ grant.id }}</a>
+          </div>
+        {% endfor %}
+      	
       </div>
       <div class="bigspacer"></div>
     {% endif %}

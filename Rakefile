@@ -12,6 +12,8 @@ CONFIG = {
   'post_ext' => "md",
   'papers' => File.join(SOURCE, "papers/_posts"),
   'paper_ext' => "md",
+  'projects' => File.join(SOURCE, "projects/_posts"),
+  'projects_ext' => "md",
   'protocols' => File.join(SOURCE, "protocols/_posts"),
   'protocol_ext' => "md",
   'theme_package_version' => "0.1.0"
@@ -28,6 +30,7 @@ module JB
       :theme_packages => "_theme_packages",
       :posts => "_posts",
       :papers => "papers/_posts",
+      :projects => "projects/_posts",
       :protocols => "protocols/_posts"
     }
     
