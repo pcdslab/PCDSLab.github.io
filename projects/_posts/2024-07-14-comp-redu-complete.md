@@ -9,8 +9,7 @@ type: analysis
 
 # Optional
 website:
-grant: NSF 1464268
-grant_url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1464268&HistoricalAwards=false
+grant: [{id: "NSF 1464268", url: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1464268&HistoricalAwards=false"}]
 image: /assets/images/projects/tpds-gagraphic-2692782.jpg
 tagline: Development of methods that can operate on compressed big data
 tags: []
