@@ -14,11 +14,11 @@ projects: [ML-seizure]
 tags: [conference]
 
 # Text
-fulltext: [https://ieeexplore.ieee.org/abstract/document/10908748]
-pdf: 
-pdflink: [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10908748]
+fulltext: https://ieeexplore.ieee.org/abstract/document/10908748
+pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10908748
+pdflink:
 pmcid:
-preprint: [https://www.biorxiv.org/content/10.1101/2024.11.03.621742v1]
+preprint: https://www.biorxiv.org/content/10.1101/2024.11.03.621742v1
 supplement:
 
 # Links
