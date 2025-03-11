@@ -3,18 +3,18 @@ layout: paper
 title: "Utilizing Pretrained Vision Transfomers and Large Language Models for Epileptic Seizure Prediction"
 nickname: ViTs and LLMs for Seizure Prediction
 authors: "Parani, Paras; Mohammad, Umair; Saeed, Fahad; "
-year: "2024"
-journal: "Proceedings of the 8th International Conference on Data Science and Machine Learning (CDMA 2024)"
+year: "2025"
+journal: "Proceedings of the 8th International Conference on Data Science and Machine Learning (CDMA 2025)"
 volume: 
 issue:
-pages: 1-8
-is_published: False
+pages: 132-137
+is_published: True
 image: /assets/images/papers/ieee.png
 projects: [ML-seizure]
 tags: [conference]
 
 # Text
-fulltext: [https://www.biorxiv.org/content/10.1101/2024.11.03.621742v1]
+fulltext: [https://ieeexplore.ieee.org/abstract/document/10908748]
 pdf:
 pdflink:
 pmcid:
@@ -22,7 +22,7 @@ preprint:
 supplement:
 
 # Links
-doi: 
+doi: "10.1109/CDMA61895.2025.00028"
 pmid:
 
 # Data and code
