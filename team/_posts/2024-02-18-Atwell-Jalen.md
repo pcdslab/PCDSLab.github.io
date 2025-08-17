@@ -12,7 +12,7 @@ orcid:
 osf:   
 image: /assets/images/team/Atwell-Jalen-2024_cropped.jpg
 cv: /assets/pdfs/CV_Atwell.pdf
-alum: false
+alum: True
 ---
 Jalen Atwell bio 
 

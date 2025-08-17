@@ -12,6 +12,6 @@ orcid:
 osf: 
 image: /assets/images/team/Jesus-Casasanta.jpg
 cv: 
-alum: false
+alum: True
 ---
 

@@ -12,7 +12,7 @@ orcid:
 osf: 
 image: /assets/images/team/headshot_sam-e1691088484270.jpg
 cv: 
-alum: false
+alum: True
 ---
 
 ### BSc - CS - North Carolina State University Raleigh, NC USA
