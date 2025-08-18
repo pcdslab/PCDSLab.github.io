@@ -1,7 +1,8 @@
 ---
 layout: member
 title: "Fahad Saeed"
-position: Full Professor of Computing and Lab Director 
+position: Full Professor of Computing and Lab Director
+Address: Mailing Address: 11200 SW 8th St, INNOVATION Complex (Room INV 205), Miami, FL 33199, USA E-mail: fsaeed@fiu.edu Twitter: @Prof_FahadSaeed  Phone: +1-305-348-3131
 nickname: Fahad
 handle: Prof-S
 email: fsaeed@fiu.edu
