@@ -1,24 +1,24 @@
 ---
 layout: paper
-title: "MLSPred-Bench: ML-Ready Benchmark Leveraging Seizure Detection EEG data for Predictive Models"
+title: "MLSPred-Bench: Transforming Electroencephalography (EEG) Datasets into Machine Learning-Ready Seizure Prediction Benchmarks"
 nickname: MLSPred-Bench-paper
 authors: "Mohammad, Umair; Saeed, Fahad; "
-year: "2024"
-journal: "bioRxiv"
+year: "2025"
+journal: "Elsevier MethodsX"
 volume: 
 issue:
 pages: 1-8
-is_published: False
-image: /assets/images/papers/biorxiv.png
+is_published: True
+image: /assets/images/papers/methodsx.jpg
 projects: [ML-seizure]
-tags: [preprint]
+tags: [ML, EEG, Epilepsy]
 
 # Text
-fulltext: https://www.biorxiv.org/content/10.1101/2024.07.17.604006v1
+fulltext: 
 pdf:
-pdflink: https://www.biorxiv.org/content/10.1101/2024.07.17.604006v1.full.pdf
+pdflink: 
 pmcid:
-preprint: 
+preprint: https://www.biorxiv.org/content/10.1101/2024.07.17.604006v1.full.pdf 
 supplement:
 
 # Links
@@ -26,12 +26,12 @@ doi: "10.1101/2024.07.17.604006"
 pmid:
 
 # Data and code
-github: []
+github: [https://github.com/pcdslab/MLSPred-Bench]
 neurovault:
 openneuro: []
 figshare:
 figshare_names:
-osf:
+osf: 2j7c8
 ---
 {% include JB/setup %}
 
