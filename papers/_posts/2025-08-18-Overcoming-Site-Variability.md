@@ -4,12 +4,12 @@ title: "Overcoming Site Variability in Multisite fMRI Studies: An Autoencoder Fr
 nickname: AE-Harmonization-paper
 authors: "Almuqhim, Fahad; Saeed, Fahad; "
 year: "2025"
-journal: "Neuroinformatics Journal"
+journal: "Springer Neuroinformatics"
 volume: 
 issue:
 pages:
 is_published: True
-image: /assets/images/papers/springer.png
+image: /assets/images/papers/neuroinformatics.jpeg
 projects: [ML-brain-imaging]
 tags: [ML, AE, ComBat, ASD, Multisite]
 
