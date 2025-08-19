@@ -31,7 +31,7 @@ neurovault:
 openneuro: []
 figshare:
 figshare_names:
-osf: 2j7c8
+osf: [2j7c8]
 ---
 {% include JB/setup %}
 
