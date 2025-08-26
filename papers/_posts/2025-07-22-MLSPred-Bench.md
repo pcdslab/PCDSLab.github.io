@@ -14,7 +14,7 @@ projects: [ML-seizure]
 tags: [ML, EEG, Epilepsy]
 
 # Text
-fulltext: 
+fulltext: https://doi.org/10.1016/j.mex.2025.103574 
 pdf:
 pdflink: 
 pmcid:
