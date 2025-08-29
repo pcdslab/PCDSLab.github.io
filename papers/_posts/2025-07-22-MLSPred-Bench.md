@@ -10,7 +10,7 @@ issue:
 pages: 1-8
 is_published: True
 image: /assets/images/papers/methodsx.jpg
-projects: [ML-seizure]
+projects: [ML-seizure, MLSPred-Bench]
 tags: [ML, EEG, Epilepsy]
 
 # Text
