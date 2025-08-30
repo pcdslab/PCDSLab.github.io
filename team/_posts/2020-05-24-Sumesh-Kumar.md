@@ -12,7 +12,7 @@ orcid:
 osf: 
 image: /assets/images/team/Sumesh_Kumar.jpg
 cv: 
-alum: true
+alum: false
 ---
 
 ### B.Sc. - National University of Sciences and Technology (NUST), Islamabad; MSc. 
