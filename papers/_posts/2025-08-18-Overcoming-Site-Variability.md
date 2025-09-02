@@ -5,8 +5,8 @@ nickname: AE-Harmonization-paper
 authors: "Almuqhim, Fahad; Saeed, Fahad; "
 year: "2025"
 journal: "Springer Neuroinformatics"
-volume: 
-issue:
+volume: 23
+issue: article 46
 pages:
 is_published: True
 image: /assets/images/papers/neuroinformatics.jpeg
@@ -14,15 +14,15 @@ projects: [ML-brain-imaging]
 tags: [ML, AE, ComBat, ASD, Multisite]
 
 # Text
-fulltext: 
+fulltext: https://link.springer.com/article/10.1007/s12021-025-09746-1
 pdf:
-pdflink: 
+pdflink: https://link.springer.com/content/pdf/10.1007/s12021-025-09746-1.pdf
 pmcid:
 preprint:  
 supplement:
 
 # Links
-doi: 
+doi: 10.1007/s12021-025-09746-1
 pmid:
 
 # Data and code
