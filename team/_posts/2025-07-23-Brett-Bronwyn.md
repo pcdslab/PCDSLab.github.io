@@ -14,4 +14,4 @@ alum: false
 ---
 **Short Bio**
 
-Bronwyn Brett is an MS student pursuing a degree in Computer Science at Florida International University. She's currently working as a volunteer research assistant at Saeed Lab where she is learning how to process health/biomedical data for machine-learning models to predict Alzheimer's disease. Her research and educational interests include machine-learning and high-performance computing with a focus on computational biology and biomedical data science and is interested in learning more about their applications in neurodevelopmental disorders such as ADHD.
+Bronwyn Brett is an MS student pursuing a degree in Computer Science at Florida International University. She's currently working as a research assistant at Saeed Lab where she is learning how to process health/biomedical data for machine-learning models to predict Alzheimer's disease. Her research and educational interests include machine-learning and high-performance computing with a focus on computational biology and biomedical data science and is interested in learning more about their applications in neurodevelopmental disorders such as ADHD.
