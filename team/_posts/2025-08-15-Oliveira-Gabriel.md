@@ -4,12 +4,12 @@ title: "Gabriel Bianchin de Oliveira"
 position: Postdoctoral Fellow
 nickname: GabrielBianchin
 handle: gabrielbianchin
-email: 
+email: gabbianc@fiu.edu
 twitter: Ga_Bianchin
 github: gabrielbianchin
 scholar: hSQGmeYAAAAJ&hl=en
 orcid: 0000-0002-1238-4860
-osf: 
+osf: 7f9me
 image: /assets/images/team/gabriel_oliveira.jpg
 cv: /assets/pdfs/CV_Gabriel.pdf
 alum: false
