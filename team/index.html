@@ -58,6 +58,11 @@ navorder: 2
 <div class="bigtitle text-center">Alumni</div>
 <div class="bigspacer"></div>
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 {% assign alumni = site.categories.team | where: "alum","true"%}
 {% assign memberindex = 0 %}
 {% for member in alumni %}
