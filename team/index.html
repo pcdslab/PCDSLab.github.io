@@ -58,10 +58,23 @@ navorder: 2
 <div class="bigtitle text-center">Alumni</div>
 <div class="bigspacer"></div>
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+<table>
+	<tr>
+	  <th>Company</th>
+	  <th>Contact</th>
+	  <th>Country</th>
+	</tr>
+	<tr>
+	  <td>Alfreds Futterkiste</td>
+	  <td>Maria Anders</td>
+	  <td>Germany</td>
+	</tr>
+	<tr>
+	  <td>Centro comercial Moctezuma</td>
+	  <td>Francisco Chang</td>
+	  <td>Mexico</td>
+	</tr>
+  </table>
 
 {% assign alumni = site.categories.team | where: "alum","true"%}
 {% assign memberindex = 0 %}
