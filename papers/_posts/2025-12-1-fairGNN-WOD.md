@@ -9,7 +9,7 @@ volume:
 issue: Article 63
 pages: 556 - 564
 is_published: True
-image: /assets/images/papers/acm.jpeg
+image: /assets/images/papers/acm.jpg
 projects: [ML-brain-imaging]
 tags: [ML, ASD, ADRD, Multisite]
 
