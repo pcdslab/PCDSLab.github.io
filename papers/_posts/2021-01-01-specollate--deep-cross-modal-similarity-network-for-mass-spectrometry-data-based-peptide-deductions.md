@@ -9,7 +9,7 @@ volume: 16
 issue:
 pages: e0259349
 is_published: True
-image: /assets/images/papers/plos.png
+image: /assets/images/papers/plos.jpg
 projects: [ML-MS]
 tags: []
 
