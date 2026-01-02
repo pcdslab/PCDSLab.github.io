@@ -3,7 +3,7 @@ layout: home
 title: Precision Computational Health and Biomedical Data Science Lab
 homepage: true
 banner-1: "/assets/themes/lab/images/banner/banner-1.svg"
-banner-2: "/assets/themes/lab/images/banner/banner-2.png"
+banner-2: "/assets/themes/lab/images/banner/banner-1.svg"
 ---
 The Precision Computational Health and Biomedical Data Science Lab (Saeed Lab) is a computational research lab based at [Knight Foundation School of Computing and Information Sciences (KFSCIS)](https://www.cis.fiu.edu/), [Florida International University](https://www.fiu.edu/) in Miami, Florida, led by [Dr. Fahad Saeed](https://prof-s.github.io/).
 
