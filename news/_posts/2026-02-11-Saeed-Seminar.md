@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Prof. Saeed delivers Distinguished Invited Seminar, Ulster University, Ireland UK
+title: Invited Distinguished Research Seminar, Ulster University, Ireland UK.
 tags: [talks]
 image:
 excerpt: Prof. Saeed delivers a distinguished invited talk at Ulster University, UK.
