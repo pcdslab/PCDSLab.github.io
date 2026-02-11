@@ -10,4 +10,6 @@ Prof. Saeed delivered a distinguished invited talk entitled “Capturing Proteom
 
 In this talk, Dr. Saeed discussed different challenges and opportunities specific to AI models for biomedical and health data. 
 
-/assets/images/news/Certificate.jpg
+![Certificate of Distinguished Talk](/assets/images/news/Certificate.jpg)
+
+
