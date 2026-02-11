@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Invited Distinguished Research Seminar, Ulster University, Ireland UK
+title: Prof. Saeed delivers Distinguished Invited Seminar, Ulster University, Ireland UK
 tags: [talks]
 image:
 excerpt: Prof. Saeed delivers a distinguished invited talk at Ulster University, UK.
@@ -10,4 +10,4 @@ Prof. Saeed delivered a distinguished invited talk entitled “Capturing Proteom
 
 In this talk, Dr. Saeed discussed different challenges and opportunities specific to AI models for biomedical and health data. 
 
-/assets/images/news/Certificate.pdf
+/assets/images/news/Certificate.jpg
