@@ -11,7 +11,7 @@ pages:
 is_published: False
 image: /assets/images/papers/biorxiv.png
 projects: [ML-molecular-protein-representation]
-tags: [molecules]
+tags: [preprint]
 
 # Text
 fulltext: https://www.biorxiv.org/content/10.64898/2026.02.15.706011v1
