@@ -182,11 +182,13 @@
 			<ol>
 			{% for paper in site.categories.papers %}
 				{% if paper.authors contains lastname %}
+					<li>
 					{% if paper.embargo %}
 					<p>{{ paper.title }}
 					{% else %}
 					<p><a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
 					{% endif %}
+				</li>
 				{% endif %}
 			{% endfor %}
 			</ol>
