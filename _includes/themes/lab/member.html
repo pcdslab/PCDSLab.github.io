@@ -179,6 +179,7 @@
 			<div class="bigspacer"></div>
 			<div class="head">Papers</div>
 			<div class="spacer"></div>
+			<ol>
 			{% for paper in site.categories.papers %}
 				{% if paper.authors contains lastname %}
 					{% if paper.embargo %}
@@ -188,6 +189,7 @@
 					{% endif %}
 				{% endif %}
 			{% endfor %}
+			</ol>
 		{% endif %}		
 		
 		{% for post in site.categories.blog %}
