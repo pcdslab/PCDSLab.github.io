@@ -31,7 +31,8 @@ Dr. Almuqhim’s work contributes to:
 - Site-robust neuroimaging biomarkers
 - Self-supervised learning applications in brain disorders
 
-We congratulate Dr. Almuqhim on this major milestone and look forward to his continued impact in AI-driven neuroimaging research.
+
+We congratulate Dr. Almuqhim on this major milestone and look forward to his continued impact in AI-driven neuroimaging research. He has recently joined the faculty at Imam Mohammad Ibn Saud Islamic University in Saudi Arabia.
 
 ![Almuqhim's Committee Members](/assets/images/news/almuqhim-defense.jpg)
 
