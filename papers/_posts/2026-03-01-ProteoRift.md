@@ -15,7 +15,7 @@ tags: [journal]
 
 # Text
 fulltext: https://www.nature.com/articles/s41598-026-43215-2
-pdf: 
+pdf: https://www.nature.com/articles/s41598-026-43215-2.pdf
 pdflink:
 pmcid:
 preprint: 

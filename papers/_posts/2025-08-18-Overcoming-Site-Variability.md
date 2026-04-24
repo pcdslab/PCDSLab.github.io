@@ -23,7 +23,7 @@ supplement:
 
 # Links
 doi: 10.1007/s12021-025-09746-1
-pmid:
+pmid: https://pmc.ncbi.nlm.nih.gov/articles/PMC13105160/
 
 # Data and code
 github: [https://github.com/pcdslab/Autoencoder-fMRI-Harmonization]
