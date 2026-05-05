@@ -1,7 +1,7 @@
 ---
 layout: project
 title: ProteoRift
-contributors: [Prof-S, usman]
+contributors: [Prof-S, usman, bilals08]
 handle: ML-MS-ProteoRift
 status: analysis
 type: software
@@ -16,6 +16,7 @@ tags: [software]
 
 # Data and code
 github: ["https://github.com/pcdslab/ProteoRift", "https://github.com/pcdslab/SpeCollate"]
+huggingface: https://huggingface.co/SaeedLab/ProteoRift
 neurovault:
 openneuro:
 figshare:
@@ -33,4 +34,4 @@ The development of such end-to-end pipelines will enable proteomics scientists t
 
 ## Status 
 
-The method development for this work is on going
+The method development for this work is complete.

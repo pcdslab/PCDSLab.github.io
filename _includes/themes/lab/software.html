@@ -52,6 +52,19 @@
 			<div class="bigspacer"></div>
 		{% endif %}
 
+		{% if page.huggingface %}
+			<div class="smallhead subtle">
+				HuggingFace
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-cube fa-fw" style="color: #FFD21E;"></i>
+				<a class="off" href="{{ page.huggingface }}">{{ page.huggingface | remove: 'https://huggingface.co/' }}</a>
+				<div class="smallspacer"></div>
+			</div>
+			<div class="bigspacer"></div>
+		{% endif %}
+
 		{% if page.openneuro or page.neurovault or page.figshare %}
 			<div class="smallhead subtle">
 				Data
