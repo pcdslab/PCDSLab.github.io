@@ -16,7 +16,7 @@ tags: [software]
 
 # Data and code
 github: ["https://github.com/pcdslab/ProteoRift", "https://github.com/pcdslab/SpeCollate"]
-huggingface: https://huggingface.co/SaeedLab/ProteoRift
+huggingface: ["https://huggingface.co/SaeedLab/ProteoRift","https://huggingface.co/SaeedLab/SpeCollate"]
 neurovault:
 openneuro:
 figshare:
