@@ -3,7 +3,7 @@ layout: project
 title: ASD-AE-Harmonization
 contributors: [Prof-S, falmuqhim]
 handle: AE-fMRI-Harmonization
-status: complete
+status: analysis
 
 
 # Optional
