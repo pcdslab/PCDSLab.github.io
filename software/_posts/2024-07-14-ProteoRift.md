@@ -1,6 +1,6 @@
 ---
 layout: project
-title: ProteoRift
+title: SpeCollate & ProteoRift
 contributors: [Prof-S, usman, bilals08]
 handle: ML-MS-ProteoRift
 status: analysis
