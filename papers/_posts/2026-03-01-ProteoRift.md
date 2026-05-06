@@ -27,6 +27,7 @@ pmid:
 
 # Data and code
 github: [https://github.com/pcdslab/ProteoRift]
+huggingface: ["https://huggingface.co/SaeedLab/ProteoRift"]
 neurovault:
 openneuro: []
 figshare:
