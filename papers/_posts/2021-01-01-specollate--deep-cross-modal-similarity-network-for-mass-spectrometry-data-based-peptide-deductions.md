@@ -26,7 +26,9 @@ doi: "10.1371/journal.pone.0259349"
 pmid:
 
 # Data and code
-github: []
+github: [https://github.com/pcdslab/SpeCollate]
+huggingface: ["https://huggingface.co/SaeedLab/SpeCollate"]
+
 neurovault:
 openneuro: []
 figshare:
