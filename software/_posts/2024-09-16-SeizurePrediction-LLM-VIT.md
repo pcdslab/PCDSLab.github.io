@@ -4,7 +4,7 @@ title: UtilLLM_EPS
 contributors: [Paras1242, umairmy305, Prof-S]
 handle: UtilLLM_EPS
 status: analysis
-
+type: software
 
 # Optional
 website: 
