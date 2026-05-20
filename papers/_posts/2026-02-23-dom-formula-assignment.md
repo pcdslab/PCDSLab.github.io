@@ -27,6 +27,7 @@ pmid:
 
 # Data and code
 github: [https://github.com/pcdslab/dom-formula-assignment-using-ml]
+huggingface: [https://huggingface.co/datasets/SaeedLab/dom-formula-assignment-data]
 neurovault:
 openneuro: []
 figshare:
