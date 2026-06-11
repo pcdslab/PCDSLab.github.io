@@ -4,21 +4,21 @@ title: "MolDeBERTa: Foundational Model for Physicochemical and Structural-Inform
 nickname: MolDeBERTa-paper
 authors: "Oliveira, Gabriel Bianchin; Saeed, Fahad;"
 year: "2026"
-journal: 
+journal: Proceedings of Workshop on Data Mining in Bioinformatics (BIOKDD) 
 volume: 
 issue: 
 pages: 
-is_published: False
-image: /assets/images/papers/biorxiv.png
+is_published: True
+image: /assets/images/papers/KDD-logo.png
 projects: [ML-molecular-protein-representation]
-tags: [preprint]
+tags: []
 
 # Text
-fulltext: https://www.biorxiv.org/content/10.64898/2026.02.15.706011v1
-pdf:
-pdflink: https://www.biorxiv.org/content/10.64898/2026.02.15.706011v1.full.pdf
+fulltext: https://www.biorxiv.org/content/10.64898/2026.02.15.706011v2
+pdf: https://www.biorxiv.org/content/10.64898/2026.02.15.706011v2.full.pdf
+pdflink: 
 pmcid:
-preprint:  
+preprint:  https://www.biorxiv.org/content/10.64898/2026.02.15.706011v1
 supplement:
 
 # Links
@@ -27,6 +27,7 @@ pmid:
 
 # Data and code
 github: [https://github.com/pcdslab/MolDeBERTa]
+huggingface: ["https://huggingface.co/datasets/SaeedLab/MolDeBERTa"]
 neurovault:
 openneuro: []
 figshare:
