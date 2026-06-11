@@ -27,7 +27,7 @@ pmid:
 
 # Data and code
 github: [https://github.com/pcdslab/MolDeBERTa]
-huggingface: ["https://huggingface.co/datasets/SaeedLab/MolDeBERTa"]
+huggingface: ["https://huggingface.co/collections/SaeedLab/moldeberta"]
 neurovault:
 openneuro: []
 figshare:
