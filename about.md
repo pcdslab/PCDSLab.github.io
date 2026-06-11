@@ -13,7 +13,7 @@ tags: []
 # Contact
 
 ## Mailing Address
-Lab: CASE 261 MMC Campus FIU<br/>
+Lab: Innovation Complex (INV 205, INV 315) MMC Campus FIU<br/>
 11200 SW 8th St, <br/>
 Miami, FL 33199, USA
 
