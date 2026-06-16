@@ -13,7 +13,7 @@ osf: 3k6mj
 figshare: Saeed_Lab/19508632
 dataverse: Saeed-Lab
 image: /assets/images/team/Saeed_pic_resized.jpg
-cv: [Saeed-CV](https://docs.google.com/document/d/1rvk2fcb8azGTJRbqlLrBLD4hQ1N8-w7j/edit?usp=sharing&ouid=117002594522629941409&rtpof=true&sd=true)
+cv: /assets/pdfs/CV_Saeed.pdf
 alum: false
 ---
 **Short Bio**
