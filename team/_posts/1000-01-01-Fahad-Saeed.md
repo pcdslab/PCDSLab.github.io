@@ -95,7 +95,8 @@ Prof. Saeed has been awarded over <b>US$ 6.85 million</b> in external research f
 2. Office of Vice President of Research,Western Michigan University (WMU) [<b>US$ 129,570</b>], "Scalable Algorithms for Big Proteogenomics Data Analytics" Fahad Saeed (PI), April 2017 - April 2020<br>
 1. College and Engineering and Applied Science (CEAS), Western Michigan University (WMU) [<b>US$ 41,650</b>], "Developing HPC solutions to big fMRI data" Fahad Saeed (PI), April 2017 - June 2018</span></p>
 
-<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Arial; -webkit-text-stroke: #000000"><span class="s1"><b>Recent Media Coverage</b><b></b></span></h2>
+**Recent Media Coverage**
+
 <ol class="ol1">
   <li class="li4"><span class="s16"></span><span class="s1">"Wearable devices could help predict seizures", </span><span class="s17"><b>FIU News</b></span><span class="s1">, August 2022 <a href="https://news.fiu.edu/2022/seizure-prediction-fiu-researchers-work-to-improve-lives-for-epileptics"><span class="s14">Article Link</span></a></span></li>
   <li class="li4"><span class="s16"></span><span class="s1">"NIH Awards FIU $1M to Develop Machine Learning Algorithms to Study Proteins", </span><span class="s17"><b>HPC Wire</b></span><span class="s1">, June 2020 <a href="https://www.hpcwire.com/off-the-wire/nih-awards-fiu-1m-to-develop-machine-learning-algorithms-to-study-proteins/"><span class="s14">Article Link</span></a></span></li>
