@@ -8,10 +8,10 @@ journal: BioArxiv
 volume: 
 issue: 
 pages: 
-is_published: True
+is_published: False
 image: /assets/images/papers/biorxiv.png
 projects: [ML-molecular-protein-representation]
-tags: []
+tags: [preprint]
 
 # Text
 fulltext: 
