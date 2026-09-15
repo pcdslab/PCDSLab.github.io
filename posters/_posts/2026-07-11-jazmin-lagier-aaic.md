@@ -5,7 +5,7 @@ nickname: aaic-gat-ad-2026
 authors: "Jazmin Lagier; Fahad Saeed"
 year: "2026"
 conference: "AAIC-2026"
-image: /assets/images/posters/AAIC-2026-Jazmin-Lagier.png
+image: /assets/images/posters/AAIC_2026_poster.png
 projects: ["AD-GNN"]
 tags: []
 
