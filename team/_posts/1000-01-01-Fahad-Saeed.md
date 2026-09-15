@@ -59,7 +59,7 @@ BSc Engg, Electrical Engineering, University of Engineering and Technology, Laho
 
 **External Research Funds**
 
-Prof. Saeed has been awarded over <b>US$ 6.85 million</b> in external research funds - with more than <b>US$ 5.45 million</b> as a PI since 2014 (approx. US$ 700k per year). Most of the external research funds are competitively awarded from Federal Agencies such as National Science Foundation (NSF) and National Institutes of Health (NIH). Intramural funds and computing allocations are not included in this amount.
+Prof. Saeed has been awarded over <b>US$ 7.43 million</b> in external research funds - with more than <b>US$ 6.05 million</b> as a PI since 2014 (approx. US$ 700k per year). Most of the external research funds are competitively awarded from Federal Agencies such as National Science Foundation (NSF) and National Institutes of Health (NIH). Intramural funds and computing allocations are not included in this amount.
 
 18. National Science Foundation (NSF) IIS-2530255 **[US$ 600,000]**, “Collaborative Research: CISE-ANR:III: Small: Leveraging External Data for Enhanced Understanding and Causal Attribution of Anomalies in Wastewater Networks”, Fahad Saeed (PI), with Kamal Premaratne (univ. Of Miami) and Helena Solo-Gabriele (Univ. of Miami),  Benferhat Salem (Artois University, France), DELENNE Carole (Université de Montpellier France), and Nanee Chahinian (Aix Marseille University (Polytech Marseille/IUSTI)), Feb 2026 - Jan 2029 (combined funding of US$1.2 Million with 600k from French ANR, and 600k from NSF) [NSF Award Page](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2530255)
 17. National Institutes of Health (NIH) R35GM153434 <b>[US$ 1.75 million]</b>, “Machine­ Learning Models for big data omics”, Fahad Saeed (PI), June 2024 ­- June 2029 (single PI grant: MIRA R35 Outstanding Investigator mechanism) [NIH Award Page](https://reporter.nih.gov/project-details/10842826)
@@ -81,7 +81,8 @@ Prof. Saeed has been awarded over <b>US$ 6.85 million</b> in external research f
 2. National Science Foundation (NSF) CCF-1464268 <b>[US$ 171,341]</b>, "CRII: SHF: HPC Solutions to Big NGS Data Compression" <b>Fahad Saeed (PI)</b>, (Feb 2015 - Feb 2018 [NSF Award Page](https://nsf.gov/awardsearch/showAward?AWD_ID=1464268&amp;HistoricalAwards=false)
 1. National Science Foundation (NSF) CNS-1250264 <b>[US$ 200,000]</b>, "EAGER: High Performance Algorithms and Implementations for Biological Sequence Analysis and Genome Alignment" Ashfaq Khokhar, <b>Fahad Saeed (Co-PI)</b> (Sept 2012 - Aug 2015) [NSF Award Page](https://nsf.gov/awardsearch/showAward?AWD_ID=1250264&amp;HistoricalAwards=false)
 <br>
-</span><span class="s2"><b>Equipment/Computing Allocations</b></span><span class="s1"> <br>
+
+**Equipment and Computing Allocations**
 12. Xilinx [<b>US$ 13,195</b>]}, ``Design and development of FPGA based MS omics pipeline", <b>Fahad Saeed(PI)</b> (Equipment Grant, Versal AI Core EK-VCK190-G FPGA), March 2022 <br>
 11. NSF XSEDE Extended Collaborative Support Service (ECSS) [<b>US$ 50,000,</b>], ``DeepSNAP: Scalable Machine Learning for Mass Spectrometry based Proteomics", Fahad Saeed (PI), (Jan 2021 - Dec 2021)<br>
 10. National Science Foundation XSEDE ASC200004 [125,000.0 Service Units (SU)/10,000.0 GB SDSC Medium-term disk storage (Data Oasis)/10,000.0 GPU Hours/75,000 Core hours on Clusters: <b>US$ 43,161.42</b>], ``DeepSNAP: Scalable Machine Learning for Mass Spectrometry based Proteomics", Fahad Saeed (PI), (Jan 2021 - Dec 2021)<br>
@@ -94,7 +95,8 @@ Prof. Saeed has been awarded over <b>US$ 6.85 million</b> in external research f
 3. National Science Foundation XSEDE startup grant TG-CCR150017 [30,000 Service Units (SU)], "Scalability study of compression algorithms for peta scale NGS data" Fahad Saeed (PI), (June 2015 - June 2016)<br>
 2. Intel Altera <b>[US$ 16,000]</b>, "Short Reads mapping to the genome using reconfigurable hardware" Fahad Saeed(PI) (Equipment Grant, 2 DE5-NET-450 FPGA's), April 2014<br>
 1. NVIDIA <b>[US$ 5499]</b>, "High Performance Algorithms for Genome Alignments" Fahad Saeed (PI) (Equipment Grant for Tesla K40 GPU), Feb 2014<br>
-</span><span class="s2"><b>Intramural Grants</b></span><span class="s1"> <br>
+
+**Intramural Grants**
 2. Office of Vice President of Research,Western Michigan University (WMU) [<b>US$ 129,570</b>], "Scalable Algorithms for Big Proteogenomics Data Analytics" Fahad Saeed (PI), April 2017 - April 2020<br>
 1. College and Engineering and Applied Science (CEAS), Western Michigan University (WMU) [<b>US$ 41,650</b>], "Developing HPC solutions to big fMRI data" Fahad Saeed (PI), April 2017 - June 2018</span></p>
 
