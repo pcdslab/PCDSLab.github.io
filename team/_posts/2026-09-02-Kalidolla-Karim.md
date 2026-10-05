@@ -9,7 +9,7 @@ twitter:
 github: "KarimSmash-Charka"
 scholar:
 orcid: "0009-0000-7817-5909"
-image: /assets/images/team/karim-kalidolla.png
+image: /assets/images/team/Kalidolla_picture.jpg
 alum: false
 ---
 Karim is a [DS & AI] undergraduate student.
