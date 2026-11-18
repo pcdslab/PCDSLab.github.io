@@ -4,7 +4,7 @@ title: "BindScreen: Protein-Centric Contrastive Learning for Sequence-Based Virt
 nickname: bindscreen-paper
 authors: "Oliveira, Gabriel Bianchin; Saeed, Fahad;"
 year: "2026"
-journal: Bioinformatics Advances
+journal: Oxford Bioinformatics Advances
 volume: 
 issue: 
 pages: 
