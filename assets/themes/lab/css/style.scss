@@ -211,7 +211,10 @@ strong {
 }
 
 .paper-image {
-	width: 200px;
+	/*width: 200px;*/
+	max-width: 250px !important; /* Increase this width to make the thumbnail larger (e.g., 200px, 300px, etc.) */
+    width: 100%;                 /* Ensures it scales responsively */
+    height: auto;                /* Maintains original aspect ratio */
 }
 
 // carousel
