@@ -22,7 +22,7 @@ preprint:  https://www.biorxiv.org/content/10.64898/2026.08.24.746801v1.full
 supplement:
 
 # Links
-doi: 
+doi: https://doi.org/10.1093/bioadv/vbag350
 pmid:
 
 # Data and code
